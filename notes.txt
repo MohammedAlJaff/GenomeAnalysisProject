@@ -1,0 +1,3 @@
+april 4
+  to do:
+    review how Illiumina sequencing is done.
