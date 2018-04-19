@@ -9,3 +9,49 @@ Your project plan should address at least the following points:
 ● What types of data will you be handling? How much space do you need in order to store those data? (You might not know that in advance, but pay attention to this as you work and manage your available space!)
 
 ● How will you organize your data? (see “Project Organization”)
+
+________________________________________________________________________________
+
+ARTICLE (FROM STUDENT MANUAL) ANALYSIS GOALS
+Illumina, PacBio, Nanopore, Genome Assembly, RNA-Seq, Tn-Seq, Differential Expression
+
+The main analyses included in this study are:
+
+1.  Genome assembly on  E. faecium
+
+2. Differential gene expression of  E. faecium  on human serum against rich medium
+using RNA-Seq data.
+
+3. Identification of genes that contribute to survival and growth in human serum using Tn-Seq data.
+
+
+--------------------------------------------------------------------------------
+Basic analyses:
+
+0. Read quality control of reads (PacBio Reads)
+  software: CANU alt FastQC
+  #Apparently, FastQC checks the quality of short reads,
+  Q: does this work for pacbio reads too?
+  ans: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ says fastqc can deall with pacbio reads too.
+
+1. Assemble the genome of E.falicious
+    sowftare: CANU using only the PacBio reads.
+
+2. Perform a quality evaluation of the assembly
+    Sowftare used: BCFtools or MUMmerplot
+
+
+3.  Structural and functional annotation.
+    Sowfware: Prokka alt eggNOGmapper
+
+
+4.  Synteny comparison with a closely related genome.
+
+
+5.  RNA-Seq reads alignment against assembled genome.
+
+
+6.  Differential expression analysis between rich medium and heat-inactivated serum conditions.
+
+
+--------------------------------------------------------------------------------

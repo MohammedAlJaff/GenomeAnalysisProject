@@ -1,3 +1,16 @@
-april 4
+april 10
   to do:
     review how Illiumina sequencing is done.
+
+
+--------------------------------------------------------------------------------
+april 10
+
+  pipeline DRAFT
+
+  genome assembly using only PACBIO reads - CANU
+--------------------------------------------------------------------------------
+
+april 19
+
+  
