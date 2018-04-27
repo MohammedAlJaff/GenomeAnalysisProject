@@ -7,10 +7,19 @@ april 10
 april 10
 
   pipeline DRAFT
-
   genome assembly using only PACBIO reads - CANU
 --------------------------------------------------------------------------------
 
 april 19
 
-  
+  ToDo's:
+
+  Design steps -
+  chose software for all steps -
+  estimate time for all runs -
+
+  --------
+  notes:
+
+  Q: does this work for pacbio reads too?
+  Ans: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ says fastqc can deall with pacbio reads too.

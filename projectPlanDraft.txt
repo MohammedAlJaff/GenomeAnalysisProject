@@ -31,19 +31,20 @@ using RNA-Seq data.
 
 Basic analyses:
 
-0. Read quality control of reads (PacBio Reads)
-  software: CANU alt FastQC
-  #Apparently, FastQC checks the quality of short reads,
-  Q: does this work for pacbio reads too?
-  ans: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ says fastqc can deall with pacbio reads too.
+0. Read quality control of reads - PacBio Reads, DNA seqs from illumina RNA seqs.
+
+  software: CANU alt FastQ.
+  
 
 1. Assemble the genome of E.falicious
     sowftare: CANU using only the PacBio reads.
     Estimated Run time: 5h
 
+
 2. Perform a quality evaluation of the assembly
     Sowftare used: BCFtools, Quast or MUMmerplot
     Estimated Run time: 90min (bcf), 15min (quast),
+
 
 3.  Structural and functional annotation.
     Sowfware: Prokka alt eggNOGmapper
