@@ -2,8 +2,8 @@
 
 #SBATCH -A g2018003
 #SBATCH -p core
-#SBATCH -n 4
-#SBATCH -t 7:00:00
+#SBATCH -n 2
+#SBATCH -t 8:00:00
 #SBATCH -J pacbio_genome_assembly
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user Mohammad.Al-Jaff.5978@student.uu.se
