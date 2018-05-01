@@ -34,7 +34,7 @@ Basic analyses:
 0. Read quality control of reads - PacBio Reads, DNA seqs from illumina RNA seqs.
 
   software: CANU alt FastQ.
-  
+
 
 1. Assemble the genome of E.falicious
     sowftare: CANU using only the PacBio reads.
