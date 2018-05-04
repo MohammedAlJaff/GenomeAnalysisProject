@@ -1,0 +1,62 @@
+/sw/apps/bioinfo/quast/4.5.4/rackham/bin/quast.py -o /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/ /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/pacbio_assembly/e_faecium.contigs.fasta
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-693.21.1.el7.x86_64-x86_64-with-centos-7.4.1708-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2018-05-04 14:56:05
+
+Logging to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /pica/h1/mohamma/genome_analysis/GenomeAnalysisProject
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/pacbio_assembly/e_faecium.contigs.fasta ==> e_faecium.contigs
+
+2018-05-04 14:56:21
+Running Basic statistics processor...
+  Contig files: 
+    e_faecium.contigs
+  Calculating N50 and L50...
+    e_faecium.contigs, N50 = 2773606, L50 = 1, Total length = 3127049, GC % = 37.79, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/basic_stats/GC_content_plot.pdf
+  Drawing e_faecium.contigs GC content plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/basic_stats/e_faecium.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-05-04 14:56:24
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-05-04 14:56:26
+RESULTS:
+  Text versions of total report are saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/report.html
+  PDF version (tables and plots) is saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/report.pdf
+  Icarus (contig browser) is saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/icarus.html
+  Log saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_pacbio_assembly_eval/quast.log
+
+Finished: 2018-05-04 14:56:26
+Elapsed time: 0:00:20.653247
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
