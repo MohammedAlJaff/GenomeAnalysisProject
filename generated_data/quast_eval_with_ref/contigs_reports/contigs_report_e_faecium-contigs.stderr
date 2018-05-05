@@ -1,0 +1,5 @@
+Writing filtered delta file /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.filter
+Reading delta file /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.delta
+Writing plot files /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.fplot, /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.rplot
+Writing gnuplot script /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.gp
+Rendering plot /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.html
