@@ -1,0 +1,137 @@
+/sw/apps/bioinfo/quast/4.5.4/rackham/bin/quast.py -o /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/ -R /home/mohamma/genome_analysis/GenomeAnalysisProject/ref_genome_zhang/ref_genome.fasta /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/pacbio_assembly/e_faecium.contigs.fasta
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-693.21.1.el7.x86_64-x86_64-with-centos-7.4.1708-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2018-05-05 02:23:09
+
+Logging to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/quast.log
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /pica/h1/mohamma/genome_analysis/GenomeAnalysisProject
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/mohamma/genome_analysis/GenomeAnalysisProject/ref_genome_zhang/ref_genome.fasta ==> ref_genome
+
+Contigs:
+  Pre-processing...
+  /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/pacbio_assembly/e_faecium.contigs.fasta ==> e_faecium.contigs
+
+2018-05-05 02:23:22
+Running Basic statistics processor...
+  Reference genome:
+    ref_genome.fasta, length = 3168410, num fragments = 7, GC % = 37.70
+  Contig files: 
+    e_faecium.contigs
+  Calculating N50 and L50...
+    e_faecium.contigs, N50 = 2773606, L50 = 1, Total length = 3127049, GC % = 37.79, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/basic_stats/GC_content_plot.pdf
+  Drawing e_faecium.contigs GC content plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/basic_stats/e_faecium.contigs_GC_content_plot.pdf
+Done.
+
+2018-05-05 02:23:26
+Running Contig analyzer...
+  e_faecium.contigs
+  Logging to files /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stdout and contigs_report_e_faecium-contigs.stderr...
+  Aligning contigs to the reference
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/nucmer \
+  -c 65 -l 65 --maxmatch -p /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs \
+  --emem -t 5 /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/quast_corrected_input/ref_genome.fasta \
+  /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/quast_corrected_input/e_faecium-contigs.fasta \
+  >> /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stdout \
+  2>> /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/delta-filter \
+  -i 95.0 -l 0 /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.delta \
+  > /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.fdelta \
+  2> /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/mummerplot \
+  --html --layout -p /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs \
+  /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.delta \
+  > /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stdout \
+  2> /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/gnuplot/src/gnuplot \
+  /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.gp \
+  > /dev/null 2> /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stderr
+  MUMmer plot saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/e_faecium-contigs_mummerplot.html
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-coords \
+  /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.delta \
+  > /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.coords_tmp \
+  2> /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stderr
+  /sw/apps/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-snps \
+  -S -T -H /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.delta \
+  < /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.coords.headless \
+  > /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.all_snps \
+  2> /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/contigs_report_e_faecium-contigs.stderr
+  Analysis is finished.
+
+  Gzipping /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.all_snps to reduce disk space usage...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/nucmer_output/e_faecium-contigs.all_snps.gz
+  Creating total report...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2018-05-05 02:23:38
+Running NA-NGA calculation...
+  e_faecium.contigs, Largest alignment = 2195340, NA50 = 2195340, NGA50 = 2195340, LA50 = 1, LGA50 = 1
+  Drawing cumulative plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/aligned_stats/NGAx_plot.pdf
+Done.
+
+2018-05-05 02:23:40
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  e_faecium.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-05-05 02:23:41
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-05-05 02:23:44
+RESULTS:
+  Text versions of total report are saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/report.html
+  PDF version (tables and plots) is saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/report.pdf
+  Icarus (contig browser) is saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/icarus.html
+  Log saved to /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/quast_eval_with_ref/quast.log
+
+Finished: 2018-05-05 02:23:44
+Elapsed time: 0:00:35.574857
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

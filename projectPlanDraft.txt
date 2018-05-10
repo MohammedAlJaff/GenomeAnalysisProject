@@ -1,0 +1,63 @@
+Your project plan should address at least the following points:
+
+● What is the aim of your project? What question(s) do you want to answer with your research?
+
+● What type of analyses will you perform in order to answer these questions? And in which order? Which softwares will you use? Are there any time bottlenecks? If so, can you identify any analyses that will require longer times?
+
+● What is the time frame for your project? Can you define some time checkpoints for when you should have finished certain analyses? When do you need to have finished running all the softwares so you can start to analyze the data?
+
+● What types of data will you be handling? How much space do you need in order to store those data? (You might not know that in advance, but pay attention to this as you work and manage your available space!)
+
+● How will you organize your data? (see “Project Organization”)
+
+________________________________________________________________________________
+
+ARTICLE (FROM STUDENT MANUAL) ANALYSIS GOALS
+Illumina, PacBio, Nanopore, Genome Assembly, RNA-Seq, Tn-Seq, Differential Expression
+
+The main analyses included in this study are:
+
+1.  Genome assembly on  E. faecium
+
+2. Differential gene expression of  E. faecium  on human serum against rich medium
+using RNA-Seq data.
+
+3. Identification of genes that contribute to survival and growth in human serum using Tn-Seq data.
+
+
+--------------------------------------------------------------------------------
+
+
+
+Basic analyses:
+
+0. Read quality control of reads - PacBio Reads, DNA seqs from illumina RNA seqs.
+
+  software: CANU alt FastQ.
+
+
+1. Assemble the genome of E.falicious
+    sowftare: CANU using only the PacBio reads.
+    Estimated Run time: 5h
+
+
+2. Perform a quality evaluation of the assembly
+    Sowftare used: BCFtools, Quast or MUMmerplot
+    Estimated Run time: 90min (bcf), 15min (quast),
+
+
+3.  Structural and functional annotation.
+    Sowfware: Prokka alt eggNOGmapper
+
+
+4.  Synteny comparison with a closely related genome.
+
+
+5.  RNA-Seq reads alignment against assembled genome.
+    Software: BWA
+
+6.  Differential expression analysis between rich medium and heat-inactivated serum conditions.
+    Software: Deseq2
+
+
+--------------------------------------------------------------------------------
