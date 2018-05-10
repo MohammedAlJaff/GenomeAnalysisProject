@@ -23,3 +23,11 @@ april 19
 
   Q: does this work for pacbio reads too?
   Ans: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ says fastqc can deall with pacbio reads too.
+
+
+---------------
+maj 10
+
+issues with mummer 3: can't find a way to open either .gp or .ps scripts
+
+BIG FUCKING ISSUE: My Pacbio assembly is gone! Dont know what to do. Re submitting the pacbio assembly
