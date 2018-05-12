@@ -1,0 +1,3197 @@
+locus_tag	ftype	gene	EC_number	product
+NJECIDAE_00001	CDS			hypothetical protein
+NJECIDAE_00002	CDS	nhaC_1		Na(+)/H(+) antiporter NhaC
+NJECIDAE_00003	CDS	nhaC_2		Na(+)/H(+) antiporter NhaC
+NJECIDAE_00004	CDS	abgB_1	3.5.1.-	p-aminobenzoyl-glutamate hydrolase subunit B
+NJECIDAE_00005	CDS	metQ_1		D-methionine-binding lipoprotein MetQ
+NJECIDAE_00006	CDS	metP_1		Methionine import system permease protein MetP
+NJECIDAE_00007	CDS	metN_1	3.6.3.-	Methionine import ATP-binding protein MetN
+NJECIDAE_00008	CDS			hypothetical protein
+NJECIDAE_00009	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+NJECIDAE_00010	CDS	mgtA	3.6.3.2	Magnesium-transporting ATPase, P-type 1
+NJECIDAE_00011	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+NJECIDAE_00012	CDS			hypothetical protein
+NJECIDAE_00013	CDS	ltaS1_1		Lipoteichoic acid synthase 1
+NJECIDAE_00014	CDS			hypothetical protein
+NJECIDAE_00015	CDS	gmuD_1	3.2.1.86	6-phospho-beta-glucosidase GmuD
+NJECIDAE_00016	CDS	rbsR		Ribose operon repressor
+NJECIDAE_00017	CDS			hypothetical protein
+NJECIDAE_00018	CDS			hypothetical protein
+NJECIDAE_00019	CDS		2.7.1.113	Deoxyguanosine kinase
+NJECIDAE_00020	CDS	DNPH1	3.2.2.-	2'-deoxynucleoside 5'-phosphate N-hydrolase 1
+NJECIDAE_00021	CDS	yvdD		LOG family protein YvdD
+NJECIDAE_00022	CDS			hypothetical protein
+NJECIDAE_00023	CDS	fruA_1		PTS system fructose-specific EIIB'BC component
+NJECIDAE_00024	CDS	mngR		Mannosyl-D-glycerate transport/metabolism system repressor MngR
+NJECIDAE_00025	CDS	bglH_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+NJECIDAE_00026	CDS	bglF_1		PTS system beta-glucoside-specific EIIBCA component
+NJECIDAE_00027	CDS			hypothetical protein
+NJECIDAE_00028	CDS	licT_1		Transcription antiterminator LicT
+NJECIDAE_00029	CDS			hypothetical protein
+NJECIDAE_00030	CDS			hypothetical protein
+NJECIDAE_00031	CDS	ytcD		putative HTH-type transcriptional regulator YtcD
+NJECIDAE_00032	CDS			hypothetical protein
+NJECIDAE_00033	CDS			hypothetical protein
+NJECIDAE_00034	CDS			hypothetical protein
+NJECIDAE_00035	CDS			hypothetical protein
+NJECIDAE_00036	CDS			hypothetical protein
+NJECIDAE_00037	CDS			hypothetical protein
+NJECIDAE_00038	CDS		2.7.1.-	Putative lipid kinase
+NJECIDAE_00039	CDS			hypothetical protein
+NJECIDAE_00040	CDS	prsA_1	5.2.1.8	Foldase protein PrsA
+NJECIDAE_00041	CDS			hypothetical protein
+NJECIDAE_00042	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+NJECIDAE_00043	CDS			hypothetical protein
+NJECIDAE_00044	CDS			hypothetical protein
+NJECIDAE_00045	CDS			hypothetical protein
+NJECIDAE_00046	CDS			hypothetical protein
+NJECIDAE_00047	CDS	hsdR_1	3.1.21.3	Type-1 restriction enzyme R protein
+NJECIDAE_00048	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+NJECIDAE_00049	CDS			hypothetical protein
+NJECIDAE_00050	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+NJECIDAE_00051	CDS			hypothetical protein
+NJECIDAE_00052	CDS			hypothetical protein
+NJECIDAE_00053	CDS			hypothetical protein
+NJECIDAE_00054	CDS			hypothetical protein
+NJECIDAE_00055	CDS			hypothetical protein
+NJECIDAE_00056	CDS			hypothetical protein
+NJECIDAE_00057	CDS			hypothetical protein
+NJECIDAE_00058	CDS			hypothetical protein
+NJECIDAE_00059	CDS	Int-Tn_1		Transposase from transposon Tn916
+NJECIDAE_00060	CDS	sufB_1		FeS cluster assembly protein SufB
+NJECIDAE_00061	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+NJECIDAE_00062	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+NJECIDAE_00063	CDS	sufB_2		FeS cluster assembly protein SufB
+NJECIDAE_00064	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_00065	CDS	metQ_2		Methionine-binding lipoprotein MetQ
+NJECIDAE_00066	CDS	metP_2		Methionine import system permease protein MetP
+NJECIDAE_00067	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+NJECIDAE_00068	CDS	gcvH		Glycine cleavage system H protein
+NJECIDAE_00069	CDS	mgsR		Regulatory protein MgsR
+NJECIDAE_00070	CDS	rodA	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+NJECIDAE_00071	CDS	cysL		HTH-type transcriptional regulator CysL
+NJECIDAE_00072	CDS			hypothetical protein
+NJECIDAE_00073	CDS			hypothetical protein
+NJECIDAE_00074	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+NJECIDAE_00075	CDS	yfdH	2.4.1.-	Prophage bactoprenol glucosyl transferase 
+NJECIDAE_00076	CDS	topB_1	5.99.1.2	DNA topoisomerase 3
+NJECIDAE_00077	CDS			hypothetical protein
+NJECIDAE_00078	CDS			hypothetical protein
+NJECIDAE_00079	CDS	yjhB_1		Putative metabolite transport protein YjhB
+NJECIDAE_00080	CDS	vioD	4.2.1.145	Capreomycidine synthase
+NJECIDAE_00081	CDS	arcD1_1		Arginine/ornithine antiporter ArcD1
+NJECIDAE_00082	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+NJECIDAE_00083	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NJECIDAE_00084	CDS			hypothetical protein
+NJECIDAE_00085	CDS			hypothetical protein
+NJECIDAE_00086	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+NJECIDAE_00087	CDS	prs2	2.7.6.1	Ribose-phosphate pyrophosphokinase 2
+NJECIDAE_00088	CDS			hypothetical protein
+NJECIDAE_00089	CDS	pepO	3.4.24.-	Neutral endopeptidase
+NJECIDAE_00090	CDS	pelX	4.2.2.9	Pectate disaccharide-lyase
+NJECIDAE_00091	CDS	yecD_1	3.-.-.-	Isochorismatase family protein YecD
+NJECIDAE_00092	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+NJECIDAE_00093	CDS			hypothetical protein
+NJECIDAE_00094	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+NJECIDAE_00095	CDS			hypothetical protein
+NJECIDAE_00096	CDS			TelA-like protein
+NJECIDAE_00097	CDS	yhdG		putative amino acid permease YhdG
+NJECIDAE_00098	CDS	glcU_1		putative glucose uptake protein GlcU
+NJECIDAE_00099	CDS	graS	2.7.13.3	Sensor histidine kinase GraS
+NJECIDAE_00100	CDS	graR		Response regulator protein GraR
+NJECIDAE_00101	CDS			hypothetical protein
+NJECIDAE_00102	CDS			hypothetical protein
+NJECIDAE_00103	CDS			hypothetical protein
+NJECIDAE_00104	CDS			hypothetical protein
+NJECIDAE_00105	CDS			hypothetical protein
+NJECIDAE_00106	CDS			hypothetical protein
+NJECIDAE_00107	CDS	ybjG	3.6.1.27	Putative undecaprenyl-diphosphatase YbjG
+NJECIDAE_00108	CDS			hypothetical protein
+NJECIDAE_00109	CDS	araQ_1		L-arabinose transport system permease protein AraQ
+NJECIDAE_00110	CDS	lacF_1		Lactose transport system permease protein LacF
+NJECIDAE_00111	CDS	araN_1		putative arabinose-binding protein
+NJECIDAE_00112	CDS	ydbD	1.11.1.6	putative manganese catalase
+NJECIDAE_00113	CDS			hypothetical protein
+NJECIDAE_00114	CDS			hypothetical protein
+NJECIDAE_00115	CDS	mazF	3.1.27.-	Endoribonuclease MazF
+NJECIDAE_00116	CDS			hypothetical protein
+NJECIDAE_00117	CDS			hypothetical protein
+NJECIDAE_00118	CDS			hypothetical protein
+NJECIDAE_00119	CDS			hypothetical protein
+NJECIDAE_00120	CDS	acuR		Transcriptional regulator AcuR
+NJECIDAE_00121	CDS	yecD_2	3.-.-.-	Isochorismatase family protein YecD
+NJECIDAE_00122	CDS	rclA		putative pyridine nucleotide-disulfide oxidoreductase RclA
+NJECIDAE_00123	CDS	ohrB_1		Organic hydroperoxide resistance protein OhrB
+NJECIDAE_00124	CDS			hypothetical protein
+NJECIDAE_00125	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+NJECIDAE_00126	CDS	argR_1		Arginine repressor
+NJECIDAE_00127	CDS			hypothetical protein
+NJECIDAE_00128	CDS	ribZ_1		Riboflavin transporter RibZ
+NJECIDAE_00129	CDS	thiO	1.4.3.19	Glycine oxidase
+NJECIDAE_00130	CDS			hypothetical protein
+NJECIDAE_00131	CDS			hypothetical protein
+NJECIDAE_00132	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+NJECIDAE_00133	CDS			hypothetical protein
+NJECIDAE_00134	CDS	ssaB_1		Manganese ABC transporter substrate-binding lipoprotein
+NJECIDAE_00135	CDS	mntB_1		Manganese transport system membrane protein MntB
+NJECIDAE_00136	CDS	znuC_1	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+NJECIDAE_00137	CDS	yifK		putative transport protein YifK
+NJECIDAE_00138	CDS			hypothetical protein
+NJECIDAE_00139	CDS			hypothetical protein
+NJECIDAE_00140	CDS	ywrO	1.6.99.-	General stress protein 14
+NJECIDAE_00141	CDS	araC_1		Arabinose operon regulatory protein
+NJECIDAE_00142	CDS	lacS		Lactose permease
+NJECIDAE_00143	CDS	galM_1	5.1.3.3	Aldose 1-epimerase
+NJECIDAE_00144	CDS	galK_1	2.7.1.6	Galactokinase
+NJECIDAE_00145	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+NJECIDAE_00146	CDS			hypothetical protein
+NJECIDAE_00147	CDS			hypothetical protein
+NJECIDAE_00148	CDS			hypothetical protein
+NJECIDAE_00149	CDS			hypothetical protein
+NJECIDAE_00150	CDS	npr_1	1.11.1.1	NADH peroxidase
+NJECIDAE_00151	CDS	patA_1	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+NJECIDAE_00152	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+NJECIDAE_00153	CDS	yclM	2.7.2.4	Aspartokinase 3
+NJECIDAE_00154	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+NJECIDAE_00155	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NJECIDAE_00156	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+NJECIDAE_00157	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+NJECIDAE_00158	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+NJECIDAE_00159	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+NJECIDAE_00160	CDS	efp		Elongation factor P
+NJECIDAE_00161	CDS	cysM	2.5.1.47	Cysteine synthase
+NJECIDAE_00162	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+NJECIDAE_00163	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+NJECIDAE_00164	CDS	bsaA		Glutathione peroxidase BsaA
+NJECIDAE_00165	rRNA			5S ribosomal RNA
+NJECIDAE_00166	rRNA			23S ribosomal RNA
+NJECIDAE_00167	rRNA			16S ribosomal RNA
+NJECIDAE_00168	CDS	spxA_1		Regulatory protein Spx
+NJECIDAE_00169	CDS	spxA_2		Regulatory protein Spx
+NJECIDAE_00170	CDS	yjcD	3.6.4.12	Putative ATP-dependent DNA helicase YjcD
+NJECIDAE_00171	CDS			hypothetical protein
+NJECIDAE_00172	CDS		2.7.1.113	Deoxyguanosine kinase
+NJECIDAE_00173	CDS			hypothetical protein
+NJECIDAE_00174	CDS	agrB	3.4.-.-	Accessory gene regulator protein B
+NJECIDAE_00175	CDS			hypothetical protein
+NJECIDAE_00176	CDS			hypothetical protein
+NJECIDAE_00177	CDS	agrA_1		Accessory gene regulator A
+NJECIDAE_00178	CDS	znuA_1		High-affinity zinc uptake system binding-protein ZnuA
+NJECIDAE_00179	CDS	tqsA_1		AI-2 transport protein TqsA
+NJECIDAE_00180	CDS	treA	3.2.1.93	Trehalose-6-phosphate hydrolase
+NJECIDAE_00181	CDS			hypothetical protein
+NJECIDAE_00182	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_00183	CDS	yecD_3	3.-.-.-	Isochorismatase family protein YecD
+NJECIDAE_00184	CDS	degA_1		HTH-type transcriptional regulator DegA
+NJECIDAE_00185	CDS	rbsK/rbiA		Bifunctional ribokinase/ribose-5-phosphate isomerase A
+NJECIDAE_00186	CDS	rbsD	5.4.99.62	D-ribose pyranase
+NJECIDAE_00187	CDS	bglF_2		PTS system beta-glucoside-specific EIIBCA component
+NJECIDAE_00188	CDS			N-acetylmuramoyl-L-alanine amidase domain-containing protein
+NJECIDAE_00189	CDS	mro_1	5.1.3.3	Aldose 1-epimerase
+NJECIDAE_00190	CDS	bceB_1		Bacitracin export permease protein BceB
+NJECIDAE_00191	CDS	bceA_1		Bacitracin export ATP-binding protein BceA
+NJECIDAE_00192	CDS			hypothetical protein
+NJECIDAE_00193	CDS			hypothetical protein
+NJECIDAE_00194	CDS			hypothetical protein
+NJECIDAE_00195	CDS			hypothetical protein
+NJECIDAE_00196	CDS			hypothetical protein
+NJECIDAE_00197	CDS			hypothetical protein
+NJECIDAE_00198	CDS	ydfK		putative membrane protein YdfK
+NJECIDAE_00199	CDS	gltC_1		HTH-type transcriptional regulator GltC
+NJECIDAE_00200	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+NJECIDAE_00201	CDS	hssR		Heme response regulator HssR
+NJECIDAE_00202	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+NJECIDAE_00203	CDS			hypothetical protein
+NJECIDAE_00204	CDS	bsdC	4.1.1.-	Phenolic acid decarboxylase subunit C
+NJECIDAE_00205	CDS	ecdB	2.5.1.129	putative UbiX-like flavin prenyltransferase
+NJECIDAE_00206	CDS			hypothetical protein
+NJECIDAE_00207	CDS			hypothetical protein
+NJECIDAE_00208	CDS			hypothetical protein
+NJECIDAE_00209	CDS	emrB		Multidrug export protein EmrB
+NJECIDAE_00210	CDS			hypothetical protein
+NJECIDAE_00211	CDS			hypothetical protein
+NJECIDAE_00212	CDS	padC	4.1.1.-	Phenolic acid decarboxylase PadC
+NJECIDAE_00213	CDS	yjaB	2.3.1.-	putative N-acetyltransferase YjaB
+NJECIDAE_00214	CDS			hypothetical protein
+NJECIDAE_00215	CDS			hypothetical protein
+NJECIDAE_00216	CDS			hypothetical protein
+NJECIDAE_00217	CDS	mapP	3.1.3.90	Maltose 6'-phosphate phosphatase
+NJECIDAE_00218	CDS	ptsG_1	2.7.1.199	PTS system glucose-specific EIICBA component
+NJECIDAE_00219	CDS	malP	2.4.1.8	Maltose phosphorylase
+NJECIDAE_00220	CDS	pgmB	5.4.2.6	Beta-phosphoglucomutase
+NJECIDAE_00221	CDS	mro_2	5.1.3.3	Aldose 1-epimerase
+NJECIDAE_00222	CDS	ccpA_1		Catabolite control protein A
+NJECIDAE_00223	CDS	nhaC_3		Na(+)/H(+) antiporter NhaC
+NJECIDAE_00224	CDS	nhaC_4		Na(+)/H(+) antiporter NhaC
+NJECIDAE_00225	CDS	gadC_1		putative glutamate/gamma-aminobutyrate antiporter
+NJECIDAE_00226	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+NJECIDAE_00227	CDS	tyrS1	6.1.1.1	Tyrosine--tRNA ligase 1
+NJECIDAE_00228	CDS			hypothetical protein
+NJECIDAE_00229	CDS	betI		HTH-type transcriptional regulator BetI
+NJECIDAE_00230	CDS	artM_1		Arginine transport ATP-binding protein ArtM
+NJECIDAE_00231	CDS			hypothetical protein
+NJECIDAE_00232	CDS	natA_1		ABC transporter ATP-binding protein NatA
+NJECIDAE_00233	CDS			hypothetical protein
+NJECIDAE_00234	CDS	anr		Transcriptional activator protein Anr
+NJECIDAE_00235	CDS			hypothetical protein
+NJECIDAE_00236	CDS	dhaL	2.7.-.-	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+NJECIDAE_00237	CDS	dhaK	2.7.-.-	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+NJECIDAE_00238	CDS	dhaM	3.5.1.-	Protein-lysine deacetylase
+NJECIDAE_00239	CDS			hypothetical protein
+NJECIDAE_00240	CDS			hypothetical protein
+NJECIDAE_00241	CDS	pgaC	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+NJECIDAE_00242	CDS			hypothetical protein
+NJECIDAE_00243	CDS			hypothetical protein
+NJECIDAE_00244	CDS	helD_1	3.6.4.12	DNA helicase IV
+NJECIDAE_00245	CDS	cdr_1	1.8.1.14	Coenzyme A disulfide reductase
+NJECIDAE_00246	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+NJECIDAE_00247	CDS	ricR		Copper-sensing transcriptional repressor RicR
+NJECIDAE_00248	CDS			hypothetical protein
+NJECIDAE_00249	CDS	pgsA1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+NJECIDAE_00250	CDS	mutS2_1	3.1.-.-	Endonuclease MutS2
+NJECIDAE_00251	CDS	glpF		Glycerol uptake facilitator protein
+NJECIDAE_00252	CDS	glpO	1.1.3.21	Alpha-glycerophosphate oxidase
+NJECIDAE_00253	CDS	glpK	2.7.1.30	Glycerol kinase
+NJECIDAE_00254	CDS			hypothetical protein
+NJECIDAE_00255	CDS	npr_2	1.11.1.1	NADH peroxidase
+NJECIDAE_00256	CDS	hchA	4.2.1.130	Molecular chaperone Hsp31 and glyoxalase 3
+NJECIDAE_00257	CDS		1.-.-.-	putative oxidoreductase
+NJECIDAE_00258	CDS			hypothetical protein
+NJECIDAE_00259	CDS	malL_1	3.2.1.10	Oligo-1,6-glucosidase
+NJECIDAE_00260	CDS	pbuG		Guanine/hypoxanthine permease PbuG
+NJECIDAE_00261	CDS			hypothetical protein
+NJECIDAE_00262	CDS			hypothetical protein
+NJECIDAE_00263	CDS			hypothetical protein
+NJECIDAE_00264	CDS			hypothetical protein
+NJECIDAE_00265	CDS	paiA	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+NJECIDAE_00266	CDS	hosA		Transcriptional regulator HosA
+NJECIDAE_00267	CDS			hypothetical protein
+NJECIDAE_00268	CDS	ulaB_1	2.7.1.194	Ascorbate-specific PTS system EIIB component
+NJECIDAE_00269	CDS	cmtB_1	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+NJECIDAE_00270	CDS	manR_1		Transcriptional regulator ManR
+NJECIDAE_00271	CDS			hypothetical protein
+NJECIDAE_00272	CDS	sstT		Serine/threonine transporter SstT
+NJECIDAE_00273	CDS			hypothetical protein
+NJECIDAE_00274	CDS			hypothetical protein
+NJECIDAE_00275	CDS			hypothetical protein
+NJECIDAE_00276	CDS			hypothetical protein
+NJECIDAE_00277	CDS			hypothetical protein
+NJECIDAE_00278	CDS	gmuE_1	2.7.1.4	Putative fructokinase
+NJECIDAE_00279	CDS			hypothetical protein
+NJECIDAE_00280	CDS			hypothetical protein
+NJECIDAE_00281	CDS	manZ_1		PTS system mannose-specific EIID component
+NJECIDAE_00282	CDS	agaC		N-acetylgalactosamine permease IIC component 1
+NJECIDAE_00283	CDS	sorB_1	2.7.1.206	PTS system sorbose-specific EIIB component
+NJECIDAE_00284	CDS	dgaR_1		Transcriptional regulatory protein DagR
+NJECIDAE_00285	CDS			hypothetical protein
+NJECIDAE_00286	CDS			hypothetical protein
+NJECIDAE_00287	CDS			hypothetical protein
+NJECIDAE_00288	CDS			hypothetical protein
+NJECIDAE_00289	CDS	pinR	3.1.22.-	Serine recombinase PinR
+NJECIDAE_00290	CDS			hypothetical protein
+NJECIDAE_00291	CDS			hypothetical protein
+NJECIDAE_00292	CDS			hypothetical protein
+NJECIDAE_00293	CDS			hypothetical protein
+NJECIDAE_00294	CDS			hypothetical protein
+NJECIDAE_00295	CDS			hypothetical protein
+NJECIDAE_00296	CDS			hypothetical protein
+NJECIDAE_00297	CDS			hypothetical protein
+NJECIDAE_00298	CDS			hypothetical protein
+NJECIDAE_00299	CDS			hypothetical protein
+NJECIDAE_00300	CDS			hypothetical protein
+NJECIDAE_00301	CDS			hypothetical protein
+NJECIDAE_00302	CDS			hypothetical protein
+NJECIDAE_00303	CDS			hypothetical protein
+NJECIDAE_00304	CDS			hypothetical protein
+NJECIDAE_00305	CDS			hypothetical protein
+NJECIDAE_00306	CDS	ymfD		Bacillibactin exporter
+NJECIDAE_00307	CDS	agaSK_1		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+NJECIDAE_00308	CDS	melR		Melibiose operon regulatory protein
+NJECIDAE_00309	CDS			hypothetical protein
+NJECIDAE_00310	CDS			hypothetical protein
+NJECIDAE_00311	CDS			hypothetical protein
+NJECIDAE_00312	CDS			hypothetical protein
+NJECIDAE_00313	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+NJECIDAE_00314	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+NJECIDAE_00315	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+NJECIDAE_00316	CDS			Putative universal stress protein
+NJECIDAE_00317	CDS	ytpP		Thioredoxin-like protein YtpP
+NJECIDAE_00318	CDS	pepA	3.4.11.7	Glutamyl aminopeptidase
+NJECIDAE_00319	CDS			hypothetical protein
+NJECIDAE_00320	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+NJECIDAE_00321	CDS		1.2.1.97	3-sulfolactaldehyde dehydrogenase
+NJECIDAE_00322	CDS			hypothetical protein
+NJECIDAE_00323	CDS	pepV	3.4.13.-	Beta-Ala-Xaa dipeptidase
+NJECIDAE_00324	CDS	nnrD	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+NJECIDAE_00325	CDS		3.1.-.-	Putative esterase
+NJECIDAE_00326	CDS			hypothetical protein
+NJECIDAE_00327	CDS	rspR_1		HTH-type transcriptional repressor RspR
+NJECIDAE_00328	CDS			hypothetical protein
+NJECIDAE_00329	CDS	apc1	6.4.1.8	Acetophenone carboxylase alpha subunit
+NJECIDAE_00330	CDS			hypothetical protein
+NJECIDAE_00331	CDS	rplT		50S ribosomal protein L20
+NJECIDAE_00332	CDS	rpmI		50S ribosomal protein L35
+NJECIDAE_00333	CDS	infC		Translation initiation factor IF-3
+NJECIDAE_00334	CDS	mfpA		Pentapeptide repeat protein MfpA
+NJECIDAE_00335	CDS	corA_1		Cobalt/magnesium transport protein CorA
+NJECIDAE_00336	CDS		2.7.1.113	Deoxyguanosine kinase
+NJECIDAE_00337	CDS	galK_2	2.7.1.6	Galactokinase
+NJECIDAE_00338	CDS	thrB	2.7.1.39	Homoserine kinase
+NJECIDAE_00339	CDS		2.7.4.2	Phosphomevalonate kinase
+NJECIDAE_00340	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+NJECIDAE_00341	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+NJECIDAE_00342	CDS	hdhA	1.1.1.159	7-alpha-hydroxysteroid dehydrogenase
+NJECIDAE_00343	CDS	kduI1	5.3.1.17	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+NJECIDAE_00344	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+NJECIDAE_00345	CDS	kdgA		KHG/KDPG aldolase
+NJECIDAE_00346	CDS	iclR		Transcriptional repressor IclR
+NJECIDAE_00347	CDS	fucO	1.1.1.77	Lactaldehyde reductase
+NJECIDAE_00348	CDS	rhaM	5.1.3.32	L-rhamnose mutarotase
+NJECIDAE_00349	CDS	rhaD	4.1.2.19	Rhamnulose-1-phosphate aldolase
+NJECIDAE_00350	CDS	rhaA	5.3.1.14	L-rhamnose isomerase
+NJECIDAE_00351	CDS	rhaB	2.7.1.5	Rhamnulokinase
+NJECIDAE_00352	CDS			hypothetical protein
+NJECIDAE_00353	CDS			hypothetical protein
+NJECIDAE_00354	CDS	adhE		Aldehyde-alcohol dehydrogenase
+NJECIDAE_00355	CDS			hypothetical protein
+NJECIDAE_00356	CDS			hypothetical protein
+NJECIDAE_00357	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+NJECIDAE_00358	CDS			hypothetical protein
+NJECIDAE_00359	CDS		3.6.3.8	Calcium-transporting ATPase 1
+NJECIDAE_00360	CDS	yoaB	3.6.3.8	Calcium-transporting ATPase 1
+NJECIDAE_00361	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NJECIDAE_00362	CDS	opuCA_1	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+NJECIDAE_00363	CDS	opuCB		Carnitine transport permease protein OpuCB
+NJECIDAE_00364	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+NJECIDAE_00365	CDS	opuCD		Glycine betaine/carnitine/choline transport system permease protein OpuCD
+NJECIDAE_00366	CDS			hypothetical protein
+NJECIDAE_00367	CDS			hypothetical protein
+NJECIDAE_00368	CDS			hypothetical protein
+NJECIDAE_00369	CDS			hypothetical protein
+NJECIDAE_00370	CDS			hypothetical protein
+NJECIDAE_00371	CDS	smc_1		Chromosome partition protein Smc
+NJECIDAE_00372	CDS			Zinc-type alcohol dehydrogenase-like protein
+NJECIDAE_00373	CDS	rpsN2_1		Alternate 30S ribosomal protein S14
+NJECIDAE_00374	CDS	ndoA	3.1.27.-	Endoribonuclease EndoA
+NJECIDAE_00375	CDS	alr	5.1.1.1	Alanine racemase
+NJECIDAE_00376	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+NJECIDAE_00377	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+NJECIDAE_00378	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NJECIDAE_00379	CDS	ddl_1	6.3.2.4	D-alanine--D-alanine ligase
+NJECIDAE_00380	CDS			hypothetical protein
+NJECIDAE_00381	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+NJECIDAE_00382	CDS			hypothetical protein
+NJECIDAE_00383	CDS			hypothetical protein
+NJECIDAE_00384	CDS		2.3.1.-	putative N-acetyltransferase
+NJECIDAE_00385	CDS	ydjZ		TVP38/TMEM64 family inner membrane protein YdjZ
+NJECIDAE_00386	CDS			hypothetical protein
+NJECIDAE_00387	CDS			hypothetical protein
+NJECIDAE_00388	CDS	udk	2.7.1.48	Uridine kinase
+NJECIDAE_00389	CDS	yfnB_1	3.-.-.-	Putative HAD-hydrolase YfnB
+NJECIDAE_00390	CDS	rsuA	5.4.99.19	Ribosomal small subunit pseudouridine synthase A
+NJECIDAE_00391	CDS	ctc		General stress protein CTC
+NJECIDAE_00392	CDS			hypothetical protein
+NJECIDAE_00393	CDS	dinF		DNA damage-inducible protein F
+NJECIDAE_00394	CDS	corC_1		Magnesium and cobalt efflux protein CorC
+NJECIDAE_00395	CDS	kup		Low affinity potassium transport system protein kup
+NJECIDAE_00396	CDS			hypothetical protein
+NJECIDAE_00397	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+NJECIDAE_00398	CDS	rpsO		30S ribosomal protein S15
+NJECIDAE_00399	CDS	def_1	3.5.1.88	Peptide deformylase
+NJECIDAE_00400	CDS	nadR		Transcription repressor NadR
+NJECIDAE_00401	CDS	maa	2.3.1.79	Maltose O-acetyltransferase
+NJECIDAE_00402	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+NJECIDAE_00403	CDS			hypothetical protein
+NJECIDAE_00404	CDS			hypothetical protein
+NJECIDAE_00405	CDS	glnP_1		Glutamine transport system permease protein GlnP
+NJECIDAE_00406	CDS	artM_2		Arginine transport ATP-binding protein ArtM
+NJECIDAE_00407	CDS	cycA		D-serine/D-alanine/glycine transporter
+NJECIDAE_00408	CDS			hypothetical protein
+NJECIDAE_00409	CDS	brnQ_1		Branched-chain amino acid transport system 2 carrier protein
+NJECIDAE_00410	CDS			hypothetical protein
+NJECIDAE_00411	CDS			hypothetical protein
+NJECIDAE_00412	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+NJECIDAE_00413	CDS	dhaS		HTH-type dhaKLM operon transcriptional activator DhaS
+NJECIDAE_00414	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+NJECIDAE_00415	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+NJECIDAE_00416	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+NJECIDAE_00417	CDS	treR		HTH-type transcriptional regulator TreR
+NJECIDAE_00418	CDS	treB		PTS system trehalose-specific EIIBC component
+NJECIDAE_00419	CDS	maf		Septum formation protein Maf
+NJECIDAE_00420	CDS	mutL		DNA mismatch repair protein MutL
+NJECIDAE_00421	CDS	mutS_1		DNA mismatch repair protein MutS
+NJECIDAE_00422	CDS			hypothetical protein
+NJECIDAE_00423	CDS			hypothetical protein
+NJECIDAE_00424	CDS			Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+NJECIDAE_00425	CDS			hypothetical protein
+NJECIDAE_00426	CDS	nirC		Nitrite transporter NirC
+NJECIDAE_00427	CDS	rpsD		30S ribosomal protein S4
+NJECIDAE_00428	CDS	bioY2		Biotin transporter BioY2
+NJECIDAE_00429	CDS	queT_1		Queuosine precursor transporter QueT
+NJECIDAE_00430	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+NJECIDAE_00431	CDS			hypothetical protein
+NJECIDAE_00432	CDS			hypothetical protein
+NJECIDAE_00433	CDS	yohK		Inner membrane protein YohK
+NJECIDAE_00434	CDS	lrgA		Antiholin-like protein LrgA
+NJECIDAE_00435	CDS	gla		Glycerol facilitator-aquaporin gla
+NJECIDAE_00436	CDS			hypothetical protein
+NJECIDAE_00437	CDS			Pesticidal crystal protein Cry22Aa
+NJECIDAE_00438	CDS			hypothetical protein
+NJECIDAE_00439	CDS			hypothetical protein
+NJECIDAE_00440	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NJECIDAE_00441	CDS			hypothetical protein
+NJECIDAE_00442	CDS			hypothetical protein
+NJECIDAE_00443	CDS			hypothetical protein
+NJECIDAE_00444	CDS			hypothetical protein
+NJECIDAE_00445	CDS			hypothetical protein
+NJECIDAE_00446	CDS	yclQ		putative ABC transporter solute-binding protein YclQ
+NJECIDAE_00447	CDS	fhuC	3.6.3.34	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+NJECIDAE_00448	CDS	hmuU		Hemin transport system permease protein HmuU
+NJECIDAE_00449	CDS	feuB_1		Iron-uptake system permease protein FeuB
+NJECIDAE_00450	CDS			hypothetical protein
+NJECIDAE_00451	CDS	gshAB		Glutathione biosynthesis bifunctional protein GshAB
+NJECIDAE_00452	CDS	ftsY		Signal recognition particle receptor FtsY
+NJECIDAE_00453	CDS	yidA_1	3.1.3.23	Sugar phosphatase YidA
+NJECIDAE_00454	CDS	smc_2		Chromosome partition protein Smc
+NJECIDAE_00455	CDS	rnc	3.1.26.3	Ribonuclease 3
+NJECIDAE_00456	CDS	appA		Oligopeptide-binding protein AppA
+NJECIDAE_00457	CDS			Putative peptide transport permease protein
+NJECIDAE_00458	CDS	gsiC		Glutathione transport system permease protein GsiC
+NJECIDAE_00459	CDS	oppF_1		Oligopeptide transport ATP-binding protein OppF
+NJECIDAE_00460	CDS	oppD_1		Oligopeptide transport ATP-binding protein OppD
+NJECIDAE_00461	CDS			hypothetical protein
+NJECIDAE_00462	CDS	acpP		Acyl carrier protein
+NJECIDAE_00463	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+NJECIDAE_00464	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+NJECIDAE_00465	CDS			hypothetical protein
+NJECIDAE_00466	CDS			hypothetical protein
+NJECIDAE_00467	CDS	rpmB		50S ribosomal protein L28
+NJECIDAE_00468	CDS			hypothetical protein
+NJECIDAE_00469	CDS			hypothetical protein
+NJECIDAE_00470	CDS			hypothetical protein
+NJECIDAE_00471	CDS			hypothetical protein
+NJECIDAE_00472	CDS			hypothetical protein
+NJECIDAE_00473	CDS			hypothetical protein
+NJECIDAE_00474	CDS			hypothetical protein
+NJECIDAE_00475	CDS	lrpC		HTH-type transcriptional regulator LrpC
+NJECIDAE_00476	CDS			hypothetical protein
+NJECIDAE_00477	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+NJECIDAE_00478	CDS	ecfT_1		Energy-coupling factor transporter transmembrane protein EcfT
+NJECIDAE_00479	CDS	ecfA2_1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+NJECIDAE_00480	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+NJECIDAE_00481	CDS	rplQ		50S ribosomal protein L17
+NJECIDAE_00482	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+NJECIDAE_00483	CDS	rpsK		30S ribosomal protein S11
+NJECIDAE_00484	CDS	rpsM		30S ribosomal protein S13
+NJECIDAE_00485	CDS	rpmJ		50S ribosomal protein L36
+NJECIDAE_00486	CDS	infA		Translation initiation factor IF-1
+NJECIDAE_00487	CDS	adk	2.7.4.3	Adenylate kinase
+NJECIDAE_00488	CDS	secY		Protein translocase subunit SecY
+NJECIDAE_00489	CDS	rplO		50S ribosomal protein L15
+NJECIDAE_00490	CDS	rpmD		50S ribosomal protein L30
+NJECIDAE_00491	CDS	rpsE		30S ribosomal protein S5
+NJECIDAE_00492	CDS	rplR		50S ribosomal protein L18
+NJECIDAE_00493	CDS	rplF		50S ribosomal protein L6
+NJECIDAE_00494	CDS	rpsH		30S ribosomal protein S8
+NJECIDAE_00495	CDS	rpsN1		30S ribosomal protein S14
+NJECIDAE_00496	CDS	rplE		50S ribosomal protein L5
+NJECIDAE_00497	CDS	rplX		50S ribosomal protein L24
+NJECIDAE_00498	CDS	rplN		50S ribosomal protein L14
+NJECIDAE_00499	CDS	rpsQ		30S ribosomal protein S17
+NJECIDAE_00500	CDS	rpmC		50S ribosomal protein L29
+NJECIDAE_00501	CDS	rplP		50S ribosomal protein L16
+NJECIDAE_00502	CDS	rpsC		30S ribosomal protein S3
+NJECIDAE_00503	CDS	rplV		50S ribosomal protein L22
+NJECIDAE_00504	CDS	rpsS		30S ribosomal protein S19
+NJECIDAE_00505	CDS	rplB		50S ribosomal protein L2
+NJECIDAE_00506	CDS	rplW		50S ribosomal protein L23
+NJECIDAE_00507	CDS	rplD		50S ribosomal protein L4
+NJECIDAE_00508	CDS	rplC		50S ribosomal protein L3
+NJECIDAE_00509	CDS	rpsJ		30S ribosomal protein S10
+NJECIDAE_00510	CDS	tuf_1		Elongation factor Tu
+NJECIDAE_00511	CDS	fus		Elongation factor G
+NJECIDAE_00512	CDS	rpsG		30S ribosomal protein S7
+NJECIDAE_00513	CDS	rpsL		30S ribosomal protein S12
+NJECIDAE_00514	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+NJECIDAE_00515	CDS	hin		DNA-invertase hin
+NJECIDAE_00516	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+NJECIDAE_00517	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+NJECIDAE_00518	CDS	punA	2.4.2.1	Purine nucleoside phosphorylase 1
+NJECIDAE_00519	CDS	deoB	5.4.2.7	Phosphopentomutase
+NJECIDAE_00520	CDS			hypothetical protein
+NJECIDAE_00521	CDS			hypothetical protein
+NJECIDAE_00522	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+NJECIDAE_00523	CDS	tmpC		Membrane lipoprotein TmpC
+NJECIDAE_00524	CDS	cdd	3.5.4.5	Cytidine deaminase
+NJECIDAE_00525	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+NJECIDAE_00526	CDS	pdp	2.4.2.2	Pyrimidine-nucleoside phosphorylase
+NJECIDAE_00527	CDS	degA_2		HTH-type transcriptional regulator DegA
+NJECIDAE_00528	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+NJECIDAE_00529	CDS	coaA	2.7.1.33	Pantothenate kinase
+NJECIDAE_00530	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+NJECIDAE_00531	CDS	ganB	3.2.1.89	Arabinogalactan endo-beta-1,4-galactanase
+NJECIDAE_00532	CDS	lacE_1		PTS system lactose-specific EIICB component
+NJECIDAE_00533	CDS	lacF_2	2.7.1.207	PTS system lactose-specific EIIA component
+NJECIDAE_00534	CDS	lacG_1	3.2.1.85	6-phospho-beta-galactosidase
+NJECIDAE_00535	CDS	lacR_1		Lactose phosphotransferase system repressor
+NJECIDAE_00536	CDS	yvdM_1	5.4.2.6	Beta-phosphoglucomutase
+NJECIDAE_00537	CDS			hypothetical protein
+NJECIDAE_00538	CDS			hypothetical protein
+NJECIDAE_00539	CDS			hypothetical protein
+NJECIDAE_00540	CDS			hypothetical protein
+NJECIDAE_00541	CDS			hypothetical protein
+NJECIDAE_00542	CDS			hypothetical protein
+NJECIDAE_00543	CDS			hypothetical protein
+NJECIDAE_00544	CDS			hypothetical protein
+NJECIDAE_00545	CDS			hypothetical protein
+NJECIDAE_00546	CDS			hypothetical protein
+NJECIDAE_00547	CDS	zupT		Zinc transporter ZupT
+NJECIDAE_00548	CDS	pox5	1.2.3.3	Pyruvate oxidase
+NJECIDAE_00549	CDS			hypothetical protein
+NJECIDAE_00550	CDS	ybiT_1		putative ABC transporter ATP-binding protein YbiT
+NJECIDAE_00551	CDS			DegV domain-containing protein
+NJECIDAE_00552	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+NJECIDAE_00553	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+NJECIDAE_00554	CDS	rplI		50S ribosomal protein L9
+NJECIDAE_00555	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+NJECIDAE_00556	CDS	rpsR		30S ribosomal protein S18
+NJECIDAE_00557	CDS	ssb_1		Single-stranded DNA-binding protein
+NJECIDAE_00558	CDS	rpsF		30S ribosomal protein S6
+NJECIDAE_00559	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+NJECIDAE_00560	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+NJECIDAE_00561	CDS	recF		DNA replication and repair protein RecF
+NJECIDAE_00562	CDS			hypothetical protein
+NJECIDAE_00563	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+NJECIDAE_00564	CDS	dnaA		Chromosomal replication initiator protein DnaA
+NJECIDAE_00565	CDS	rpmH		50S ribosomal protein L34
+NJECIDAE_00566	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+NJECIDAE_00567	CDS	misCA		Membrane protein insertase MisCA
+NJECIDAE_00568	CDS			hypothetical protein
+NJECIDAE_00569	CDS			hypothetical protein
+NJECIDAE_00570	CDS	mnmE_1	3.6.-.-	tRNA modification GTPase MnmE
+NJECIDAE_00571	CDS	mnmE_2	3.6.5.-	tRNA modification GTPase MnmE
+NJECIDAE_00572	CDS	mnmG_1		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NJECIDAE_00573	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+NJECIDAE_00574	CDS	soj_1	3.6.-.-	Sporulation initiation inhibitor protein Soj
+NJECIDAE_00575	CDS	parB		putative chromosome-partitioning protein ParB
+NJECIDAE_00576	CDS			hypothetical protein
+NJECIDAE_00577	CDS	ychF		Ribosome-binding ATPase YchF
+NJECIDAE_00578	CDS			hypothetical protein
+NJECIDAE_00579	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+NJECIDAE_00580	CDS	serS	6.1.1.11	Serine--tRNA ligase
+NJECIDAE_00581	CDS	walK_1	2.7.13.3	Sensor protein kinase WalK
+NJECIDAE_00582	CDS	srrA_1		Transcriptional regulatory protein SrrA
+NJECIDAE_00583	rRNA			16S ribosomal RNA
+NJECIDAE_00584	rRNA			23S ribosomal RNA
+NJECIDAE_00585	rRNA			5S ribosomal RNA
+NJECIDAE_00586	tRNA			tRNA-Val(tac)
+NJECIDAE_00587	tRNA			tRNA-Lys(ttt)
+NJECIDAE_00588	tRNA			tRNA-Leu(tag)
+NJECIDAE_00589	tRNA			tRNA-Thr(tgt)
+NJECIDAE_00590	tRNA			tRNA-Gly(gcc)
+NJECIDAE_00591	tRNA			tRNA-Leu(taa)
+NJECIDAE_00592	tRNA			tRNA-Arg(acg)
+NJECIDAE_00593	tRNA			tRNA-Pro(tgg)
+NJECIDAE_00594	tRNA			tRNA-Arg(acg)
+NJECIDAE_00595	CDS	ctsR		Transcriptional regulator CtsR
+NJECIDAE_00596	CDS	clpC		Negative regulator of genetic competence ClpC/MecB
+NJECIDAE_00597	CDS	ydcP_1	3.4.-.-	putative protease YdcP
+NJECIDAE_00598	CDS	ydcP_2	3.4.-.-	putative protease YdcP
+NJECIDAE_00599	CDS	gor	1.8.1.7	Glutathione reductase
+NJECIDAE_00600	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+NJECIDAE_00601	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+NJECIDAE_00602	CDS			hypothetical protein
+NJECIDAE_00603	CDS	yjlD	1.6.99.-	NADH dehydrogenase-like protein YjlD
+NJECIDAE_00604	CDS			hypothetical protein
+NJECIDAE_00605	CDS			hypothetical protein
+NJECIDAE_00606	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+NJECIDAE_00607	CDS			hypothetical protein
+NJECIDAE_00608	CDS			hypothetical protein
+NJECIDAE_00609	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+NJECIDAE_00610	CDS	yxdL_1		ABC transporter ATP-binding protein YxdL
+NJECIDAE_00611	CDS	lsrC_1		Autoinducer 2 import system permease protein LsrC
+NJECIDAE_00612	CDS			hypothetical protein
+NJECIDAE_00613	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+NJECIDAE_00614	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+NJECIDAE_00615	CDS	purR_1		HTH-type transcriptional repressor PurR
+NJECIDAE_00616	CDS		2.4.1.329	Sucrose 6(F)-phosphate phosphorylase
+NJECIDAE_00617	CDS	msmE		Multiple sugar-binding protein
+NJECIDAE_00618	CDS	ycjO		Inner membrane ABC transporter permease protein YcjO
+NJECIDAE_00619	CDS	ycjP		Inner membrane ABC transporter permease protein YcjP
+NJECIDAE_00620	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+NJECIDAE_00621	CDS		5.1.3.30	D-psicose 3-epimerase
+NJECIDAE_00622	CDS	rifL	1.1.1.-	Putative UDP-kanosamine synthase oxidoreductase subunit
+NJECIDAE_00623	CDS	kojP	2.4.1.230	Kojibiose phosphorylase
+NJECIDAE_00624	CDS	glxK	2.7.1.31	Glycerate kinase
+NJECIDAE_00625	CDS	yvdM_2	5.4.2.6	Beta-phosphoglucomutase
+NJECIDAE_00626	CDS	msrA_1	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+NJECIDAE_00627	CDS	comC		Type 4 prepilin-like proteins leader peptide-processing enzyme
+NJECIDAE_00628	CDS	xylB_1	2.7.1.17	Xylulose kinase
+NJECIDAE_00629	CDS	dps	1.16.-.-	DNA protection during starvation protein
+NJECIDAE_00630	CDS	rplM		50S ribosomal protein L13
+NJECIDAE_00631	CDS	rpsI		30S ribosomal protein S9
+NJECIDAE_00632	CDS	xerD_1		Tyrosine recombinase XerD
+NJECIDAE_00633	CDS	znuC_2	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+NJECIDAE_00634	CDS			hypothetical protein
+NJECIDAE_00635	CDS	mntB_2		Manganese transport system membrane protein MntB
+NJECIDAE_00636	CDS	mntB_3		Manganese transport system membrane protein MntB
+NJECIDAE_00637	CDS	ssaB_2		Manganese ABC transporter substrate-binding lipoprotein
+NJECIDAE_00638	CDS	mntR		Transcriptional regulator MntR
+NJECIDAE_00639	CDS			hypothetical protein
+NJECIDAE_00640	CDS			hypothetical protein
+NJECIDAE_00641	CDS	ecfT_2		Energy-coupling factor transporter transmembrane protein EcfT
+NJECIDAE_00642	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+NJECIDAE_00643	CDS	artP	3.6.3.-	Arginine transport ATP-binding protein ArtP
+NJECIDAE_00644	CDS			hypothetical protein
+NJECIDAE_00645	CDS	irtA_1	3.6.3.-	Iron import ATP-binding/permease protein IrtA
+NJECIDAE_00646	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_00647	CDS	irtA_2	3.6.3.-	Iron import ATP-binding/permease protein IrtA
+NJECIDAE_00648	CDS	rpsN2_2		Alternate 30S ribosomal protein S14
+NJECIDAE_00649	CDS	rpmF_1		50S ribosomal protein L32
+NJECIDAE_00650	CDS			hypothetical protein
+NJECIDAE_00651	CDS	rpmGA_1		50S ribosomal protein L33 1
+NJECIDAE_00652	CDS	yjiA		putative GTP-binding protein YjiA
+NJECIDAE_00653	CDS	znuA_2		High-affinity zinc uptake system binding-protein ZnuA
+NJECIDAE_00654	CDS			hypothetical protein
+NJECIDAE_00655	CDS			hypothetical protein
+NJECIDAE_00656	CDS	yciC		Putative metal chaperone YciC
+NJECIDAE_00657	CDS			hypothetical protein
+NJECIDAE_00658	CDS			hypothetical protein
+NJECIDAE_00659	CDS			hypothetical protein
+NJECIDAE_00660	CDS			hypothetical protein
+NJECIDAE_00661	CDS			hypothetical protein
+NJECIDAE_00662	CDS	araC_2		Arabinose operon regulatory protein
+NJECIDAE_00663	CDS			hypothetical protein
+NJECIDAE_00664	CDS	bca		C protein alpha-antigen
+NJECIDAE_00665	CDS	noxE	1.6.99.3	NADH oxidase
+NJECIDAE_00666	CDS		3.2.1.-	Autolysin
+NJECIDAE_00667	CDS			hypothetical protein
+NJECIDAE_00668	CDS	ribZ_2		Riboflavin transporter RibZ
+NJECIDAE_00669	CDS			hypothetical protein
+NJECIDAE_00670	CDS			hypothetical protein
+NJECIDAE_00671	CDS	pgdS_1	3.4.19.-	Gamma-DL-glutamyl hydrolase
+NJECIDAE_00672	CDS			hypothetical protein
+NJECIDAE_00673	CDS			hypothetical protein
+NJECIDAE_00674	CDS			hypothetical protein
+NJECIDAE_00675	CDS			hypothetical protein
+NJECIDAE_00676	CDS	ltrA_1		Group II intron-encoded protein LtrA
+NJECIDAE_00677	CDS			hypothetical protein
+NJECIDAE_00678	CDS			hypothetical protein
+NJECIDAE_00679	CDS			hypothetical protein
+NJECIDAE_00680	CDS	banIM	2.1.1.37	Modification methylase BanI
+NJECIDAE_00681	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+NJECIDAE_00682	CDS			hypothetical protein
+NJECIDAE_00683	CDS	pezT	2.7.1.176	Toxin PezT
+NJECIDAE_00684	CDS			hypothetical protein
+NJECIDAE_00685	CDS	ltrA_2		Group II intron-encoded protein LtrA
+NJECIDAE_00686	CDS	ftsK_1		DNA translocase FtsK
+NJECIDAE_00687	CDS			hypothetical protein
+NJECIDAE_00688	CDS			hypothetical protein
+NJECIDAE_00689	CDS			hypothetical protein
+NJECIDAE_00690	CDS			hypothetical protein
+NJECIDAE_00691	CDS			hypothetical protein
+NJECIDAE_00692	CDS	rbbA		Ribosome-associated ATPase
+NJECIDAE_00693	CDS			hypothetical protein
+NJECIDAE_00694	CDS	arlR_1		Response regulator ArlR
+NJECIDAE_00695	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+NJECIDAE_00696	CDS	mutS_2		DNA mismatch repair protein MutS
+NJECIDAE_00697	CDS			hypothetical protein
+NJECIDAE_00698	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+NJECIDAE_00699	CDS	yadH		Inner membrane transport permease YadH
+NJECIDAE_00700	CDS	dus_1	1.3.1.-	putative tRNA-dihydrouridine synthase
+NJECIDAE_00701	CDS			Zinc-type alcohol dehydrogenase-like protein
+NJECIDAE_00702	CDS			hypothetical protein
+NJECIDAE_00703	CDS	ygaZ_1		Inner membrane protein YgaZ
+NJECIDAE_00704	CDS	xylB_2	2.7.1.17	Xylulose kinase
+NJECIDAE_00705	CDS			hypothetical protein
+NJECIDAE_00706	CDS	soxS		Regulatory protein SoxS
+NJECIDAE_00707	CDS			hypothetical protein
+NJECIDAE_00708	CDS	ywnA		Putative HTH-type transcriptional regulator YwnA
+NJECIDAE_00709	CDS	qorB	1.6.5.2	Quinone oxidoreductase 2
+NJECIDAE_00710	CDS			hypothetical protein
+NJECIDAE_00711	CDS	ptsG_2	2.7.1.199	PTS system glucose-specific EIICBA component
+NJECIDAE_00712	CDS	sacY		Levansucrase and sucrase synthesis operon antiterminator
+NJECIDAE_00713	CDS	benM		HTH-type transcriptional regulator BenM
+NJECIDAE_00714	CDS		2.3.1.-	Putative acetyltransferase
+NJECIDAE_00715	CDS		1.-.-.-	putative oxidoreductase
+NJECIDAE_00716	CDS		3.2.1.-	Autolysin
+NJECIDAE_00717	CDS			putative HTH-type transcriptional regulator/GBAA_1941/BAS1801
+NJECIDAE_00718	CDS	yodC_1	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+NJECIDAE_00719	CDS	yodC_2	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+NJECIDAE_00720	CDS	ettA_1		Energy-dependent translational throttle protein EttA
+NJECIDAE_00721	CDS			hypothetical protein
+NJECIDAE_00722	CDS			hypothetical protein
+NJECIDAE_00723	CDS	yfmO_1		Multidrug efflux protein YfmO
+NJECIDAE_00724	CDS	yfmO_2		Multidrug efflux protein YfmO
+NJECIDAE_00725	CDS			hypothetical protein
+NJECIDAE_00726	CDS			hypothetical protein
+NJECIDAE_00727	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+NJECIDAE_00728	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+NJECIDAE_00729	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NJECIDAE_00730	CDS	radA	3.6.4.-	DNA repair protein RadA
+NJECIDAE_00731	CDS	yacL	3.1.-.-	putative PIN and TRAM-domain containing protein YacL
+NJECIDAE_00732	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+NJECIDAE_00733	CDS	cysE	2.3.1.30	Serine acetyltransferase
+NJECIDAE_00734	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+NJECIDAE_00735	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+NJECIDAE_00736	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+NJECIDAE_00737	CDS			hypothetical protein
+NJECIDAE_00738	CDS	sigH		RNA polymerase sigma-H factor
+NJECIDAE_00739	CDS			hypothetical protein
+NJECIDAE_00740	CDS		2.3.1.-	Acetyltransferase
+NJECIDAE_00741	CDS	mscL		Large-conductance mechanosensitive channel
+NJECIDAE_00742	CDS		3.4.24.-	putative zinc protease
+NJECIDAE_00743	CDS	albF	3.4.24.-	Putative zinc protease AlbF
+NJECIDAE_00744	CDS			hypothetical protein
+NJECIDAE_00745	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NJECIDAE_00746	CDS	cinA		Putative competence-damage inducible protein
+NJECIDAE_00747	CDS	recA		Protein RecA
+NJECIDAE_00748	CDS	rny_1	3.1.-.-	Ribonuclease Y
+NJECIDAE_00749	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+NJECIDAE_00750	CDS	mprF_1	2.3.2.3	Phosphatidylglycerol lysyltransferase
+NJECIDAE_00751	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NJECIDAE_00752	CDS	znuA_3		High-affinity zinc uptake system binding-protein ZnuA
+NJECIDAE_00753	CDS	znuC_3	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+NJECIDAE_00754	CDS	znuB		High-affinity zinc uptake system membrane protein ZnuB
+NJECIDAE_00755	CDS	purR_2		Pur operon repressor
+NJECIDAE_00756	CDS	glmU		Bifunctional protein GlmU
+NJECIDAE_00757	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+NJECIDAE_00758	CDS	thiT		Thiamine transporter ThiT
+NJECIDAE_00759	CDS			hypothetical protein
+NJECIDAE_00760	CDS			hypothetical protein
+NJECIDAE_00761	CDS			hypothetical protein
+NJECIDAE_00762	CDS			hypothetical protein
+NJECIDAE_00763	CDS			hypothetical protein
+NJECIDAE_00764	CDS	gmk_1	2.7.4.8	Guanylate kinase
+NJECIDAE_00765	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+NJECIDAE_00766	CDS	priA	3.6.4.-	Primosomal protein N'
+NJECIDAE_00767	CDS	def_2	3.5.1.88	Peptide deformylase
+NJECIDAE_00768	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+NJECIDAE_00769	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+NJECIDAE_00770	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+NJECIDAE_00771	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+NJECIDAE_00772	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+NJECIDAE_00773	CDS	rpe_1	5.1.3.1	Ribulose-phosphate 3-epimerase
+NJECIDAE_00774	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+NJECIDAE_00775	CDS	mreC		Cell shape-determining protein MreC
+NJECIDAE_00776	CDS			hypothetical protein
+NJECIDAE_00777	CDS			Secreted 45 kDa protein
+NJECIDAE_00778	CDS	pepF1_1	3.4.24.-	Oligoendopeptidase F, plasmid
+NJECIDAE_00779	CDS			hypothetical protein
+NJECIDAE_00780	CDS			putative transcriptional regulatory protein
+NJECIDAE_00781	CDS	ldtA	2.3.2.-	L,D-transpeptidase 1
+NJECIDAE_00782	CDS	ldh	1.1.1.27	L-lactate dehydrogenase
+NJECIDAE_00783	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+NJECIDAE_00784	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+NJECIDAE_00785	CDS	murJ_1		Lipid II flippase MurJ
+NJECIDAE_00786	CDS	hslR		Heat shock protein 15
+NJECIDAE_00787	CDS	ftsL_1		Cell division protein FtsL
+NJECIDAE_00788	CDS	yugI_1		General stress protein 13
+NJECIDAE_00789	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+NJECIDAE_00790	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+NJECIDAE_00791	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+NJECIDAE_00792	CDS	hslO		33 kDa chaperonin
+NJECIDAE_00793	CDS	dus_2	1.3.1.-	putative tRNA-dihydrouridine synthase
+NJECIDAE_00794	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+NJECIDAE_00795	CDS			hypothetical protein
+NJECIDAE_00796	rRNA			16S ribosomal RNA
+NJECIDAE_00797	tRNA			tRNA-Ala(tgc)
+NJECIDAE_00798	rRNA			23S ribosomal RNA
+NJECIDAE_00799	rRNA			5S ribosomal RNA
+NJECIDAE_00800	tRNA			tRNA-Val(tac)
+NJECIDAE_00801	tRNA			tRNA-Lys(ttt)
+NJECIDAE_00802	tRNA			tRNA-Leu(tag)
+NJECIDAE_00803	tRNA			tRNA-Thr(tgt)
+NJECIDAE_00804	tRNA			tRNA-Gly(gcc)
+NJECIDAE_00805	tRNA			tRNA-Leu(taa)
+NJECIDAE_00806	tRNA			tRNA-Arg(acg)
+NJECIDAE_00807	tRNA			tRNA-Pro(tgg)
+NJECIDAE_00808	tRNA			tRNA-Ala(tgc)
+NJECIDAE_00809	tRNA			tRNA-Met(cat)
+NJECIDAE_00810	tRNA			tRNA-Met(cat)
+NJECIDAE_00811	tRNA			tRNA-Ser(tga)
+NJECIDAE_00812	tRNA			tRNA-Met(cat)
+NJECIDAE_00813	tRNA			tRNA-Asp(gtc)
+NJECIDAE_00814	tRNA			tRNA-Gly(tcc)
+NJECIDAE_00815	tRNA			tRNA-Ile(gat)
+NJECIDAE_00816	tRNA			tRNA-Ser(gct)
+NJECIDAE_00817	tRNA			tRNA-Glu(ttc)
+NJECIDAE_00818	tRNA			tRNA-Ser(tga)
+NJECIDAE_00819	tRNA			tRNA-Met(cat)
+NJECIDAE_00820	tRNA			tRNA-Asp(gtc)
+NJECIDAE_00821	tRNA			tRNA-Phe(gaa)
+NJECIDAE_00822	tRNA			tRNA-Gly(tcc)
+NJECIDAE_00823	tRNA			tRNA-Ile(gat)
+NJECIDAE_00824	tRNA			tRNA-Glu(ttc)
+NJECIDAE_00825	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+NJECIDAE_00826	CDS			hypothetical protein
+NJECIDAE_00827	CDS	bmr3		Multidrug resistance protein 3
+NJECIDAE_00828	CDS	frmB	3.1.2.12	S-formylglutathione hydrolase FrmB
+NJECIDAE_00829	CDS	tetR		Tetracycline repressor protein class H
+NJECIDAE_00830	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_00831	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_00832	CDS	rsmH_1	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+NJECIDAE_00833	CDS			hypothetical protein
+NJECIDAE_00834	CDS	bcrC	3.6.1.27	Undecaprenyl-diphosphatase BcrC
+NJECIDAE_00835	CDS		3.2.1.17	Muramidase-2
+NJECIDAE_00836	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+NJECIDAE_00837	CDS	hcf136		Ycf48-like protein
+NJECIDAE_00838	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_00839	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_00840	CDS			hypothetical protein
+NJECIDAE_00841	CDS			hypothetical protein
+NJECIDAE_00842	CDS			hypothetical protein
+NJECIDAE_00843	CDS	sdrD		Serine-aspartate repeat-containing protein D
+NJECIDAE_00844	CDS			hypothetical protein
+NJECIDAE_00845	CDS			hypothetical protein
+NJECIDAE_00846	CDS	celA_1	2.7.1.205	PTS system cellobiose-specific EIIB component
+NJECIDAE_00847	CDS	licR_1		putative licABCH operon regulator
+NJECIDAE_00848	CDS	licA_1	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+NJECIDAE_00849	CDS			hypothetical protein
+NJECIDAE_00850	CDS	licC_1		Lichenan permease IIC component
+NJECIDAE_00851	CDS	murE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+NJECIDAE_00852	CDS			hypothetical protein
+NJECIDAE_00853	CDS	murJ_2		Lipid II flippase MurJ
+NJECIDAE_00854	CDS	rluB_1	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+NJECIDAE_00855	CDS	yteP_1		putative multiple-sugar transport system permease YteP
+NJECIDAE_00856	CDS	araQ_2		L-arabinose transport system permease protein AraQ
+NJECIDAE_00857	CDS			hypothetical protein
+NJECIDAE_00858	CDS			hypothetical protein
+NJECIDAE_00859	CDS	ypdA_1	2.7.13.3	Sensor histidine kinase YpdA
+NJECIDAE_00860	CDS			putative response regulatory protein
+NJECIDAE_00861	CDS			hypothetical protein
+NJECIDAE_00862	CDS	araR_1		Arabinose metabolism transcriptional repressor
+NJECIDAE_00863	CDS			hypothetical protein
+NJECIDAE_00864	CDS	mngB	3.2.1.170	Mannosylglycerate hydrolase
+NJECIDAE_00865	CDS	gmuE_2	2.7.1.4	Putative fructokinase
+NJECIDAE_00866	CDS	rluD_1	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+NJECIDAE_00867	CDS	pbpF		Penicillin-binding protein 1F
+NJECIDAE_00868	CDS			hypothetical protein
+NJECIDAE_00869	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+NJECIDAE_00870	CDS	nfo_1	3.1.21.2	endonuclease 4
+NJECIDAE_00871	CDS	rhgT	3.1.1.-	Rhamnogalacturonan acetylesterase RhgT
+NJECIDAE_00872	CDS	uxaC	5.3.1.12	Uronate isomerase
+NJECIDAE_00873	CDS	uxaA	4.2.1.7	Altronate dehydratase
+NJECIDAE_00874	CDS	uxaB	1.1.1.58	Altronate oxidoreductase
+NJECIDAE_00875	CDS	exuR_1		putative HTH-type transcriptional repressor ExuR
+NJECIDAE_00876	CDS	yesS		HTH-type transcriptional regulator YesS
+NJECIDAE_00877	CDS	araQ_3		L-arabinose transport system permease protein AraQ
+NJECIDAE_00878	CDS	yteP_2		putative multiple-sugar transport system permease YteP
+NJECIDAE_00879	CDS			hypothetical protein
+NJECIDAE_00880	CDS	lipO_1		Lipoprotein LipO
+NJECIDAE_00881	CDS	yteR	3.2.1.172	Unsaturated rhamnogalacturonyl hydrolase YteR
+NJECIDAE_00882	CDS	pgl_1	3.2.1.15	Polygalacturonase
+NJECIDAE_00883	CDS			hypothetical protein
+NJECIDAE_00884	CDS	pemA	3.1.1.11	Pectinesterase A
+NJECIDAE_00885	CDS			hypothetical protein
+NJECIDAE_00886	CDS	xynB	3.2.1.37	Beta-xylosidase
+NJECIDAE_00887	CDS	yjmB		putative symporter YjmB
+NJECIDAE_00888	CDS	pehX	3.2.1.82	Exo-poly-alpha-D-galacturonosidase
+NJECIDAE_00889	rRNA			16S ribosomal RNA
+NJECIDAE_00890	rRNA			23S ribosomal RNA
+NJECIDAE_00891	rRNA			5S ribosomal RNA
+NJECIDAE_00892	CDS	ywpJ_1	3.1.3.-	Phosphatase YwpJ
+NJECIDAE_00893	CDS	yhaO		putative metallophosphoesterase YhaO
+NJECIDAE_00894	CDS			hypothetical protein
+NJECIDAE_00895	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+NJECIDAE_00896	CDS	prsA_2	5.2.1.8	Foldase protein PrsA
+NJECIDAE_00897	CDS			hypothetical protein
+NJECIDAE_00898	CDS			putative HIT-like protein
+NJECIDAE_00899	CDS	ecsA_1		ABC-type transporter ATP-binding protein EcsA
+NJECIDAE_00900	CDS			hypothetical protein
+NJECIDAE_00901	CDS			hypothetical protein
+NJECIDAE_00902	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+NJECIDAE_00903	CDS	adeC	3.5.4.2	Adenine deaminase
+NJECIDAE_00904	CDS	comGA		ComG operon protein 1
+NJECIDAE_00905	CDS	epsF		Type II secretion system protein F
+NJECIDAE_00906	CDS	comGC		ComG operon protein 3
+NJECIDAE_00907	CDS			hypothetical protein
+NJECIDAE_00908	CDS			hypothetical protein
+NJECIDAE_00909	CDS			hypothetical protein
+NJECIDAE_00910	CDS			hypothetical protein
+NJECIDAE_00911	CDS	prmC_1	2.1.1.297	Release factor glutamine methyltransferase
+NJECIDAE_00912	CDS	ackA	2.7.2.1	Acetate kinase
+NJECIDAE_00913	CDS	ybiT_2		putative ABC transporter ATP-binding protein YbiT
+NJECIDAE_00914	CDS			hypothetical protein
+NJECIDAE_00915	CDS			Putative universal stress protein
+NJECIDAE_00916	CDS			hypothetical protein
+NJECIDAE_00917	CDS			putative AAA domain-containing protein
+NJECIDAE_00918	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+NJECIDAE_00919	CDS			hypothetical protein
+NJECIDAE_00920	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+NJECIDAE_00921	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+NJECIDAE_00922	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+NJECIDAE_00923	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+NJECIDAE_00924	CDS	cypC	1.11.2.4	Fatty-acid peroxygenase
+NJECIDAE_00925	CDS	yhdN	1.1.1.-	General stress protein 69
+NJECIDAE_00926	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+NJECIDAE_00927	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+NJECIDAE_00928	CDS			hypothetical protein
+NJECIDAE_00929	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+NJECIDAE_00930	CDS			hypothetical protein
+NJECIDAE_00931	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NJECIDAE_00932	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+NJECIDAE_00933	CDS	sbcD		Nuclease SbcCD subunit D
+NJECIDAE_00934	CDS	sbcC_1		Nuclease SbcCD subunit C
+NJECIDAE_00935	CDS	sbcC_2		Nuclease SbcCD subunit C
+NJECIDAE_00936	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+NJECIDAE_00937	CDS	yfnB_2	3.-.-.-	Putative HAD-hydrolase YfnB
+NJECIDAE_00938	CDS	spxA_3		Regulatory protein Spx
+NJECIDAE_00939	CDS	mecA		Adapter protein MecA 1
+NJECIDAE_00940	CDS	coiA		Competence protein CoiA
+NJECIDAE_00941	CDS	pepF1_2	3.4.24.-	Oligoendopeptidase F, plasmid
+NJECIDAE_00942	CDS			hypothetical protein
+NJECIDAE_00943	CDS			hypothetical protein
+NJECIDAE_00944	CDS	yjbK	3.6.1.-	Putative triphosphatase YjbK
+NJECIDAE_00945	CDS	yjbM	2.7.6.5	GTP pyrophosphokinase YjbM
+NJECIDAE_00946	CDS	ppnKA	2.7.1.23	NAD kinase 1
+NJECIDAE_00947	CDS	rluD_2	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+NJECIDAE_00948	CDS	mgtE		Magnesium transporter MgtE
+NJECIDAE_00949	CDS			CutC-like protein
+NJECIDAE_00950	CDS	rlmA	2.1.1.187	23S rRNA (guanine(745)-N(1))-methyltransferase
+NJECIDAE_00951	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+NJECIDAE_00952	CDS	pspB_1	3.1.3.3	Putative phosphoserine phosphatase 2
+NJECIDAE_00953	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+NJECIDAE_00954	CDS			hypothetical protein
+NJECIDAE_00955	CDS	desR		Transcriptional regulatory protein DesR
+NJECIDAE_00956	CDS	desK	2.7.13.3	Sensor histidine kinase DesK
+NJECIDAE_00957	CDS	ybhF		putative ABC transporter ATP-binding protein YbhF
+NJECIDAE_00958	CDS			hypothetical protein
+NJECIDAE_00959	CDS			hypothetical protein
+NJECIDAE_00960	CDS	ytlR	2.7.1.-	Putative lipid kinase YtlR
+NJECIDAE_00961	CDS	queT_2		Queuosine precursor transporter QueT
+NJECIDAE_00962	CDS			hypothetical protein
+NJECIDAE_00963	CDS	rpmG2		50S ribosomal protein L33 2
+NJECIDAE_00964	CDS	secE		Protein translocase subunit SecE
+NJECIDAE_00965	CDS	nusG		Transcription termination/antitermination protein NusG
+NJECIDAE_00966	CDS			hypothetical protein
+NJECIDAE_00967	CDS		1.13.12.4	Lactate 2-monooxygenase
+NJECIDAE_00968	CDS	sdhA	4.3.1.17	L-serine dehydratase, alpha chain
+NJECIDAE_00969	CDS	sdhB	4.3.1.17	L-serine dehydratase, beta chain
+NJECIDAE_00970	CDS	rplK		50S ribosomal protein L11
+NJECIDAE_00971	CDS	rplA		50S ribosomal protein L1
+NJECIDAE_00972	CDS	rplJ		50S ribosomal protein L10
+NJECIDAE_00973	CDS	rplL		50S ribosomal protein L7/L12
+NJECIDAE_00974	CDS			hypothetical protein
+NJECIDAE_00975	CDS			putative transporter
+NJECIDAE_00976	CDS			hypothetical protein
+NJECIDAE_00977	CDS	ybiT_3		putative ABC transporter ATP-binding protein YbiT
+NJECIDAE_00978	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase
+NJECIDAE_00979	CDS			hypothetical protein
+NJECIDAE_00980	CDS	tqsA_2		AI-2 transport protein TqsA
+NJECIDAE_00981	CDS	nrdF	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit beta
+NJECIDAE_00982	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+NJECIDAE_00983	CDS	nrdH		Glutaredoxin-like protein NrdH
+NJECIDAE_00984	CDS			hypothetical protein
+NJECIDAE_00985	CDS	feoB		Fe(2+) transporter FeoB
+NJECIDAE_00986	CDS			hypothetical protein
+NJECIDAE_00987	CDS			hypothetical protein
+NJECIDAE_00988	CDS	opuAA	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+NJECIDAE_00989	CDS	gbuB		Glycine betaine/carnitine transport permease protein GbuB
+NJECIDAE_00990	CDS	pisA		Bacteriocin piscicolin-126
+NJECIDAE_00991	CDS			hypothetical protein
+NJECIDAE_00992	CDS			hypothetical protein
+NJECIDAE_00993	CDS			hypothetical protein
+NJECIDAE_00994	CDS			hypothetical protein
+NJECIDAE_00995	tRNA			tRNA-Lys(ctt)
+NJECIDAE_00996	CDS			hypothetical protein
+NJECIDAE_00997	CDS			DegV domain-containing protein
+NJECIDAE_00998	CDS	walR_1		Transcriptional regulatory protein WalR
+NJECIDAE_00999	CDS	walK_2	2.7.13.3	Sensor histidine kinase WalK
+NJECIDAE_01000	CDS			hypothetical protein
+NJECIDAE_01001	CDS	yycI		Two-component system WalR/WalK regulatory protein YycI
+NJECIDAE_01002	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+NJECIDAE_01003	CDS			hypothetical protein
+NJECIDAE_01004	CDS	gmuC_1		PTS system oligo-beta-mannoside-specific EIIC component
+NJECIDAE_01005	CDS			hypothetical protein
+NJECIDAE_01006	CDS	groS		10 kDa chaperonin
+NJECIDAE_01007	CDS	groL		60 kDa chaperonin
+NJECIDAE_01008	CDS	xerD_2		Tyrosine recombinase XerD
+NJECIDAE_01009	CDS			hypothetical protein
+NJECIDAE_01010	CDS			hypothetical protein
+NJECIDAE_01011	CDS			hypothetical protein
+NJECIDAE_01012	CDS			hypothetical protein
+NJECIDAE_01013	CDS			hypothetical protein
+NJECIDAE_01014	CDS			hypothetical protein
+NJECIDAE_01015	CDS			hypothetical protein
+NJECIDAE_01016	CDS			hypothetical protein
+NJECIDAE_01017	CDS			hypothetical protein
+NJECIDAE_01018	CDS			hypothetical protein
+NJECIDAE_01019	CDS			hypothetical protein
+NJECIDAE_01020	CDS			hypothetical protein
+NJECIDAE_01021	CDS			hypothetical protein
+NJECIDAE_01022	CDS			hypothetical protein
+NJECIDAE_01023	CDS			hypothetical protein
+NJECIDAE_01024	CDS			hypothetical protein
+NJECIDAE_01025	CDS			hypothetical protein
+NJECIDAE_01026	CDS			hypothetical protein
+NJECIDAE_01027	CDS			hypothetical protein
+NJECIDAE_01028	CDS			hypothetical protein
+NJECIDAE_01029	CDS			hypothetical protein
+NJECIDAE_01030	CDS			hypothetical protein
+NJECIDAE_01031	CDS			hypothetical protein
+NJECIDAE_01032	CDS			hypothetical protein
+NJECIDAE_01033	CDS			hypothetical protein
+NJECIDAE_01034	CDS			hypothetical protein
+NJECIDAE_01035	CDS			hypothetical protein
+NJECIDAE_01036	CDS			hypothetical protein
+NJECIDAE_01037	CDS			hypothetical protein
+NJECIDAE_01038	CDS			hypothetical protein
+NJECIDAE_01039	CDS			hypothetical protein
+NJECIDAE_01040	CDS			hypothetical protein
+NJECIDAE_01041	CDS	cas2_1	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+NJECIDAE_01042	CDS			hypothetical protein
+NJECIDAE_01043	CDS			hypothetical protein
+NJECIDAE_01044	CDS			hypothetical protein
+NJECIDAE_01045	CDS			hypothetical protein
+NJECIDAE_01046	CDS			hypothetical protein
+NJECIDAE_01047	CDS			hypothetical protein
+NJECIDAE_01048	CDS			hypothetical protein
+NJECIDAE_01049	CDS			hypothetical protein
+NJECIDAE_01050	CDS			hypothetical protein
+NJECIDAE_01051	CDS			hypothetical protein
+NJECIDAE_01052	CDS			hypothetical protein
+NJECIDAE_01053	CDS			hypothetical protein
+NJECIDAE_01054	CDS			hypothetical protein
+NJECIDAE_01055	CDS			hypothetical protein
+NJECIDAE_01056	CDS			hypothetical protein
+NJECIDAE_01057	CDS			hypothetical protein
+NJECIDAE_01058	CDS			hypothetical protein
+NJECIDAE_01059	CDS			hypothetical protein
+NJECIDAE_01060	CDS			hypothetical protein
+NJECIDAE_01061	CDS			hypothetical protein
+NJECIDAE_01062	CDS			hypothetical protein
+NJECIDAE_01063	CDS			hypothetical protein
+NJECIDAE_01064	CDS			hypothetical protein
+NJECIDAE_01065	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+NJECIDAE_01066	CDS			hypothetical protein
+NJECIDAE_01067	CDS			hypothetical protein
+NJECIDAE_01068	CDS			hypothetical protein
+NJECIDAE_01069	CDS			hypothetical protein
+NJECIDAE_01070	CDS			hypothetical protein
+NJECIDAE_01071	CDS			hypothetical protein
+NJECIDAE_01072	CDS			hypothetical protein
+NJECIDAE_01073	CDS	lytA_1	3.5.1.28	Autolysin
+NJECIDAE_01074	tRNA			tRNA-Met(cat)
+NJECIDAE_01075	CDS			hypothetical protein
+NJECIDAE_01076	CDS			hypothetical protein
+NJECIDAE_01077	CDS			hypothetical protein
+NJECIDAE_01078	CDS			hypothetical protein
+NJECIDAE_01079	CDS			hypothetical protein
+NJECIDAE_01080	CDS			hypothetical protein
+NJECIDAE_01081	CDS			hypothetical protein
+NJECIDAE_01082	CDS	pepS	3.4.11.-	Aminopeptidase PepS
+NJECIDAE_01083	CDS			hypothetical protein
+NJECIDAE_01084	CDS			Flavodoxin
+NJECIDAE_01085	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+NJECIDAE_01086	CDS			hypothetical protein
+NJECIDAE_01087	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+NJECIDAE_01088	CDS	wbbL	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+NJECIDAE_01089	CDS			hypothetical protein
+NJECIDAE_01090	CDS	epsH	2.4.-.-	Putative glycosyltransferase EpsH
+NJECIDAE_01091	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+NJECIDAE_01092	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+NJECIDAE_01093	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+NJECIDAE_01094	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+NJECIDAE_01095	CDS			hypothetical protein
+NJECIDAE_01096	CDS			hypothetical protein
+NJECIDAE_01097	CDS	tagG		Teichoic acid translocation permease protein TagG
+NJECIDAE_01098	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+NJECIDAE_01099	CDS	rsmA_1	2.1.1.-	Ribosomal RNA small subunit methyltransferase A
+NJECIDAE_01100	CDS	kfoC		Chondroitin synthase
+NJECIDAE_01101	CDS			hypothetical protein
+NJECIDAE_01102	CDS			hypothetical protein
+NJECIDAE_01103	CDS			hypothetical protein
+NJECIDAE_01104	CDS	wecA	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+NJECIDAE_01105	CDS	wbbD	2.4.1.303	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+NJECIDAE_01106	CDS			hypothetical protein
+NJECIDAE_01107	CDS			hypothetical protein
+NJECIDAE_01108	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NJECIDAE_01109	CDS	rmd	1.1.1.281	GDP-6-deoxy-D-mannose reductase
+NJECIDAE_01110	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+NJECIDAE_01111	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+NJECIDAE_01112	CDS			hypothetical protein
+NJECIDAE_01113	CDS	pglH_1	2.4.1.292	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+NJECIDAE_01114	CDS			hypothetical protein
+NJECIDAE_01115	CDS	wbgU_1	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+NJECIDAE_01116	CDS			hypothetical protein
+NJECIDAE_01117	CDS	pbpX_1		Putative penicillin-binding protein PbpX
+NJECIDAE_01118	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+NJECIDAE_01119	CDS	greA		Transcription elongation factor GreA
+NJECIDAE_01120	CDS			hypothetical protein
+NJECIDAE_01121	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+NJECIDAE_01122	CDS	vraR		Response regulator protein VraR
+NJECIDAE_01123	CDS	ktrA		Ktr system potassium uptake protein A
+NJECIDAE_01124	CDS			hypothetical protein
+NJECIDAE_01125	CDS			hypothetical protein
+NJECIDAE_01126	CDS			hypothetical protein
+NJECIDAE_01127	CDS			hypothetical protein
+NJECIDAE_01128	CDS	ghrB	1.1.1.79	Glyoxylate/hydroxypyruvate reductase B
+NJECIDAE_01129	CDS			hypothetical protein
+NJECIDAE_01130	CDS	czcD		Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+NJECIDAE_01131	CDS			hypothetical protein
+NJECIDAE_01132	CDS	sodA	1.15.1.1	Superoxide dismutase [Mn]
+NJECIDAE_01133	CDS	cspD		Cold shock protein CspD
+NJECIDAE_01134	CDS	lytR_1		Transcriptional regulator LytR
+NJECIDAE_01135	CDS	crtK-2		Tryptophan-rich protein TspO
+NJECIDAE_01136	CDS	gbpA		GlcNAc-binding protein A
+NJECIDAE_01137	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NJECIDAE_01138	CDS	recX		Regulatory protein RecX
+NJECIDAE_01139	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+NJECIDAE_01140	CDS			hypothetical protein
+NJECIDAE_01141	CDS		2.3.1.-	Acetyltransferase
+NJECIDAE_01142	CDS	tqsA_3		AI-2 transport protein TqsA
+NJECIDAE_01143	CDS	corC_2		Magnesium and cobalt efflux protein CorC
+NJECIDAE_01144	CDS	prfC		Peptide chain release factor 3
+NJECIDAE_01145	CDS			hypothetical protein
+NJECIDAE_01146	CDS			hypothetical protein
+NJECIDAE_01147	CDS	clpE		ATP-dependent Clp protease ATP-binding subunit ClpE
+NJECIDAE_01148	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+NJECIDAE_01149	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+NJECIDAE_01150	CDS	dgs_1	2.4.1.208	Processive diacylglycerol alpha-glucosyltransferase
+NJECIDAE_01151	CDS	dgs_2	2.4.1.208	Processive diacylglycerol alpha-glucosyltransferase
+NJECIDAE_01152	CDS		2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+NJECIDAE_01153	CDS	glxR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+NJECIDAE_01154	CDS			hypothetical protein
+NJECIDAE_01155	CDS	uvrC_1		UvrABC system protein C
+NJECIDAE_01156	CDS	marR		Multiple antibiotic resistance protein MarR
+NJECIDAE_01157	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NJECIDAE_01158	CDS	acpA		Acyl carrier protein
+NJECIDAE_01159	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+NJECIDAE_01160	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NJECIDAE_01161	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NJECIDAE_01162	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NJECIDAE_01163	CDS	fabZ_1	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+NJECIDAE_01164	CDS	cfiB_1	6.4.1.7	2-oxoglutarate carboxylase small subunit
+NJECIDAE_01165	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+NJECIDAE_01166	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+NJECIDAE_01167	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+NJECIDAE_01168	CDS	der_1		GTPase Der
+NJECIDAE_01169	CDS			RNA-binding protein
+NJECIDAE_01170	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+NJECIDAE_01171	CDS			hypothetical protein
+NJECIDAE_01172	CDS	rsfS		Ribosomal silencing factor RsfS
+NJECIDAE_01173	CDS		2.1.1.156	Glycine/sarcosine N-methyltransferase
+NJECIDAE_01174	CDS			hypothetical protein
+NJECIDAE_01175	CDS			putative transcriptional regulatory protein
+NJECIDAE_01176	CDS			hypothetical protein
+NJECIDAE_01177	CDS			hypothetical protein
+NJECIDAE_01178	CDS	helD_2	3.6.4.12	DNA helicase IV
+NJECIDAE_01179	CDS	ziaA	3.6.3.5	Zinc-transporting ATPase
+NJECIDAE_01180	CDS		5.3.2.-	putative tautomerase.1
+NJECIDAE_01181	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+NJECIDAE_01182	CDS	ybbH_1		putative HTH-type transcriptional regulator YbbH
+NJECIDAE_01183	CDS	penA		Penicillin-binding protein 2B
+NJECIDAE_01184	CDS			hypothetical protein
+NJECIDAE_01185	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+NJECIDAE_01186	CDS	pbuO		Guanine/hypoxanthine permease PbuO
+NJECIDAE_01187	CDS			hypothetical protein
+NJECIDAE_01188	CDS	yjhB_2		Putative metabolite transport protein YjhB
+NJECIDAE_01189	CDS			hypothetical protein
+NJECIDAE_01190	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+NJECIDAE_01191	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+NJECIDAE_01192	CDS	pyk	2.7.1.40	Pyruvate kinase
+NJECIDAE_01193	CDS	gltC_2		HTH-type transcriptional regulator GltC
+NJECIDAE_01194	CDS			hypothetical protein
+NJECIDAE_01195	CDS	rpmF_2		50S ribosomal protein L32
+NJECIDAE_01196	CDS	gnd	1.1.1.44	6-phosphogluconate dehydrogenase, decarboxylating
+NJECIDAE_01197	CDS	arlR_2		Response regulator ArlR
+NJECIDAE_01198	CDS	arlS_1	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+NJECIDAE_01199	rRNA			16S ribosomal RNA
+NJECIDAE_01200	tRNA			tRNA-Ala(tgc)
+NJECIDAE_01201	rRNA			23S ribosomal RNA
+NJECIDAE_01202	rRNA			5S ribosomal RNA
+NJECIDAE_01203	tRNA			tRNA-Asn(gtt)
+NJECIDAE_01204	tRNA			tRNA-Ser(gga)
+NJECIDAE_01205	tRNA			tRNA-Glu(ttc)
+NJECIDAE_01206	tRNA			tRNA-Val(tac)
+NJECIDAE_01207	tRNA			tRNA-Asp(gtc)
+NJECIDAE_01208	tRNA			tRNA-Phe(gaa)
+NJECIDAE_01209	tRNA			tRNA-Tyr(gta)
+NJECIDAE_01210	tRNA			tRNA-Trp(cca)
+NJECIDAE_01211	tRNA			tRNA-His(gtg)
+NJECIDAE_01212	tRNA			tRNA-Gln(ttg)
+NJECIDAE_01213	tRNA			tRNA-Cys(gca)
+NJECIDAE_01214	tRNA			tRNA-Leu(caa)
+NJECIDAE_01215	tRNA			tRNA-His(gtg)
+NJECIDAE_01216	tRNA			tRNA-Gln(ttg)
+NJECIDAE_01217	tRNA			tRNA-Leu(caa)
+NJECIDAE_01218	CDS	licT_2		Transcription antiterminator LicT
+NJECIDAE_01219	CDS		3.5.1.-	Carbohydrate deacetylase
+NJECIDAE_01220	CDS	nagE		PTS system N-acetylglucosamine-specific EIICBA component
+NJECIDAE_01221	CDS	malH	3.2.1.122	Maltose-6'-phosphate glucosidase MalH
+NJECIDAE_01222	CDS	ptsG_3	2.7.1.199	PTS system glucose-specific EIICBA component
+NJECIDAE_01223	CDS	licC_2		Lichenan permease IIC component
+NJECIDAE_01224	CDS			hypothetical protein
+NJECIDAE_01225	CDS			hypothetical protein
+NJECIDAE_01226	CDS			hypothetical protein
+NJECIDAE_01227	CDS	srlR		Glucitol operon repressor
+NJECIDAE_01228	CDS	ulaG	3.1.1.-	putative L-ascorbate-6-phosphate lactonase UlaG
+NJECIDAE_01229	CDS	cmtB_2	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+NJECIDAE_01230	CDS	ulaA_1		Ascorbate-specific PTS system EIIC component
+NJECIDAE_01231	CDS	ulaB_2	2.7.1.194	Ascorbate-specific PTS system EIIB component
+NJECIDAE_01232	CDS	ulaD	4.1.1.85	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+NJECIDAE_01233	CDS	ulaE	5.1.3.22	L-ribulose-5-phosphate 3-epimerase UlaE
+NJECIDAE_01234	CDS	araD	5.1.3.4	L-ribulose-5-phosphate 4-epimerase AraD
+NJECIDAE_01235	CDS			hypothetical protein
+NJECIDAE_01236	CDS			hypothetical protein
+NJECIDAE_01237	CDS			hypothetical protein
+NJECIDAE_01238	CDS			hypothetical protein
+NJECIDAE_01239	CDS	mtlR_1		Transcriptional regulator MtlR
+NJECIDAE_01240	CDS			hypothetical protein
+NJECIDAE_01241	CDS			hypothetical protein
+NJECIDAE_01242	CDS			hypothetical protein
+NJECIDAE_01243	CDS			hypothetical protein
+NJECIDAE_01244	CDS			hypothetical protein
+NJECIDAE_01245	CDS			hypothetical protein
+NJECIDAE_01246	CDS		3.1.1.-	Deacetylase
+NJECIDAE_01247	CDS	dgaE	4.3.1.29	D-glucosaminate-6-phosphate ammonia lyase
+NJECIDAE_01248	CDS	dgaF	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+NJECIDAE_01249	CDS	manP_1		PTS system mannose-specific EIIBCA component
+NJECIDAE_01250	CDS	manP_2		PTS system mannose-specific EIIBCA component
+NJECIDAE_01251	CDS	manR_2		Transcriptional regulator ManR
+NJECIDAE_01252	CDS	arsC	1.20.4.1	Glutaredoxin arsenate reductase
+NJECIDAE_01253	CDS	luxA	1.14.14.3	Alkanal monooxygenase alpha chain
+NJECIDAE_01254	CDS			putative HTH-type transcriptional regulator
+NJECIDAE_01255	CDS			hypothetical protein
+NJECIDAE_01256	CDS	lacC_1	2.7.1.144	Tagatose-6-phosphate kinase
+NJECIDAE_01257	CDS	lacR_2		Lactose phosphotransferase system repressor
+NJECIDAE_01258	CDS	gatA_1	2.7.1.200	PTS system galactitol-specific EIIA component
+NJECIDAE_01259	CDS	gatB_1	2.7.1.200	PTS system galactitol-specific EIIB component
+NJECIDAE_01260	CDS	gatC_1		PTS system galactitol-specific EIIC component
+NJECIDAE_01261	CDS			hypothetical protein
+NJECIDAE_01262	CDS	mtnB	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+NJECIDAE_01263	CDS	mhqD	3.1.-.-	Putative hydrolase MhqD
+NJECIDAE_01264	CDS	mhqA	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+NJECIDAE_01265	CDS	gmuR		HTH-type transcriptional regulator GmuR
+NJECIDAE_01266	CDS	gmuC_2		PTS system oligo-beta-mannoside-specific EIIC component
+NJECIDAE_01267	CDS	gmuD_2	3.2.1.86	6-phospho-beta-glucosidase GmuD
+NJECIDAE_01268	CDS			Putative universal stress protein
+NJECIDAE_01269	CDS			hypothetical protein
+NJECIDAE_01270	CDS			hypothetical protein
+NJECIDAE_01271	CDS	spxA_4		Regulatory protein Spx
+NJECIDAE_01272	CDS			hypothetical protein
+NJECIDAE_01273	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+NJECIDAE_01274	CDS	clsA_1	2.7.8.-	Major cardiolipin synthase ClsA
+NJECIDAE_01275	CDS		3.6.3.8	Calcium-transporting ATPase
+NJECIDAE_01276	CDS	ubiE_1	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+NJECIDAE_01277	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+NJECIDAE_01278	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+NJECIDAE_01279	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+NJECIDAE_01280	CDS			hypothetical protein
+NJECIDAE_01281	CDS			hypothetical protein
+NJECIDAE_01282	CDS	yvgN	1.1.1.-	Glyoxal reductase
+NJECIDAE_01283	CDS			hypothetical protein
+NJECIDAE_01284	CDS			hypothetical protein
+NJECIDAE_01285	CDS	tuf_2		Elongation factor Tu
+NJECIDAE_01286	CDS	mprF_2	2.3.2.3	Phosphatidylglycerol lysyltransferase
+NJECIDAE_01287	CDS	xylF	3.7.1.9	2-hydroxymuconate semialdehyde hydrolase
+NJECIDAE_01288	CDS			hypothetical protein
+NJECIDAE_01289	CDS			hypothetical protein
+NJECIDAE_01290	CDS	ctpE_1	3.6.3.-	putative cation-transporting ATPase E
+NJECIDAE_01291	CDS	dnaG	2.7.7.-	DNA primase
+NJECIDAE_01292	CDS	sigA		RNA polymerase sigma factor SigA
+NJECIDAE_01293	CDS			hypothetical protein
+NJECIDAE_01294	CDS	mapZ		Mid-cell-anchored protein Z
+NJECIDAE_01295	CDS	cvfB		Conserved virulence factor B
+NJECIDAE_01296	CDS	fur		Ferric uptake regulation protein
+NJECIDAE_01297	CDS			hypothetical protein
+NJECIDAE_01298	CDS	xerD_3		Tyrosine recombinase XerD
+NJECIDAE_01299	CDS			hypothetical protein
+NJECIDAE_01300	CDS	scpA		Segregation and condensation protein A
+NJECIDAE_01301	CDS	scpB		Segregation and condensation protein B
+NJECIDAE_01302	CDS	rluB_2	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+NJECIDAE_01303	CDS	fmnP		Riboflavin transporter FmnP
+NJECIDAE_01304	CDS			hypothetical protein
+NJECIDAE_01305	CDS		3.4.13.-	Putative dipeptidase
+NJECIDAE_01306	CDS			hypothetical protein
+NJECIDAE_01307	CDS			hypothetical protein
+NJECIDAE_01308	CDS			hypothetical protein
+NJECIDAE_01309	CDS	recQ_1	3.6.4.12	ATP-dependent DNA helicase RecQ
+NJECIDAE_01310	CDS	sle1	3.5.1.28	N-acetylmuramoyl-L-alanine amidase sle1
+NJECIDAE_01311	CDS	cmk	2.7.4.25	Cytidylate kinase
+NJECIDAE_01312	CDS	ypfD		30S ribosomal protein S1 
+NJECIDAE_01313	CDS	der_2		GTPase Der
+NJECIDAE_01314	CDS	hupA		DNA-binding protein HU 1
+NJECIDAE_01315	CDS			hypothetical protein
+NJECIDAE_01316	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+NJECIDAE_01317	CDS			hypothetical protein
+NJECIDAE_01318	CDS			hypothetical protein
+NJECIDAE_01319	CDS			hypothetical protein
+NJECIDAE_01320	CDS	cca	2.7.7.72	CCA-adding enzyme
+NJECIDAE_01321	CDS			hypothetical protein
+NJECIDAE_01322	CDS			hypothetical protein
+NJECIDAE_01323	CDS	nhaK		Sodium, potassium, lithium and rubidium/H(+) antiporter
+NJECIDAE_01324	CDS	ettA_2		Energy-dependent translational throttle protein EttA
+NJECIDAE_01325	CDS	thyA	2.1.1.45	Thymidylate synthase
+NJECIDAE_01326	CDS	folA_1	1.5.1.3	Dihydrofolate reductase
+NJECIDAE_01327	CDS			hypothetical protein
+NJECIDAE_01328	CDS			DegV domain-containing protein
+NJECIDAE_01329	CDS	lipC	3.-.-.-	Spore germination lipase LipC
+NJECIDAE_01330	CDS			hypothetical protein
+NJECIDAE_01331	CDS	msrA_2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+NJECIDAE_01332	CDS			hypothetical protein
+NJECIDAE_01333	CDS	sipV	3.4.21.89	Signal peptidase I V
+NJECIDAE_01334	CDS	folT_1		Folate transporter FolT
+NJECIDAE_01335	CDS			hypothetical protein
+NJECIDAE_01336	CDS	rbgA		Ribosome biogenesis GTPase A
+NJECIDAE_01337	CDS	rnhB	3.1.26.4	Ribonuclease HII
+NJECIDAE_01338	CDS	dprA		DNA processing protein DprA
+NJECIDAE_01339	CDS	topA	5.99.1.2	DNA topoisomerase 1
+NJECIDAE_01340	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+NJECIDAE_01341	CDS	xerC_1		Tyrosine recombinase XerC
+NJECIDAE_01342	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+NJECIDAE_01343	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+NJECIDAE_01344	CDS	codY		GTP-sensing transcriptional pleiotropic repressor CodY
+NJECIDAE_01345	CDS	galM_2	5.1.3.3	Aldose 1-epimerase
+NJECIDAE_01346	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+NJECIDAE_01347	CDS			hypothetical protein
+NJECIDAE_01348	CDS	parE	5.99.1.3	DNA topoisomerase 4 subunit B
+NJECIDAE_01349	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+NJECIDAE_01350	CDS	pflB	2.3.1.54	Formate acetyltransferase
+NJECIDAE_01351	CDS	pflA	1.97.1.4	Pyruvate formate-lyase-activating enzyme
+NJECIDAE_01352	CDS	ppaC	3.6.1.1	putative manganese-dependent inorganic pyrophosphatase
+NJECIDAE_01353	CDS			hypothetical protein
+NJECIDAE_01354	CDS			hypothetical protein
+NJECIDAE_01355	CDS			hypothetical protein
+NJECIDAE_01356	CDS			hypothetical protein
+NJECIDAE_01357	CDS		3.1.1.2	Arylesterase
+NJECIDAE_01358	CDS	exuR_2		putative HTH-type transcriptional repressor ExuR
+NJECIDAE_01359	CDS			hypothetical protein
+NJECIDAE_01360	CDS			hypothetical protein
+NJECIDAE_01361	CDS			hypothetical protein
+NJECIDAE_01362	CDS	opuBB		Choline transport system permease protein OpuBB
+NJECIDAE_01363	CDS	opuCA_2	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+NJECIDAE_01364	CDS			hypothetical protein
+NJECIDAE_01365	CDS	garB	1.8.1.16	Glutathione amide reductase
+NJECIDAE_01366	CDS	ribX		Riboflavin transport system permease protein RibX
+NJECIDAE_01367	CDS	thiY		Formylaminopyrimidine-binding protein
+NJECIDAE_01368	CDS	ssuB	3.6.3.-	Aliphatic sulfonates import ATP-binding protein SsuB
+NJECIDAE_01369	CDS	dtd3_1	3.1.1.96	D-aminoacyl-tRNA deacylase
+NJECIDAE_01370	CDS			hypothetical protein
+NJECIDAE_01371	CDS	smc_3		Chromosome partition protein Smc
+NJECIDAE_01372	CDS			hypothetical protein
+NJECIDAE_01373	CDS	fosX		Fosfomycin resistance protein FosX
+NJECIDAE_01374	CDS			hypothetical protein
+NJECIDAE_01375	CDS			hypothetical protein
+NJECIDAE_01376	CDS			hypothetical protein
+NJECIDAE_01377	CDS			hypothetical protein
+NJECIDAE_01378	tRNA			tRNA-Leu(gag)
+NJECIDAE_01379	CDS			hypothetical protein
+NJECIDAE_01380	CDS	alaA	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+NJECIDAE_01381	CDS			hypothetical protein
+NJECIDAE_01382	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+NJECIDAE_01383	CDS			hypothetical protein
+NJECIDAE_01384	CDS	fldH_1	1.1.1.-	Phenyllactate dehydrogenase
+NJECIDAE_01385	CDS	dcuR		Transcriptional regulatory protein DcuR
+NJECIDAE_01386	CDS	dcuS_1	2.7.13.3	Sensor histidine kinase DcuS
+NJECIDAE_01387	CDS	dcuS_2	2.7.13.3	Sensor histidine kinase DcuS
+NJECIDAE_01388	CDS	yuaF		putative membrane protein YuaF
+NJECIDAE_01389	CDS	yqiK		Inner membrane protein YqiK
+NJECIDAE_01390	CDS			hypothetical protein
+NJECIDAE_01391	CDS			hypothetical protein
+NJECIDAE_01392	CDS	afr_1	1.1.1.292	1,5-anhydro-D-fructose reductase
+NJECIDAE_01393	CDS			hypothetical protein
+NJECIDAE_01394	CDS	yodJ	3.4.-.-	Putative carboxypeptidase YodJ
+NJECIDAE_01395	CDS	lytG	3.2.1.-	Exo-glucosaminidase LytG
+NJECIDAE_01396	CDS			hypothetical protein
+NJECIDAE_01397	CDS	yesO		Putative ABC transporter substrate-binding protein YesO
+NJECIDAE_01398	CDS	lacF_3		Lactose transport system permease protein LacF
+NJECIDAE_01399	CDS	araQ_4		L-arabinose transport system permease protein AraQ
+NJECIDAE_01400	CDS			hypothetical protein
+NJECIDAE_01401	CDS	yteT	1.-.-.-	Putative oxidoreductase YteT
+NJECIDAE_01402	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+NJECIDAE_01403	CDS	pucK		Uric acid permease PucK
+NJECIDAE_01404	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+NJECIDAE_01405	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+NJECIDAE_01406	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+NJECIDAE_01407	CDS			hypothetical protein
+NJECIDAE_01408	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NJECIDAE_01409	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+NJECIDAE_01410	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+NJECIDAE_01411	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+NJECIDAE_01412	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+NJECIDAE_01413	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+NJECIDAE_01414	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+NJECIDAE_01415	CDS	purH		Bifunctional purine biosynthesis protein PurH
+NJECIDAE_01416	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+NJECIDAE_01417	CDS	ydhF	1.-.-.-	Oxidoreductase YdhF
+NJECIDAE_01418	CDS			putative response regulatory protein
+NJECIDAE_01419	CDS	yehU_1	2.7.13.3	Sensor histidine kinase YehU
+NJECIDAE_01420	CDS	ytfQ		ABC transporter periplasmic-binding protein YtfQ
+NJECIDAE_01421	CDS	chvE		Multiple sugar-binding periplasmic receptor ChvE
+NJECIDAE_01422	CDS	xylG	3.6.3.17	Xylose import ATP-binding protein XylG
+NJECIDAE_01423	CDS	xylH		Xylose transport system permease protein XylH
+NJECIDAE_01424	CDS	guaC	1.7.1.7	GMP reductase
+NJECIDAE_01425	CDS	norG		HTH-type transcriptional regulator NorG
+NJECIDAE_01426	CDS	pdhA	1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha
+NJECIDAE_01427	CDS	pdhB	1.2.4.1	Pyruvate dehydrogenase E1 component subunit beta
+NJECIDAE_01428	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+NJECIDAE_01429	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+NJECIDAE_01430	CDS			hypothetical protein
+NJECIDAE_01431	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+NJECIDAE_01432	CDS	typA		GTP-binding protein TypA/BipA
+NJECIDAE_01433	CDS	recQ_2	3.6.4.12	ATP-dependent DNA helicase RecQ
+NJECIDAE_01434	CDS	recQ_3	3.6.4.12	ATP-dependent DNA helicase RecQ
+NJECIDAE_01435	CDS			hypothetical protein
+NJECIDAE_01436	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+NJECIDAE_01437	CDS	cfiB_2	6.4.1.7	2-oxoglutarate carboxylase small subunit
+NJECIDAE_01438	CDS			hypothetical protein
+NJECIDAE_01439	CDS			hypothetical protein
+NJECIDAE_01440	CDS			hypothetical protein
+NJECIDAE_01441	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+NJECIDAE_01442	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+NJECIDAE_01443	CDS	lon	3.4.21.53	Lon protease
+NJECIDAE_01444	CDS	comEA		ComE operon protein 1
+NJECIDAE_01445	CDS			hypothetical protein
+NJECIDAE_01446	CDS			hypothetical protein
+NJECIDAE_01447	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+NJECIDAE_01448	CDS	comEC		ComE operon protein 3
+NJECIDAE_01449	CDS			hypothetical protein
+NJECIDAE_01450	CDS	rpsT		30S ribosomal protein S20
+NJECIDAE_01451	CDS			hypothetical protein
+NJECIDAE_01452	CDS			hypothetical protein
+NJECIDAE_01453	CDS	zosA	3.6.3.-	Zinc-transporting ATPase
+NJECIDAE_01454	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+NJECIDAE_01455	CDS	pspB_2	3.1.3.3	Putative phosphoserine phosphatase 2
+NJECIDAE_01456	CDS		3.-.-.-	putative metallo-hydrolase
+NJECIDAE_01457	CDS	dinG_1	3.6.4.12	putative ATP-dependent helicase DinG 
+NJECIDAE_01458	CDS			hypothetical protein
+NJECIDAE_01459	CDS			hypothetical protein
+NJECIDAE_01460	CDS	mrp		Iron-sulfur cluster carrier protein
+NJECIDAE_01461	CDS			hypothetical protein
+NJECIDAE_01462	tRNA			tRNA-Leu(cag)
+NJECIDAE_01463	CDS			hypothetical protein
+NJECIDAE_01464	CDS			Putative universal stress protein
+NJECIDAE_01465	CDS			hypothetical protein
+NJECIDAE_01466	CDS			hypothetical protein
+NJECIDAE_01467	CDS			hypothetical protein
+NJECIDAE_01468	CDS			hypothetical protein
+NJECIDAE_01469	CDS			hypothetical protein
+NJECIDAE_01470	CDS			hypothetical protein
+NJECIDAE_01471	CDS			hypothetical protein
+NJECIDAE_01472	tRNA			tRNA-Gln(ctg)
+NJECIDAE_01473	CDS			hypothetical protein
+NJECIDAE_01474	CDS			hypothetical protein
+NJECIDAE_01475	CDS			hypothetical protein
+NJECIDAE_01476	CDS			hypothetical protein
+NJECIDAE_01477	CDS			hypothetical protein
+NJECIDAE_01478	CDS	dtpT_1		Di-/tripeptide transporter
+NJECIDAE_01479	CDS	dtpT_2		Di-/tripeptide transporter
+NJECIDAE_01480	CDS			hypothetical protein
+NJECIDAE_01481	CDS	addB_1	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+NJECIDAE_01482	CDS	addB_2	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+NJECIDAE_01483	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+NJECIDAE_01484	CDS	yodB		HTH-type transcriptional regulator YodB
+NJECIDAE_01485	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+NJECIDAE_01486	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+NJECIDAE_01487	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+NJECIDAE_01488	CDS	glnQ_1	3.6.3.-	Glutamine transport ATP-binding protein GlnQ
+NJECIDAE_01489	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+NJECIDAE_01490	CDS	glnM_1		putative glutamine ABC transporter permease protein GlnM
+NJECIDAE_01491	CDS	glnP_2		putative glutamine ABC transporter permease protein GlnP
+NJECIDAE_01492	CDS	murI	5.1.1.3	Glutamate racemase
+NJECIDAE_01493	CDS	rph	2.7.7.56	Ribonuclease PH
+NJECIDAE_01494	CDS		3.1.4.-	Putative metallophosphoesterase MG207 
+NJECIDAE_01495	CDS	ykuL		CBS domain-containing protein YkuL
+NJECIDAE_01496	CDS	ykuT		putative MscS family protein YkuT
+NJECIDAE_01497	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+NJECIDAE_01498	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+NJECIDAE_01499	CDS	fabZ_2	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+NJECIDAE_01500	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+NJECIDAE_01501	CDS			hypothetical protein
+NJECIDAE_01502	CDS			hypothetical protein
+NJECIDAE_01503	CDS		3.1.1.23	Thermostable monoacylglycerol lipase
+NJECIDAE_01504	CDS	gap_1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+NJECIDAE_01505	CDS	obg	3.6.5.-	GTPase Obg
+NJECIDAE_01506	CDS			hypothetical protein
+NJECIDAE_01507	CDS	rnz	3.1.26.11	Ribonuclease Z
+NJECIDAE_01508	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NJECIDAE_01509	CDS			hypothetical protein
+NJECIDAE_01510	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+NJECIDAE_01511	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+NJECIDAE_01512	CDS			hypothetical protein
+NJECIDAE_01513	CDS	lexA	3.4.21.88	LexA repressor
+NJECIDAE_01514	CDS			hypothetical protein
+NJECIDAE_01515	CDS	tkt	2.2.1.1	Transketolase
+NJECIDAE_01516	CDS			hypothetical protein
+NJECIDAE_01517	CDS		3.2.1.-	Autolysin
+NJECIDAE_01518	CDS	cysK	2.5.1.47	Cysteine synthase
+NJECIDAE_01519	CDS	perR		Peroxide operon regulator
+NJECIDAE_01520	CDS	nox_1	1.6.99.3	NADH oxidase
+NJECIDAE_01521	CDS			hypothetical protein
+NJECIDAE_01522	CDS			hypothetical protein
+NJECIDAE_01523	CDS	tetA		Tetracycline resistance protein, class C
+NJECIDAE_01524	CDS	dnaD		DNA replication protein DnaD
+NJECIDAE_01525	CDS	nth	4.2.99.18	Endonuclease III
+NJECIDAE_01526	CDS			hypothetical protein
+NJECIDAE_01527	CDS			hypothetical protein
+NJECIDAE_01528	CDS	ponA_1		Penicillin-binding protein 1A
+NJECIDAE_01529	CDS	recU	3.1.22.-	Holliday junction resolvase RecU
+NJECIDAE_01530	CDS			hypothetical protein
+NJECIDAE_01531	CDS	gpsB		Cell cycle protein GpsB
+NJECIDAE_01532	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+NJECIDAE_01533	CDS	ypwA	3.4.17.19	Carboxypeptidase 1
+NJECIDAE_01534	CDS			hypothetical protein
+NJECIDAE_01535	CDS			hypothetical protein
+NJECIDAE_01536	CDS		2.3.1.-	Putative pyridoxal phosphate-dependent acyltransferase
+NJECIDAE_01537	CDS			putative epimerase/dehydratase
+NJECIDAE_01538	CDS	steT_1		Serine/threonine exchanger SteT
+NJECIDAE_01539	CDS			hypothetical protein
+NJECIDAE_01540	CDS			hypothetical protein
+NJECIDAE_01541	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+NJECIDAE_01542	CDS		2.3.1.-	Acetyltransferase
+NJECIDAE_01543	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+NJECIDAE_01544	CDS	panT_1		Pantothenate transporter PanT
+NJECIDAE_01545	CDS	fieF		Ferrous-iron efflux pump FieF
+NJECIDAE_01546	CDS	rnhA		14.7 kDa ribonuclease H-like protein
+NJECIDAE_01547	CDS			hypothetical protein
+NJECIDAE_01548	CDS	csp		Cold shock-like protein
+NJECIDAE_01549	CDS	fhs1	6.3.4.3	Formate--tetrahydrofolate ligase 1
+NJECIDAE_01550	CDS			hypothetical protein
+NJECIDAE_01551	CDS			hypothetical protein
+NJECIDAE_01552	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+NJECIDAE_01553	CDS	rluD_3	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+NJECIDAE_01554	CDS	pyrR		Bifunctional protein pyrR
+NJECIDAE_01555	CDS	pyrP		Uracil permease
+NJECIDAE_01556	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+NJECIDAE_01557	CDS	pyrC	3.5.2.3	Dihydroorotase
+NJECIDAE_01558	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+NJECIDAE_01559	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+NJECIDAE_01560	CDS	pyrK_1		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NJECIDAE_01561	CDS	pyrK_2		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NJECIDAE_01562	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+NJECIDAE_01563	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+NJECIDAE_01564	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+NJECIDAE_01565	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+NJECIDAE_01566	CDS	cah	4.2.1.1	Carbonic anhydrase
+NJECIDAE_01567	CDS	oxyR		Hydrogen peroxide-inducible genes activator
+NJECIDAE_01568	CDS			hypothetical protein
+NJECIDAE_01569	CDS			hypothetical protein
+NJECIDAE_01570	CDS			hypothetical protein
+NJECIDAE_01571	CDS			hypothetical protein
+NJECIDAE_01572	CDS			hypothetical protein
+NJECIDAE_01573	CDS	lsrC_2		Autoinducer 2 import system permease protein LsrC
+NJECIDAE_01574	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+NJECIDAE_01575	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+NJECIDAE_01576	CDS	msrR_1		Regulatory protein MsrR
+NJECIDAE_01577	CDS			hypothetical protein
+NJECIDAE_01578	CDS	topB_2	5.99.1.2	DNA topoisomerase 3
+NJECIDAE_01579	CDS			hypothetical protein
+NJECIDAE_01580	CDS			hypothetical protein
+NJECIDAE_01581	CDS	doc		Toxin Doc
+NJECIDAE_01582	CDS	ldhB	1.1.1.27	L-lactate dehydrogenase 2
+NJECIDAE_01583	CDS			hypothetical protein
+NJECIDAE_01584	CDS	chbR		HTH-type transcriptional regulator ChbR
+NJECIDAE_01585	CDS			hypothetical protein
+NJECIDAE_01586	CDS			hypothetical protein
+NJECIDAE_01587	CDS	ulaA_2		Ascorbate-specific PTS system EIIC component
+NJECIDAE_01588	CDS			hypothetical protein
+NJECIDAE_01589	CDS	ulaC	2.7.1.194	Ascorbate-specific PTS system EIIA component
+NJECIDAE_01590	CDS			hypothetical protein
+NJECIDAE_01591	CDS			hypothetical protein
+NJECIDAE_01592	CDS	yhhX	1.-.-.-	putative oxidoreductase YhhX
+NJECIDAE_01593	CDS	ybbH_2		putative HTH-type transcriptional regulator YbbH
+NJECIDAE_01594	CDS			hypothetical protein
+NJECIDAE_01595	CDS			hypothetical protein
+NJECIDAE_01596	CDS			hypothetical protein
+NJECIDAE_01597	CDS			hypothetical protein
+NJECIDAE_01598	CDS			hypothetical protein
+NJECIDAE_01599	CDS			hypothetical protein
+NJECIDAE_01600	CDS			hypothetical protein
+NJECIDAE_01601	CDS			hypothetical protein
+NJECIDAE_01602	CDS	hrtA_1	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+NJECIDAE_01603	CDS			putative ABC transporter permease
+NJECIDAE_01604	CDS			hypothetical protein
+NJECIDAE_01605	CDS	mprA		Response regulator MprA
+NJECIDAE_01606	CDS	srrB	2.7.13.3	Sensor protein SrrB
+NJECIDAE_01607	CDS	ysnF		Stress response protein YsnF
+NJECIDAE_01608	CDS	xerS_1		Tyrosine recombinase XerS
+NJECIDAE_01609	CDS	fcbA1	6.2.1.33	4-chlorobenzoate--CoA ligase
+NJECIDAE_01610	CDS	pdxK	2.7.1.35	Pyridoxine kinase
+NJECIDAE_01611	CDS	hmpT		Thiamine precursor transporter HmpT
+NJECIDAE_01612	CDS			hypothetical protein
+NJECIDAE_01613	CDS	malL_2	3.2.1.10	Oligo-1,6-glucosidase
+NJECIDAE_01614	CDS			hypothetical protein
+NJECIDAE_01615	CDS			hypothetical protein
+NJECIDAE_01616	CDS			DegV domain-containing protein
+NJECIDAE_01617	CDS	murJ_3		Lipid II flippase MurJ
+NJECIDAE_01618	CDS			hypothetical protein
+NJECIDAE_01619	CDS	ygaZ_2		Inner membrane protein YgaZ
+NJECIDAE_01620	CDS	zitB		Zinc transporter ZitB
+NJECIDAE_01621	CDS			hypothetical protein
+NJECIDAE_01622	CDS			hypothetical protein
+NJECIDAE_01623	CDS			hypothetical protein
+NJECIDAE_01624	CDS			hypothetical protein
+NJECIDAE_01625	CDS			hypothetical protein
+NJECIDAE_01626	CDS			hypothetical protein
+NJECIDAE_01627	CDS	nupC		Nucleoside permease NupC
+NJECIDAE_01628	CDS	gmk_2	2.7.4.8	Guanylate kinase
+NJECIDAE_01629	CDS			hypothetical protein
+NJECIDAE_01630	CDS			hypothetical protein
+NJECIDAE_01631	CDS			hypothetical protein
+NJECIDAE_01632	CDS	yecS_1		L-cystine transport system permease protein YecS
+NJECIDAE_01633	CDS	yckB		putative ABC transporter extracellular-binding protein YckB
+NJECIDAE_01634	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+NJECIDAE_01635	CDS	pyrDA	1.3.98.1	Dihydroorotate dehydrogenase A (fumarate)
+NJECIDAE_01636	CDS			hypothetical protein
+NJECIDAE_01637	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+NJECIDAE_01638	CDS			hypothetical protein
+NJECIDAE_01639	CDS	malG		Maltose transport system permease protein MalG
+NJECIDAE_01640	CDS	malF		Maltose transport system permease protein MalF
+NJECIDAE_01641	CDS	mdxE		Maltodextrin-binding protein MdxE
+NJECIDAE_01642	CDS	bbmA	3.2.1.-	Intracellular maltogenic amylase
+NJECIDAE_01643	CDS			hypothetical protein
+NJECIDAE_01644	CDS			hypothetical protein
+NJECIDAE_01645	CDS	ohrA		Organic hydroperoxide resistance protein OhrA
+NJECIDAE_01646	CDS	ohrR		Organic hydroperoxide resistance transcriptional regulator
+NJECIDAE_01647	CDS			hypothetical protein
+NJECIDAE_01648	CDS			hypothetical protein
+NJECIDAE_01649	CDS			hypothetical protein
+NJECIDAE_01650	CDS			hypothetical protein
+NJECIDAE_01651	CDS			hypothetical protein
+NJECIDAE_01652	CDS	uxuA_1	4.2.1.8	Mannonate dehydratase
+NJECIDAE_01653	CDS	uxuA_2	4.2.1.8	Mannonate dehydratase
+NJECIDAE_01654	CDS	uxuA_3	4.2.1.8	Mannonate dehydratase
+NJECIDAE_01655	CDS	por_1	1.1.1.-	Polyol:NADP oxidoreductase
+NJECIDAE_01656	CDS	rspR_2		HTH-type transcriptional repressor RspR
+NJECIDAE_01657	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+NJECIDAE_01658	CDS	ahpF	1.6.99.3	NADH dehydrogenase
+NJECIDAE_01659	CDS			hypothetical protein
+NJECIDAE_01660	CDS			hypothetical protein
+NJECIDAE_01661	CDS	napA_1		Na(+)/H(+) antiporter
+NJECIDAE_01662	CDS	napA_2		Na(+)/H(+) antiporter
+NJECIDAE_01663	CDS	pbp		Beta-lactam-inducible penicillin-binding protein
+NJECIDAE_01664	CDS	msrR_2		Regulatory protein MsrR
+NJECIDAE_01665	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+NJECIDAE_01666	CDS			hypothetical protein
+NJECIDAE_01667	CDS			hypothetical protein
+NJECIDAE_01668	CDS	nanE_1	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+NJECIDAE_01669	CDS			hypothetical protein
+NJECIDAE_01670	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+NJECIDAE_01671	CDS			hypothetical protein
+NJECIDAE_01672	CDS	glsA	3.5.1.2	Glutaminase
+NJECIDAE_01673	CDS	gadC_2		Glutamate/gamma-aminobutyrate antiporter
+NJECIDAE_01674	CDS	amt		Ammonia channel
+NJECIDAE_01675	CDS			hypothetical protein
+NJECIDAE_01676	CDS			hypothetical protein
+NJECIDAE_01677	CDS			Stress response regulator gls24 
+NJECIDAE_01678	CDS			hypothetical protein
+NJECIDAE_01679	CDS			hypothetical protein
+NJECIDAE_01680	CDS			hypothetical protein
+NJECIDAE_01681	CDS			hypothetical protein
+NJECIDAE_01682	CDS			hypothetical protein
+NJECIDAE_01683	CDS			hypothetical protein
+NJECIDAE_01684	CDS			hypothetical protein
+NJECIDAE_01685	CDS			Stress response regulator gls24 
+NJECIDAE_01686	CDS			hypothetical protein
+NJECIDAE_01687	CDS	yghA	1.-.-.-	putative oxidoreductase YghA
+NJECIDAE_01688	CDS	corA_2		Cobalt/magnesium transport protein CorA
+NJECIDAE_01689	CDS			hypothetical protein
+NJECIDAE_01690	CDS	gspA_1		General stress protein A
+NJECIDAE_01691	CDS	gspA_2		General stress protein A
+NJECIDAE_01692	CDS	yidA_2	3.1.3.23	Sugar phosphatase YidA
+NJECIDAE_01693	CDS			hypothetical protein
+NJECIDAE_01694	tRNA			tRNA-Met(cat)
+NJECIDAE_01695	CDS			hypothetical protein
+NJECIDAE_01696	CDS			hypothetical protein
+NJECIDAE_01697	CDS			hypothetical protein
+NJECIDAE_01698	CDS			hypothetical protein
+NJECIDAE_01699	CDS			hypothetical protein
+NJECIDAE_01700	CDS	cspL		Cold shock protein 2
+NJECIDAE_01701	CDS			hypothetical protein
+NJECIDAE_01702	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+NJECIDAE_01703	CDS	uxuA_4	4.2.1.8	Mannonate dehydratase
+NJECIDAE_01704	CDS	manX_1	2.7.1.191	PTS system mannose-specific EIIAB component
+NJECIDAE_01705	CDS			hypothetical protein
+NJECIDAE_01706	CDS			hypothetical protein
+NJECIDAE_01707	CDS	sorB_2	2.7.1.206	PTS system sorbose-specific EIIB component
+NJECIDAE_01708	CDS	manZ_2		PTS system mannose-specific EIID component
+NJECIDAE_01709	CDS	sorA_1		PTS system sorbose-specific EIIC component
+NJECIDAE_01710	CDS	ybdH	1.1.-.-	putative oxidoreductase YbdH
+NJECIDAE_01711	CDS			hypothetical protein
+NJECIDAE_01712	CDS	fldH_2	1.1.1.-	Phenyllactate dehydrogenase
+NJECIDAE_01713	CDS		1.1.1.343	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+NJECIDAE_01714	CDS	murR_1		HTH-type transcriptional regulator MurR
+NJECIDAE_01715	CDS			hypothetical protein
+NJECIDAE_01716	CDS	aes_1	3.1.1.-	Acetyl esterase
+NJECIDAE_01717	CDS			hypothetical protein
+NJECIDAE_01718	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+NJECIDAE_01719	CDS	spxA_5		Regulatory protein Spx
+NJECIDAE_01720	CDS			hypothetical protein
+NJECIDAE_01721	CDS			hypothetical protein
+NJECIDAE_01722	CDS			hypothetical protein
+NJECIDAE_01723	CDS			hypothetical protein
+NJECIDAE_01724	CDS	prsA_3	5.2.1.8	Foldase protein PrsA
+NJECIDAE_01725	CDS	fsaA	4.1.2.-	Fructose-6-phosphate aldolase 1
+NJECIDAE_01726	CDS	srlB	2.7.1.198	PTS system glucitol/sorbitol-specific EIIA component
+NJECIDAE_01727	CDS			hypothetical protein
+NJECIDAE_01728	CDS	srlE	2.7.1.198	PTS system glucitol/sorbitol-specific EIIB component
+NJECIDAE_01729	CDS	srlA		PTS system glucitol/sorbitol-specific EIIC component
+NJECIDAE_01730	CDS			hypothetical protein
+NJECIDAE_01731	CDS	licR_2		putative licABCH operon regulator
+NJECIDAE_01732	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NJECIDAE_01733	CDS			hypothetical protein
+NJECIDAE_01734	CDS			hypothetical protein
+NJECIDAE_01735	CDS			18 kDa heat shock protein
+NJECIDAE_01736	CDS			hypothetical protein
+NJECIDAE_01737	CDS			hypothetical protein
+NJECIDAE_01738	CDS	xerC_2		Tyrosine recombinase XerC
+NJECIDAE_01739	CDS	lepA	3.6.5.-	Elongation factor 4
+NJECIDAE_01740	CDS			hypothetical protein
+NJECIDAE_01741	CDS			hypothetical protein
+NJECIDAE_01742	CDS			hypothetical protein
+NJECIDAE_01743	CDS	clpB		Chaperone protein ClpB
+NJECIDAE_01744	CDS			hypothetical protein
+NJECIDAE_01745	CDS			hypothetical protein
+NJECIDAE_01746	CDS	dagK_1	2.7.1.107	Diacylglycerol kinase
+NJECIDAE_01747	CDS	pepT	3.4.11.4	Peptidase T
+NJECIDAE_01748	CDS			GTP cyclohydrolase 1 type 2 
+NJECIDAE_01749	CDS			GTP cyclohydrolase 1 type 2 
+NJECIDAE_01750	CDS	trmK_1	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+NJECIDAE_01751	CDS	trmK_2	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+NJECIDAE_01752	CDS			hypothetical protein
+NJECIDAE_01753	CDS			hypothetical protein
+NJECIDAE_01754	CDS	dnaI_1		Primosomal protein DnaI
+NJECIDAE_01755	CDS	dnaI_2		Primosomal protein DnaI
+NJECIDAE_01756	CDS	dnaB		Replication initiation and membrane attachment protein
+NJECIDAE_01757	CDS	nrdR		Transcriptional repressor NrdR
+NJECIDAE_01758	CDS			hypothetical protein
+NJECIDAE_01759	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+NJECIDAE_01760	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+NJECIDAE_01761	CDS	polA	2.7.7.7	DNA polymerase I
+NJECIDAE_01762	CDS	ybhL		Inner membrane protein YbhL
+NJECIDAE_01763	CDS	phaJ	4.2.1.119	(R)-specific enoyl-CoA hydratase
+NJECIDAE_01764	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+NJECIDAE_01765	CDS			hypothetical protein
+NJECIDAE_01766	CDS			Protein SprT-like protein
+NJECIDAE_01767	CDS	rpsA		30S ribosomal protein S1
+NJECIDAE_01768	CDS	pphA	3.1.3.16	Serine/threonine-protein phosphatase 1
+NJECIDAE_01769	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+NJECIDAE_01770	CDS			hypothetical protein
+NJECIDAE_01771	CDS	tcyP		L-cystine uptake protein TcyP
+NJECIDAE_01772	CDS			hypothetical protein
+NJECIDAE_01773	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+NJECIDAE_01774	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+NJECIDAE_01775	CDS			hypothetical protein
+NJECIDAE_01776	CDS			hypothetical protein
+NJECIDAE_01777	CDS			hypothetical protein
+NJECIDAE_01778	CDS			hypothetical protein
+NJECIDAE_01779	CDS			hypothetical protein
+NJECIDAE_01780	CDS	lacG_2		Lactose transport system permease protein LacG
+NJECIDAE_01781	CDS	lacF_4		Lactose transport system permease protein LacF
+NJECIDAE_01782	CDS	lacE_2		Lactose-binding protein
+NJECIDAE_01783	CDS			putative response regulatory protein
+NJECIDAE_01784	CDS	araC_3		Arabinose operon regulatory protein
+NJECIDAE_01785	CDS	yehU_2	2.7.13.3	Sensor histidine kinase YehU
+NJECIDAE_01786	CDS	pheA	4.2.1.51	Prephenate dehydratase
+NJECIDAE_01787	CDS	aroK	2.7.1.71	Shikimate kinase
+NJECIDAE_01788	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+NJECIDAE_01789	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+NJECIDAE_01790	CDS	aroC	4.2.3.5	Chorismate synthase
+NJECIDAE_01791	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+NJECIDAE_01792	CDS	aroF	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+NJECIDAE_01793	CDS	lacM	3.2.1.23	Beta-galactosidase small subunit
+NJECIDAE_01794	CDS	lacL	3.2.1.23	Beta-galactosidase large subunit
+NJECIDAE_01795	CDS	agaSK_2		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+NJECIDAE_01796	CDS	lacR_3		HTH-type transcriptional regulator LacR
+NJECIDAE_01797	CDS	aes_2	3.1.1.-	Acetyl esterase
+NJECIDAE_01798	CDS			hypothetical protein
+NJECIDAE_01799	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NJECIDAE_01800	CDS	dagK_2	2.7.1.107	Diacylglycerol kinase
+NJECIDAE_01801	CDS	gatB_2	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+NJECIDAE_01802	CDS	gatA_2	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+NJECIDAE_01803	CDS	gatC_2	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+NJECIDAE_01804	CDS	ligA_1	6.5.1.2	DNA ligase
+NJECIDAE_01805	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+NJECIDAE_01806	CDS	clcA		H(+)/Cl(-) exchange transporter ClcA
+NJECIDAE_01807	CDS	fruA_2		PTS system fructose-specific EIIABC component
+NJECIDAE_01808	CDS	lacC_2	2.7.1.144	Tagatose-6-phosphate kinase
+NJECIDAE_01809	CDS	glcR_1		HTH-type transcriptional repressor GlcR
+NJECIDAE_01810	CDS			hypothetical protein
+NJECIDAE_01811	CDS			hypothetical protein
+NJECIDAE_01812	CDS			hypothetical protein
+NJECIDAE_01813	CDS	engB		putative GTP-binding protein EngB
+NJECIDAE_01814	CDS	clpX_1		ATP-dependent Clp protease ATP-binding subunit ClpX
+NJECIDAE_01815	CDS	clpX_2		ATP-dependent Clp protease ATP-binding subunit ClpX
+NJECIDAE_01816	CDS	tig	5.2.1.8	Trigger factor
+NJECIDAE_01817	CDS			hypothetical protein
+NJECIDAE_01818	CDS			hypothetical protein
+NJECIDAE_01819	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+NJECIDAE_01820	CDS			hypothetical protein
+NJECIDAE_01821	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NJECIDAE_01822	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+NJECIDAE_01823	CDS	cdaR_1		CdaA regulatory protein CdaR
+NJECIDAE_01824	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+NJECIDAE_01825	CDS	por_2	1.2.7.1	Pyruvate synthase
+NJECIDAE_01826	CDS			hypothetical protein
+NJECIDAE_01827	CDS			hypothetical protein
+NJECIDAE_01828	CDS			hypothetical protein
+NJECIDAE_01829	CDS			hypothetical protein
+NJECIDAE_01830	CDS			hypothetical protein
+NJECIDAE_01831	CDS			hypothetical protein
+NJECIDAE_01832	CDS			hypothetical protein
+NJECIDAE_01833	CDS			hypothetical protein
+NJECIDAE_01834	CDS			hypothetical protein
+NJECIDAE_01835	CDS	whiA		Putative sporulation transcription regulator WhiA
+NJECIDAE_01836	CDS			Putative gluconeogenesis factor
+NJECIDAE_01837	CDS	yvcJ		Nucleotide-binding protein YvcJ
+NJECIDAE_01838	CDS		5.1.1.13	Aspartate racemase
+NJECIDAE_01839	CDS		6.3.1.12	D-aspartate ligase
+NJECIDAE_01840	CDS	uvrA		UvrABC system protein A
+NJECIDAE_01841	CDS	uvrB		UvrABC system protein B
+NJECIDAE_01842	CDS	glnM_2		putative glutamine ABC transporter permease protein GlnM
+NJECIDAE_01843	CDS	artM_3		Arginine transport ATP-binding protein ArtM
+NJECIDAE_01844	CDS	cdaR_2		Carbohydrate diacid regulator
+NJECIDAE_01845	CDS	dnaJ		Chaperone protein DnaJ
+NJECIDAE_01846	CDS	dnaK		Chaperone protein DnaK
+NJECIDAE_01847	CDS	grpE		Protein GrpE
+NJECIDAE_01848	CDS	hrcA		Heat-inducible transcription repressor HrcA
+NJECIDAE_01849	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+NJECIDAE_01850	CDS			hypothetical protein
+NJECIDAE_01851	CDS	ydeA	3.2.-.-	putative protease YdeA
+NJECIDAE_01852	CDS			hypothetical protein
+NJECIDAE_01853	CDS	mccF		Microcin C7 self-immunity protein MccF
+NJECIDAE_01854	CDS	proX_1		Prolyl-tRNA editing protein ProX
+NJECIDAE_01855	CDS	fra		Intracellular iron chaperone frataxin
+NJECIDAE_01856	CDS			hypothetical protein
+NJECIDAE_01857	CDS	glcU_2		Glucose uptake protein GlcU
+NJECIDAE_01858	CDS	gdhIV	1.1.1.47	Glucose 1-dehydrogenase 4
+NJECIDAE_01859	CDS	ribF		Riboflavin biosynthesis protein RibF
+NJECIDAE_01860	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+NJECIDAE_01861	CDS	xpkA_1	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+NJECIDAE_01862	CDS	xpkA_2	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+NJECIDAE_01863	CDS	xpkA_3	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+NJECIDAE_01864	CDS	rbfA		Ribosome-binding factor A
+NJECIDAE_01865	CDS	infB		Translation initiation factor IF-2
+NJECIDAE_01866	CDS	rplGA		putative ribosomal protein YlxQ
+NJECIDAE_01867	CDS			hypothetical protein
+NJECIDAE_01868	CDS	nusA		Transcription termination/antitermination protein NusA
+NJECIDAE_01869	CDS	rimP		Ribosome maturation factor RimP
+NJECIDAE_01870	CDS	polC_1	2.7.7.7	DNA polymerase III PolC-type
+NJECIDAE_01871	CDS	proS	6.1.1.15	Proline--tRNA ligase
+NJECIDAE_01872	CDS	rasP	3.4.24.-	Regulator of sigma-W protease RasP
+NJECIDAE_01873	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+NJECIDAE_01874	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+NJECIDAE_01875	CDS	frr		Ribosome-recycling factor
+NJECIDAE_01876	CDS	pyrH	2.7.4.22	Uridylate kinase
+NJECIDAE_01877	CDS	tsf		Elongation factor Ts
+NJECIDAE_01878	CDS	rpsB		30S ribosomal protein S2
+NJECIDAE_01879	CDS	argR_2		Arginine repressor
+NJECIDAE_01880	CDS	phnW	2.6.1.37	2-aminoethylphosphonate--pyruvate transaminase
+NJECIDAE_01881	CDS	phnX_1	3.11.1.1	Phosphonoacetaldehyde hydrolase
+NJECIDAE_01882	CDS	phnX_2	3.11.1.1	Phosphonoacetaldehyde hydrolase
+NJECIDAE_01883	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+NJECIDAE_01884	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+NJECIDAE_01885	CDS	arcB	2.1.3.3	Ornithine carbamoyltransferase, catabolic
+NJECIDAE_01886	CDS	arcA	3.5.3.6	Arginine deiminase
+NJECIDAE_01887	CDS	ntcA		Global nitrogen regulator
+NJECIDAE_01888	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+NJECIDAE_01889	CDS	rimI_1	2.3.1.255	N-alpha-acetyltransferase RimI
+NJECIDAE_01890	CDS	rimI_2	2.3.1.255	N-alpha-acetyltransferase RimI
+NJECIDAE_01891	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NJECIDAE_01892	CDS	exuR_3		putative HTH-type transcriptional repressor ExuR
+NJECIDAE_01893	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+NJECIDAE_01894	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+NJECIDAE_01895	CDS			hypothetical protein
+NJECIDAE_01896	CDS			hypothetical protein
+NJECIDAE_01897	CDS			hypothetical protein
+NJECIDAE_01898	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+NJECIDAE_01899	CDS	glcK	2.7.1.2	Glucokinase
+NJECIDAE_01900	CDS			hypothetical protein
+NJECIDAE_01901	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+NJECIDAE_01902	CDS	ygfA	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+NJECIDAE_01903	CDS	feuC		Iron-uptake system permease protein FeuC
+NJECIDAE_01904	CDS	feuB_2		Iron-uptake system permease protein FeuB
+NJECIDAE_01905	CDS	fepC		Ferric enterobactin transport ATP-binding protein FepC
+NJECIDAE_01906	CDS	yfiY		putative siderophore-binding lipoprotein YfiY
+NJECIDAE_01907	CDS	folA_2	1.5.1.3	Dihydrofolate reductase
+NJECIDAE_01908	CDS	rpmGA_2		50S ribosomal protein L33 1
+NJECIDAE_01909	CDS			hypothetical protein
+NJECIDAE_01910	CDS	asnB	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+NJECIDAE_01911	CDS			hypothetical protein
+NJECIDAE_01912	CDS	cbh_1	3.5.1.24	Choloylglycine hydrolase
+NJECIDAE_01913	CDS			hypothetical protein
+NJECIDAE_01914	CDS	cbh_2	3.5.1.24	Choloylglycine hydrolase
+NJECIDAE_01915	CDS			hypothetical protein
+NJECIDAE_01916	CDS			hypothetical protein
+NJECIDAE_01917	CDS	lytA_2	3.5.1.28	Autolysin
+NJECIDAE_01918	CDS			hypothetical protein
+NJECIDAE_01919	CDS			hypothetical protein
+NJECIDAE_01920	CDS			hypothetical protein
+NJECIDAE_01921	CDS			hypothetical protein
+NJECIDAE_01922	CDS			hypothetical protein
+NJECIDAE_01923	CDS			hypothetical protein
+NJECIDAE_01924	CDS			hypothetical protein
+NJECIDAE_01925	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+NJECIDAE_01926	CDS			hypothetical protein
+NJECIDAE_01927	CDS			hypothetical protein
+NJECIDAE_01928	CDS	smc_4		Chromosome partition protein Smc
+NJECIDAE_01929	CDS			hypothetical protein
+NJECIDAE_01930	CDS			hypothetical protein
+NJECIDAE_01931	CDS			hypothetical protein
+NJECIDAE_01932	CDS			hypothetical protein
+NJECIDAE_01933	CDS			hypothetical protein
+NJECIDAE_01934	CDS			hypothetical protein
+NJECIDAE_01935	CDS			hypothetical protein
+NJECIDAE_01936	CDS			hypothetical protein
+NJECIDAE_01937	CDS			hypothetical protein
+NJECIDAE_01938	CDS			hypothetical protein
+NJECIDAE_01939	CDS			hypothetical protein
+NJECIDAE_01940	CDS			hypothetical protein
+NJECIDAE_01941	CDS			hypothetical protein
+NJECIDAE_01942	CDS			hypothetical protein
+NJECIDAE_01943	CDS			hypothetical protein
+NJECIDAE_01944	CDS			hypothetical protein
+NJECIDAE_01945	CDS			hypothetical protein
+NJECIDAE_01946	CDS			hypothetical protein
+NJECIDAE_01947	CDS			hypothetical protein
+NJECIDAE_01948	CDS			hypothetical protein
+NJECIDAE_01949	CDS			hypothetical protein
+NJECIDAE_01950	CDS			hypothetical protein
+NJECIDAE_01951	CDS			hypothetical protein
+NJECIDAE_01952	CDS			hypothetical protein
+NJECIDAE_01953	CDS			hypothetical protein
+NJECIDAE_01954	CDS			hypothetical protein
+NJECIDAE_01955	CDS			hypothetical protein
+NJECIDAE_01956	CDS			hypothetical protein
+NJECIDAE_01957	CDS			hypothetical protein
+NJECIDAE_01958	CDS			hypothetical protein
+NJECIDAE_01959	CDS			hypothetical protein
+NJECIDAE_01960	CDS			hypothetical protein
+NJECIDAE_01961	CDS			hypothetical protein
+NJECIDAE_01962	CDS			hypothetical protein
+NJECIDAE_01963	CDS			hypothetical protein
+NJECIDAE_01964	CDS			hypothetical protein
+NJECIDAE_01965	CDS	xre		HTH-type transcriptional regulator Xre
+NJECIDAE_01966	CDS	immA	3.4.-.-	Metallopeptidase ImmA
+NJECIDAE_01967	CDS			hypothetical protein
+NJECIDAE_01968	CDS			hypothetical protein
+NJECIDAE_01969	CDS	intQ_1		Putative defective protein IntQ
+NJECIDAE_01970	tRNA			tRNA-Ser(cga)
+NJECIDAE_01971	CDS			hypothetical protein
+NJECIDAE_01972	CDS			hypothetical protein
+NJECIDAE_01973	CDS			hypothetical protein
+NJECIDAE_01974	CDS			hypothetical protein
+NJECIDAE_01975	CDS			hypothetical protein
+NJECIDAE_01976	CDS			hypothetical protein
+NJECIDAE_01977	CDS			hypothetical protein
+NJECIDAE_01978	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+NJECIDAE_01979	CDS			hypothetical protein
+NJECIDAE_01980	CDS			hypothetical protein
+NJECIDAE_01981	CDS			hypothetical protein
+NJECIDAE_01982	CDS			hypothetical protein
+NJECIDAE_01983	CDS			hypothetical protein
+NJECIDAE_01984	CDS			hypothetical protein
+NJECIDAE_01985	CDS			hypothetical protein
+NJECIDAE_01986	CDS			hypothetical protein
+NJECIDAE_01987	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+NJECIDAE_01988	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+NJECIDAE_01989	CDS	mnmG_2		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NJECIDAE_01990	CDS	ybaK_1	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+NJECIDAE_01991	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+NJECIDAE_01992	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+NJECIDAE_01993	CDS	ltaS1_2		Lipoteichoic acid synthase 1
+NJECIDAE_01994	CDS			hypothetical protein
+NJECIDAE_01995	CDS			hypothetical protein
+NJECIDAE_01996	CDS	phoR_3	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+NJECIDAE_01997	CDS	arlS_2	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+NJECIDAE_01998	CDS	srrA_2		Transcriptional regulatory protein SrrA
+NJECIDAE_01999	CDS			hypothetical protein
+NJECIDAE_02000	CDS			hypothetical protein
+NJECIDAE_02001	CDS		3.1.3.-	Putative phosphatase
+NJECIDAE_02002	tmRNA	ssrA		transfer-messenger RNA, SsrA
+NJECIDAE_02003	CDS			hypothetical protein
+NJECIDAE_02004	CDS			hypothetical protein
+NJECIDAE_02005	tRNA			tRNA-Met(cat)
+NJECIDAE_02006	CDS			hypothetical protein
+NJECIDAE_02007	CDS			hypothetical protein
+NJECIDAE_02008	CDS			hypothetical protein
+NJECIDAE_02009	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+NJECIDAE_02010	CDS	aldC	4.1.1.5	Alpha-acetolactate decarboxylase
+NJECIDAE_02011	CDS	alsS	2.2.1.6	Acetolactate synthase
+NJECIDAE_02012	CDS			hypothetical protein
+NJECIDAE_02013	CDS			hypothetical protein
+NJECIDAE_02014	CDS	araQ_5		L-arabinose transport system permease protein AraQ
+NJECIDAE_02015	CDS			hypothetical protein
+NJECIDAE_02016	CDS			hypothetical protein
+NJECIDAE_02017	CDS	catM		HTH-type transcriptional regulator CatM
+NJECIDAE_02018	CDS	adhR		HTH-type transcriptional regulator AdhR
+NJECIDAE_02019	CDS	yjhB_3		Putative metabolite transport protein YjhB
+NJECIDAE_02020	CDS			hypothetical protein
+NJECIDAE_02021	CDS			hypothetical protein
+NJECIDAE_02022	CDS			hypothetical protein
+NJECIDAE_02023	CDS			hypothetical protein
+NJECIDAE_02024	CDS			Fimbrial subunit type 1
+NJECIDAE_02025	CDS			hypothetical protein
+NJECIDAE_02026	CDS			hypothetical protein
+NJECIDAE_02027	CDS			hypothetical protein
+NJECIDAE_02028	CDS			hypothetical protein
+NJECIDAE_02029	CDS			hypothetical protein
+NJECIDAE_02030	CDS	xerC_3		Tyrosine recombinase XerC
+NJECIDAE_02031	CDS			hypothetical protein
+NJECIDAE_02032	CDS			hypothetical protein
+NJECIDAE_02033	CDS			hypothetical protein
+NJECIDAE_02034	CDS			hypothetical protein
+NJECIDAE_02035	CDS			hypothetical protein
+NJECIDAE_02036	CDS			hypothetical protein
+NJECIDAE_02037	CDS			hypothetical protein
+NJECIDAE_02038	CDS			hypothetical protein
+NJECIDAE_02039	CDS	sacA	3.2.1.26	Sucrose-6-phosphate hydrolase
+NJECIDAE_02040	CDS	sorF	2.7.1.206	PTS system sorbose-specific EIIA component
+NJECIDAE_02041	CDS	manX_2	2.7.1.191	PTS system mannose-specific EIIAB component
+NJECIDAE_02042	CDS	manZ_3		PTS system mannose-specific EIID component
+NJECIDAE_02043	CDS	sorC_1		PTS system sorbose-specific EIIC component
+NJECIDAE_02044	CDS	dgaR_2		Transcriptional regulatory protein DagR
+NJECIDAE_02045	CDS	gmuE_3	2.7.1.4	Putative fructokinase
+NJECIDAE_02046	CDS	crr_1	2.7.1.199	PTS system glucose-specific EIIA component
+NJECIDAE_02047	CDS	treP_1		PTS system trehalose-specific EIIBC component
+NJECIDAE_02048	CDS	bfrA	3.2.1.26	Beta-fructosidase
+NJECIDAE_02049	CDS	degA_3		HTH-type transcriptional regulator DegA
+NJECIDAE_02050	CDS			hypothetical protein
+NJECIDAE_02051	CDS			hypothetical protein
+NJECIDAE_02052	CDS			hypothetical protein
+NJECIDAE_02053	CDS			hypothetical protein
+NJECIDAE_02054	CDS			hypothetical protein
+NJECIDAE_02055	CDS			hypothetical protein
+NJECIDAE_02056	CDS			Insertion sequence IS5376 putative ATP-binding protein
+NJECIDAE_02057	CDS			hypothetical protein
+NJECIDAE_02058	CDS	iap	3.4.-.-	putative endopeptidase p60
+NJECIDAE_02059	CDS			hypothetical protein
+NJECIDAE_02060	CDS			hypothetical protein
+NJECIDAE_02061	CDS			hypothetical protein
+NJECIDAE_02062	CDS			hypothetical protein
+NJECIDAE_02063	CDS			hypothetical protein
+NJECIDAE_02064	CDS			hypothetical protein
+NJECIDAE_02065	CDS			hypothetical protein
+NJECIDAE_02066	CDS	ltrA_3		Group II intron-encoded protein LtrA
+NJECIDAE_02067	CDS			hypothetical protein
+NJECIDAE_02068	CDS			hypothetical protein
+NJECIDAE_02069	CDS			hypothetical protein
+NJECIDAE_02070	CDS	hpaIIM	2.1.1.37	Modification methylase HpaII
+NJECIDAE_02071	CDS			hypothetical protein
+NJECIDAE_02072	CDS	ltrA_4		Group II intron-encoded protein LtrA
+NJECIDAE_02073	CDS	ftsK_2		DNA translocase FtsK
+NJECIDAE_02074	CDS			hypothetical protein
+NJECIDAE_02075	CDS			hypothetical protein
+NJECIDAE_02076	CDS			hypothetical protein
+NJECIDAE_02077	CDS			hypothetical protein
+NJECIDAE_02078	CDS			hypothetical protein
+NJECIDAE_02079	CDS	rplS		50S ribosomal protein L19
+NJECIDAE_02080	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+NJECIDAE_02081	CDS	rimM		Ribosome maturation factor RimM
+NJECIDAE_02082	CDS			hypothetical protein
+NJECIDAE_02083	CDS			hypothetical protein
+NJECIDAE_02084	CDS	rpsP		30S ribosomal protein S16
+NJECIDAE_02085	CDS	chrR	1.6.5.2	Chromate reductase
+NJECIDAE_02086	CDS	folA_3	1.5.1.3	Dihydrofolate reductase
+NJECIDAE_02087	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+NJECIDAE_02088	CDS	ffh		Signal recognition particle protein
+NJECIDAE_02089	CDS			hypothetical protein
+NJECIDAE_02090	CDS			hypothetical protein
+NJECIDAE_02091	CDS	phoP		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+NJECIDAE_02092	CDS	phoR_4	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+NJECIDAE_02093	CDS	ctpE_2	3.6.3.-	putative cation-transporting ATPase E
+NJECIDAE_02094	CDS			hypothetical protein
+NJECIDAE_02095	CDS			hypothetical protein
+NJECIDAE_02096	CDS	pstS1_1		Phosphate-binding protein PstS 1
+NJECIDAE_02097	CDS			hypothetical protein
+NJECIDAE_02098	CDS			hypothetical protein
+NJECIDAE_02099	CDS			hypothetical protein
+NJECIDAE_02100	CDS			hypothetical protein
+NJECIDAE_02101	CDS			hypothetical protein
+NJECIDAE_02102	CDS	cbh_3	3.5.1.24	Choloylglycine hydrolase
+NJECIDAE_02103	CDS	cbh_4	3.5.1.24	Choloylglycine hydrolase
+NJECIDAE_02104	CDS			hypothetical protein
+NJECIDAE_02105	CDS			hypothetical protein
+NJECIDAE_02106	CDS			hypothetical protein
+NJECIDAE_02107	CDS			hypothetical protein
+NJECIDAE_02108	CDS			hypothetical protein
+NJECIDAE_02109	CDS			hypothetical protein
+NJECIDAE_02110	CDS			hypothetical protein
+NJECIDAE_02111	CDS			hypothetical protein
+NJECIDAE_02112	CDS			hypothetical protein
+NJECIDAE_02113	CDS	lytA_3	3.5.1.28	Autolysin
+NJECIDAE_02114	CDS			hypothetical protein
+NJECIDAE_02115	CDS			hypothetical protein
+NJECIDAE_02116	CDS			hypothetical protein
+NJECIDAE_02117	CDS			hypothetical protein
+NJECIDAE_02118	CDS			hypothetical protein
+NJECIDAE_02119	CDS			hypothetical protein
+NJECIDAE_02120	CDS			hypothetical protein
+NJECIDAE_02121	CDS			hypothetical protein
+NJECIDAE_02122	CDS	copB	3.6.3.54	Copper-exporting P-type ATPase B
+NJECIDAE_02123	CDS	copA	3.6.3.54	putative copper-importing P-type ATPase A
+NJECIDAE_02124	CDS	copZ		Copper chaperone CopZ
+NJECIDAE_02125	CDS	copY		Transcriptional repressor CopY
+NJECIDAE_02126	CDS			hypothetical protein
+NJECIDAE_02127	CDS			hypothetical protein
+NJECIDAE_02128	CDS	ycaM		Inner membrane transporter YcaM
+NJECIDAE_02129	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+NJECIDAE_02130	CDS	yccF		Inner membrane protein YccF
+NJECIDAE_02131	CDS			hypothetical protein
+NJECIDAE_02132	CDS	axe2	3.1.1.72	Acetylxylan esterase
+NJECIDAE_02133	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+NJECIDAE_02134	CDS		2.6.1.1	Aspartate aminotransferase
+NJECIDAE_02135	CDS			hypothetical protein
+NJECIDAE_02136	CDS	dinG_2	3.6.4.12	putative ATP-dependent helicase DinG 
+NJECIDAE_02137	CDS	cspLA_1		Cold shock-like protein CspLA
+NJECIDAE_02138	CDS			hypothetical protein
+NJECIDAE_02139	CDS			hypothetical protein
+NJECIDAE_02140	CDS			hypothetical protein
+NJECIDAE_02141	CDS			hypothetical protein
+NJECIDAE_02142	CDS	dacA	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+NJECIDAE_02143	CDS			hypothetical protein
+NJECIDAE_02144	CDS	eriC		Chloride/fluoride channel protein
+NJECIDAE_02145	CDS			hypothetical protein
+NJECIDAE_02146	CDS	rny_2	3.1.-.-	Ribonuclease Y
+NJECIDAE_02147	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+NJECIDAE_02148	CDS	acyP	3.6.1.7	Acylphosphatase
+NJECIDAE_02149	CDS	yidC		Membrane protein insertase YidC
+NJECIDAE_02150	CDS	lacD2	4.1.2.40	Tagatose 1,6-diphosphate aldolase 2
+NJECIDAE_02151	CDS	mngA		PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+NJECIDAE_02152	CDS	fruA_3		PTS system fructose-specific EIIABC component
+NJECIDAE_02153	CDS	pfkB	2.7.1.11	ATP-dependent 6-phosphofructokinase isozyme 2
+NJECIDAE_02154	CDS	glvR		HTH-type transcriptional regulator GlvR
+NJECIDAE_02155	CDS	ugd	1.1.1.22	UDP-glucose 6-dehydrogenase
+NJECIDAE_02156	CDS	wbgU_2	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+NJECIDAE_02157	CDS			hypothetical protein
+NJECIDAE_02158	CDS			hypothetical protein
+NJECIDAE_02159	CDS			hypothetical protein
+NJECIDAE_02160	CDS			hypothetical protein
+NJECIDAE_02161	CDS	pglH_2	2.4.1.292	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+NJECIDAE_02162	CDS	epsJ_3	2.4.-.-	putative glycosyltransferase EpsJ
+NJECIDAE_02163	CDS	epsJ_4	2.4.-.-	putative glycosyltransferase EpsJ
+NJECIDAE_02164	CDS	pimA	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+NJECIDAE_02165	CDS	pglA	2.4.1.290	N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+NJECIDAE_02166	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+NJECIDAE_02167	CDS	epsN	2.6.1.-	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+NJECIDAE_02168	CDS	gph_3	3.1.3.18	Phosphoglycolate phosphatase
+NJECIDAE_02169	CDS	ddl_2	6.3.2.4	D-alanine--D-alanine ligase
+NJECIDAE_02170	CDS	pglF	4.2.1.135	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+NJECIDAE_02171	CDS	ywqE	3.1.3.48	Tyrosine-protein phosphatase YwqE
+NJECIDAE_02172	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+NJECIDAE_02173	CDS	ywqC		putative capsular polysaccharide biosynthesis protein YwqC
+NJECIDAE_02174	CDS	lytR_2		Transcriptional regulator LytR
+NJECIDAE_02175	CDS			hypothetical protein
+NJECIDAE_02176	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+NJECIDAE_02177	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+NJECIDAE_02178	CDS	recO		DNA repair protein RecO
+NJECIDAE_02179	CDS	era		GTPase Era
+NJECIDAE_02180	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+NJECIDAE_02181	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+NJECIDAE_02182	CDS	pgpH	3.1.4.-	Cyclic-di-AMP phosphodiesterase PgpH
+NJECIDAE_02183	CDS			PhoH-like protein
+NJECIDAE_02184	CDS	brnQ_2		Branched-chain amino acid transport system 2 carrier protein
+NJECIDAE_02185	CDS			hypothetical protein
+NJECIDAE_02186	CDS	rpsU		30S ribosomal protein S21
+NJECIDAE_02187	CDS	zur		Zinc-specific metallo-regulatory protein
+NJECIDAE_02188	CDS	yqfL	2.7.11.32	Putative pyruvate, phosphate dikinase regulatory protein
+NJECIDAE_02189	CDS	czrA		HTH-type transcriptional repressor CzrA
+NJECIDAE_02190	CDS	pgcA	5.4.2.2	Phosphoglucomutase
+NJECIDAE_02191	CDS	trxB	1.8.1.9	Thioredoxin reductase
+NJECIDAE_02192	CDS	bglH_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+NJECIDAE_02193	CDS	licH	3.2.1.86	putative 6-phospho-beta-glucosidase
+NJECIDAE_02194	CDS	murR_2		HTH-type transcriptional regulator MurR
+NJECIDAE_02195	CDS	bglF_3		PTS system beta-glucoside-specific EIIBCA component
+NJECIDAE_02196	CDS	licT_3		Transcription antiterminator LicT
+NJECIDAE_02197	CDS	yheH	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+NJECIDAE_02198	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+NJECIDAE_02199	CDS			hypothetical protein
+NJECIDAE_02200	CDS	mntH		Divalent metal cation transporter MntH
+NJECIDAE_02201	CDS			hypothetical protein
+NJECIDAE_02202	CDS			hypothetical protein
+NJECIDAE_02203	CDS	nfo_2	3.1.21.2	putative endonuclease 4
+NJECIDAE_02204	CDS	ponA_2		Penicillin-binding protein 1A/1B
+NJECIDAE_02205	CDS	ccpA_2		Catabolite control protein A
+NJECIDAE_02206	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+NJECIDAE_02207	CDS			hypothetical protein
+NJECIDAE_02208	CDS			hypothetical protein
+NJECIDAE_02209	CDS	gtaB_1	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+NJECIDAE_02210	CDS	gpsA_1	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NJECIDAE_02211	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+NJECIDAE_02212	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+NJECIDAE_02213	CDS			hypothetical protein
+NJECIDAE_02214	CDS			hypothetical protein
+NJECIDAE_02215	CDS			hypothetical protein
+NJECIDAE_02216	CDS	smc_5		Chromosome partition protein Smc
+NJECIDAE_02217	CDS			hypothetical protein
+NJECIDAE_02218	CDS			hypothetical protein
+NJECIDAE_02219	CDS	phoU		Phosphate-specific transport system accessory protein PhoU 
+NJECIDAE_02220	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+NJECIDAE_02221	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+NJECIDAE_02222	CDS	pstA		Phosphate transport system permease protein PstA
+NJECIDAE_02223	CDS	pstC1		Phosphate transport system permease protein PstC 1
+NJECIDAE_02224	CDS	pstS1_2		Phosphate-binding protein PstS 1
+NJECIDAE_02225	CDS	clsA_2	2.7.8.-	Major cardiolipin synthase ClsA
+NJECIDAE_02226	CDS	ftsX		Cell division protein FtsX
+NJECIDAE_02227	CDS	ftsE		Cell division ATP-binding protein FtsE
+NJECIDAE_02228	CDS	prfB		Peptide chain release factor 2
+NJECIDAE_02229	CDS	secA		Protein translocase subunit SecA
+NJECIDAE_02230	CDS	hpf		Ribosome hibernation promotion factor
+NJECIDAE_02231	CDS			hypothetical protein
+NJECIDAE_02232	CDS	comFA	3.6.4.12	ComF operon protein 1
+NJECIDAE_02233	CDS	celA_2	2.7.1.205	PTS system cellobiose-specific EIIB component
+NJECIDAE_02234	CDS			hypothetical protein
+NJECIDAE_02235	CDS	yigZ		IMPACT family member YigZ
+NJECIDAE_02236	CDS	yvoA_1		HTH-type transcriptional repressor YvoA
+NJECIDAE_02237	CDS			hypothetical protein
+NJECIDAE_02238	tRNA			tRNA-Gln(ttg)
+NJECIDAE_02239	tRNA			tRNA-Tyr(gta)
+NJECIDAE_02240	CDS			hypothetical protein
+NJECIDAE_02241	CDS	bglK	2.7.1.85	Beta-glucoside kinase
+NJECIDAE_02242	CDS	yvbK	2.3.1.-	putative N-acetyltransferase YvbK
+NJECIDAE_02243	CDS			Putative membrane protein insertion efficiency factor
+NJECIDAE_02244	CDS			hypothetical protein
+NJECIDAE_02245	CDS	murA1_1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+NJECIDAE_02246	CDS			hypothetical protein
+NJECIDAE_02247	CDS	atpC		ATP synthase epsilon chain
+NJECIDAE_02248	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+NJECIDAE_02249	CDS	atpG		ATP synthase gamma chain
+NJECIDAE_02250	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+NJECIDAE_02251	CDS	atpH		ATP synthase subunit delta
+NJECIDAE_02252	CDS	atpF		ATP synthase subunit b
+NJECIDAE_02253	CDS	atpE_1		ATP synthase subunit c
+NJECIDAE_02254	CDS	atpB		ATP synthase subunit a
+NJECIDAE_02255	CDS	smpB		SsrA-binding protein
+NJECIDAE_02256	CDS	rnr	3.1.13.1	Ribonuclease R
+NJECIDAE_02257	CDS	est	3.1.1.1	Carboxylesterase
+NJECIDAE_02258	CDS	secG		putative protein-export membrane protein SecG
+NJECIDAE_02259	CDS			hypothetical protein
+NJECIDAE_02260	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+NJECIDAE_02261	CDS	rihB	3.2.2.8	Pyrimidine-specific ribonucleoside hydrolase RihB
+NJECIDAE_02262	CDS			hypothetical protein
+NJECIDAE_02263	CDS	dapE	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+NJECIDAE_02264	CDS			hypothetical protein
+NJECIDAE_02265	CDS			hypothetical protein
+NJECIDAE_02266	CDS			hypothetical protein
+NJECIDAE_02267	CDS	eno	4.2.1.11	Enolase
+NJECIDAE_02268	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+NJECIDAE_02269	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+NJECIDAE_02270	CDS	gap_2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+NJECIDAE_02271	CDS	cggR		Central glycolytic genes regulator
+NJECIDAE_02272	CDS	rpoN1		RNA polymerase sigma-54 factor 1
+NJECIDAE_02273	tRNA			tRNA-Arg(ccg)
+NJECIDAE_02274	CDS	pgdA	3.5.1.104	Peptidoglycan-N-acetylglucosamine deacetylase
+NJECIDAE_02275	CDS	rsiV		Anti-sigma-V factor RsiV
+NJECIDAE_02276	CDS	sigV		RNA polymerase sigma factor SigV
+NJECIDAE_02277	CDS	rpoE		putative DNA-directed RNA polymerase subunit delta
+NJECIDAE_02278	CDS	ywiB		putative beta-barrel protein YwiB
+NJECIDAE_02279	CDS	lipL	2.3.1.204	Octanoyl-[GcvH]:protein N-octanoyltransferase
+NJECIDAE_02280	CDS			Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+NJECIDAE_02281	CDS	yidA_3	3.1.3.23	Sugar phosphatase YidA
+NJECIDAE_02282	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+NJECIDAE_02283	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+NJECIDAE_02284	CDS	yddE	5.1.-.-	putative isomerase YddE
+NJECIDAE_02285	CDS	lhpI	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+NJECIDAE_02286	CDS	gabR		HTH-type transcriptional regulatory protein GabR
+NJECIDAE_02287	CDS	ntpJ_1		Potassium/sodium uptake protein NtpJ
+NJECIDAE_02288	CDS	ntpD		V-type sodium ATPase subunit D
+NJECIDAE_02289	CDS	ntpB		V-type sodium ATPase subunit B
+NJECIDAE_02290	CDS	ntpA	3.6.3.15	V-type sodium ATPase catalytic subunit A
+NJECIDAE_02291	CDS	ntpG		V-type sodium ATPase subunit G
+NJECIDAE_02292	CDS	ntpC		V-type sodium ATPase subunit C
+NJECIDAE_02293	CDS	atpE_2		V-type proton ATPase subunit E
+NJECIDAE_02294	CDS	ntpK		V-type sodium ATPase subunit K
+NJECIDAE_02295	CDS			hypothetical protein
+NJECIDAE_02296	CDS			hypothetical protein
+NJECIDAE_02297	CDS	puuD	3.5.1.94	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+NJECIDAE_02298	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 3
+NJECIDAE_02299	CDS			hypothetical protein
+NJECIDAE_02300	CDS	natA_2		ABC transporter ATP-binding protein NatA
+NJECIDAE_02301	CDS	uvrC_2		UvrABC system protein C
+NJECIDAE_02302	CDS	trxA_1		Thioredoxin
+NJECIDAE_02303	CDS	mutS2_2	3.1.-.-	Endonuclease MutS2
+NJECIDAE_02304	CDS			hypothetical protein
+NJECIDAE_02305	CDS	zapA		Cell division protein ZapA
+NJECIDAE_02306	CDS	rnhC	3.1.26.4	Ribonuclease HIII
+NJECIDAE_02307	CDS	cwlC	3.5.1.28	Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+NJECIDAE_02308	CDS	icaR		Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+NJECIDAE_02309	CDS	hrtA_2	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+NJECIDAE_02310	CDS			putative ABC transporter permease
+NJECIDAE_02311	CDS	nox_2	1.6.99.3	NADH oxidase
+NJECIDAE_02312	CDS			hypothetical protein
+NJECIDAE_02313	CDS			hypothetical protein
+NJECIDAE_02314	CDS			hypothetical protein
+NJECIDAE_02315	CDS			hypothetical protein
+NJECIDAE_02316	CDS			hypothetical protein
+NJECIDAE_02317	CDS	hmo	1.1.3.46	4-hydroxymandelate oxidase
+NJECIDAE_02318	CDS			hypothetical protein
+NJECIDAE_02319	CDS	mleS	4.1.1.101	Malolactic enzyme
+NJECIDAE_02320	CDS	citS		Citrate-sodium symporter
+NJECIDAE_02321	CDS			hypothetical protein
+NJECIDAE_02322	CDS			hypothetical protein
+NJECIDAE_02323	CDS			hypothetical protein
+NJECIDAE_02324	CDS			hypothetical protein
+NJECIDAE_02325	CDS			hypothetical protein
+NJECIDAE_02326	CDS			hypothetical protein
+NJECIDAE_02327	CDS			hypothetical protein
+NJECIDAE_02328	CDS			hypothetical protein
+NJECIDAE_02329	CDS			hypothetical protein
+NJECIDAE_02330	CDS			hypothetical protein
+NJECIDAE_02331	CDS			hypothetical protein
+NJECIDAE_02332	CDS			hypothetical protein
+NJECIDAE_02333	CDS			hypothetical protein
+NJECIDAE_02334	CDS			hypothetical protein
+NJECIDAE_02335	CDS			hypothetical protein
+NJECIDAE_02336	CDS			hypothetical protein
+NJECIDAE_02337	CDS			hypothetical protein
+NJECIDAE_02338	CDS			hypothetical protein
+NJECIDAE_02339	CDS			hypothetical protein
+NJECIDAE_02340	CDS			hypothetical protein
+NJECIDAE_02341	CDS			hypothetical protein
+NJECIDAE_02342	CDS			hypothetical protein
+NJECIDAE_02343	CDS	Int-Tn_2		Transposase from transposon Tn916
+NJECIDAE_02344	CDS			hypothetical protein
+NJECIDAE_02345	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+NJECIDAE_02346	CDS			hypothetical protein
+NJECIDAE_02347	CDS	endA	3.1.30.-	DNA-entry nuclease
+NJECIDAE_02348	tRNA			tRNA-Gly(ccc)
+NJECIDAE_02349	CDS			hypothetical protein
+NJECIDAE_02350	CDS			hypothetical protein
+NJECIDAE_02351	CDS			hypothetical protein
+NJECIDAE_02352	CDS	natA_3		ABC transporter ATP-binding protein NatA
+NJECIDAE_02353	CDS	agrA_2		Accessory gene regulator A
+NJECIDAE_02354	CDS			Putative two-component membrane permease complex subunit SMU_746c
+NJECIDAE_02355	CDS			Putative two-component membrane permease complex subunit SMU_747c
+NJECIDAE_02356	CDS	trxA_2		Thioredoxin
+NJECIDAE_02357	CDS	rex_1		Redox-sensing transcriptional repressor Rex
+NJECIDAE_02358	CDS	yheS_1		putative ABC transporter ATP-binding protein YheS
+NJECIDAE_02359	CDS	ugl_1	3.2.1.180	Unsaturated chondroitin disaccharide hydrolase
+NJECIDAE_02360	CDS			hypothetical protein
+NJECIDAE_02361	CDS	ugl_2	3.2.1.179	Unsaturated glucuronyl hydrolase
+NJECIDAE_02362	CDS	lacG_3		Lactose transport system permease protein LacG
+NJECIDAE_02363	CDS	lacF_5		Lactose transport system permease protein LacF
+NJECIDAE_02364	CDS	araN_2		putative arabinose-binding protein
+NJECIDAE_02365	CDS	adaA	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+NJECIDAE_02366	CDS	cdr_2	1.8.1.14	Coenzyme A disulfide reductase
+NJECIDAE_02367	CDS			hypothetical protein
+NJECIDAE_02368	CDS	hflX		GTPase HflX
+NJECIDAE_02369	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+NJECIDAE_02370	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+NJECIDAE_02371	CDS			hypothetical protein
+NJECIDAE_02372	CDS	clpP_1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+NJECIDAE_02373	CDS		2.3.1.-	Putative acetyltransferase
+NJECIDAE_02374	CDS			hypothetical protein
+NJECIDAE_02375	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_02376	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_02377	CDS			hypothetical protein
+NJECIDAE_02378	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+NJECIDAE_02379	CDS	cspLA_2		Cold shock-like protein CspLA
+NJECIDAE_02380	CDS			hypothetical protein
+NJECIDAE_02381	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+NJECIDAE_02382	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+NJECIDAE_02383	CDS	valS	6.1.1.9	Valine--tRNA ligase
+NJECIDAE_02384	CDS	rex_2		Redox-sensing transcriptional repressor Rex
+NJECIDAE_02385	CDS	thiI_1	2.8.1.4	putative tRNA sulfurtransferase
+NJECIDAE_02386	CDS	thiI_2	2.8.1.4	putative tRNA sulfurtransferase
+NJECIDAE_02387	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+NJECIDAE_02388	CDS	ezrA		Septation ring formation regulator EzrA
+NJECIDAE_02389	CDS			hypothetical protein
+NJECIDAE_02390	CDS	yhaX		Stress response protein YhaX
+NJECIDAE_02391	CDS			hypothetical protein
+NJECIDAE_02392	CDS	ansA	3.5.1.1	L-asparaginase
+NJECIDAE_02393	CDS			hypothetical protein
+NJECIDAE_02394	CDS			hypothetical protein
+NJECIDAE_02395	CDS	pepC	3.4.22.40	Aminopeptidase C
+NJECIDAE_02396	CDS			hypothetical protein
+NJECIDAE_02397	tRNA			tRNA-Asn(gtt)
+NJECIDAE_02398	tRNA			tRNA-Thr(ggt)
+NJECIDAE_02399	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+NJECIDAE_02400	CDS			hypothetical protein
+NJECIDAE_02401	CDS			hypothetical protein
+NJECIDAE_02402	CDS			hypothetical protein
+NJECIDAE_02403	tRNA			tRNA-Asn(gtt)
+NJECIDAE_02404	rRNA			5S ribosomal RNA
+NJECIDAE_02405	rRNA			23S ribosomal RNA
+NJECIDAE_02406	rRNA			16S ribosomal RNA
+NJECIDAE_02407	CDS			hypothetical protein
+NJECIDAE_02408	CDS	yugI_2		General stress protein 13
+NJECIDAE_02409	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+NJECIDAE_02410	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+NJECIDAE_02411	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+NJECIDAE_02412	CDS			hypothetical protein
+NJECIDAE_02413	CDS			hypothetical protein
+NJECIDAE_02414	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+NJECIDAE_02415	CDS			hypothetical protein
+NJECIDAE_02416	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+NJECIDAE_02417	CDS			hypothetical protein
+NJECIDAE_02418	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+NJECIDAE_02419	CDS	lrp		Leucine-rich protein
+NJECIDAE_02420	CDS			hypothetical protein
+NJECIDAE_02421	CDS	rsmF	2.1.1.-	Ribosomal RNA small subunit methyltransferase F
+NJECIDAE_02422	CDS			hypothetical protein
+NJECIDAE_02423	CDS			hypothetical protein
+NJECIDAE_02424	CDS			hypothetical protein
+NJECIDAE_02425	CDS			hypothetical protein
+NJECIDAE_02426	CDS	nrnA	3.1.-.-	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+NJECIDAE_02427	CDS		3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+NJECIDAE_02428	CDS			hypothetical protein
+NJECIDAE_02429	CDS	ybaK_2	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+NJECIDAE_02430	CDS	rnj2	3.1.-.-	Ribonuclease J 2
+NJECIDAE_02431	CDS			hypothetical protein
+NJECIDAE_02432	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+NJECIDAE_02433	CDS			hypothetical protein
+NJECIDAE_02434	CDS	iadA	3.4.19.-	Isoaspartyl dipeptidase
+NJECIDAE_02435	CDS			hypothetical protein
+NJECIDAE_02436	CDS			hypothetical protein
+NJECIDAE_02437	CDS			hypothetical protein
+NJECIDAE_02438	CDS	gtaB_2	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+NJECIDAE_02439	CDS			hypothetical protein
+NJECIDAE_02440	CDS	gpsA_2	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NJECIDAE_02441	CDS	frlB_1	3.5.-.-	Fructosamine deglycase FrlB
+NJECIDAE_02442	CDS	nodM	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NJECIDAE_02443	CDS	manZ_4		PTS system mannose-specific EIID component
+NJECIDAE_02444	CDS	sorA_2		PTS system sorbose-specific EIIC component
+NJECIDAE_02445	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+NJECIDAE_02446	CDS	manX_3	2.7.1.191	PTS system mannose-specific EIIAB component
+NJECIDAE_02447	CDS	dgaR_3		Transcriptional regulatory protein DagR
+NJECIDAE_02448	CDS			hypothetical protein
+NJECIDAE_02449	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_02450	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_02451	CDS	folT_2		Folate transporter FolT
+NJECIDAE_02452	CDS	mgsA	4.2.3.3	Methylglyoxal synthase
+NJECIDAE_02453	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+NJECIDAE_02454	CDS	niaX		Niacin transporter NiaX
+NJECIDAE_02455	CDS	rsmA_2	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+NJECIDAE_02456	CDS	rnmV	3.1.26.8	Ribonuclease M5
+NJECIDAE_02457	CDS	dtd3_2	3.1.1.96	D-aminoacyl-tRNA deacylase
+NJECIDAE_02458	CDS	steT_2		Serine/threonine exchanger SteT
+NJECIDAE_02459	CDS			hypothetical protein
+NJECIDAE_02460	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+NJECIDAE_02461	CDS			hypothetical protein
+NJECIDAE_02462	CDS			Bifunctional NMN adenylyltransferase/Nudix hydrolase
+NJECIDAE_02463	CDS			hypothetical protein
+NJECIDAE_02464	CDS	oppF_2		Oligopeptide transport ATP-binding protein OppF
+NJECIDAE_02465	CDS	oppD_2		Oligopeptide transport ATP-binding protein OppD
+NJECIDAE_02466	CDS	dppC		Dipeptide transport system permease protein DppC
+NJECIDAE_02467	CDS	oppB		Oligopeptide transport system permease protein OppB
+NJECIDAE_02468	CDS			hypothetical protein
+NJECIDAE_02469	CDS	dppE		Dipeptide-binding protein DppE
+NJECIDAE_02470	CDS			hypothetical protein
+NJECIDAE_02471	CDS	gldA	1.1.1.6	Glycerol dehydrogenase
+NJECIDAE_02472	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+NJECIDAE_02473	CDS	spoIIIE		DNA translocase SpoIIIE
+NJECIDAE_02474	CDS	bglC	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglC
+NJECIDAE_02475	CDS	fliY		L-cystine-binding protein FliY
+NJECIDAE_02476	CDS	glnQ_2		Glutamine transport ATP-binding protein GlnQ
+NJECIDAE_02477	CDS	yecS_2		L-cystine transport system permease protein YecS
+NJECIDAE_02478	CDS	proX_2		Prolyl-tRNA editing protein ProX
+NJECIDAE_02479	CDS	cna		Collagen adhesin
+NJECIDAE_02480	CDS	lciA		Lactococcin-A immunity protein
+NJECIDAE_02481	CDS			hypothetical protein
+NJECIDAE_02482	CDS			hypothetical protein
+NJECIDAE_02483	tRNA			tRNA-Thr(cgt)
+NJECIDAE_02484	CDS			hypothetical protein
+NJECIDAE_02485	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+NJECIDAE_02486	CDS	nlhH	3.1.1.1	Carboxylesterase NlhH
+NJECIDAE_02487	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+NJECIDAE_02488	CDS			hypothetical protein
+NJECIDAE_02489	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+NJECIDAE_02490	CDS	prmC_2	2.1.1.297	Release factor glutamine methyltransferase
+NJECIDAE_02491	CDS	prfA		Peptide chain release factor 1
+NJECIDAE_02492	CDS	tdk	2.7.1.21	Thymidine kinase
+NJECIDAE_02493	CDS			hypothetical protein
+NJECIDAE_02494	CDS			hypothetical protein
+NJECIDAE_02495	CDS	ubiE_2	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+NJECIDAE_02496	CDS	spsB	3.4.21.89	Signal peptidase IB
+NJECIDAE_02497	CDS	sipP	3.4.21.89	Signal peptidase I P
+NJECIDAE_02498	CDS			hypothetical protein
+NJECIDAE_02499	CDS			hypothetical protein
+NJECIDAE_02500	CDS			hypothetical protein
+NJECIDAE_02501	CDS	ntpJ_2		Potassium/sodium uptake protein NtpJ
+NJECIDAE_02502	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NJECIDAE_02503	CDS	cobQ		Cobyric acid synthase
+NJECIDAE_02504	CDS	mtlD	1.1.1.17	Mannitol-1-phosphate 5-dehydrogenase
+NJECIDAE_02505	CDS	mtlF_1	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+NJECIDAE_02506	CDS	mtlA_1		PTS system mannitol-specific EIICB component
+NJECIDAE_02507	CDS	natA_4		ABC transporter ATP-binding protein NatA
+NJECIDAE_02508	CDS			hypothetical protein
+NJECIDAE_02509	CDS	mtlF_2	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+NJECIDAE_02510	CDS	mtlR_2		Transcriptional regulator MtlR
+NJECIDAE_02511	CDS	mtlA_2		PTS system mannitol-specific EIICB component
+NJECIDAE_02512	CDS	mtlA_3		PTS system mannitol-specific EIICB component
+NJECIDAE_02513	CDS	gmuF	5.3.1.8	putative mannose-6-phosphate isomerase GmuF
+NJECIDAE_02514	CDS	ampH	3.4.-.-	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+NJECIDAE_02515	CDS	catE	1.13.11.2	Catechol-2,3-dioxygenase
+NJECIDAE_02516	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_02517	CDS			hypothetical protein
+NJECIDAE_02518	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_02519	CDS			hypothetical protein
+NJECIDAE_02520	CDS	glpE_3	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+NJECIDAE_02521	CDS	azoR	1.7.-.-	FMN-dependent NADH-azoreductase
+NJECIDAE_02522	CDS	tqsA_4		AI-2 transport protein TqsA
+NJECIDAE_02523	CDS			hypothetical protein
+NJECIDAE_02524	CDS	pgl_2	3.1.1.31	6-phosphogluconolactonase
+NJECIDAE_02525	CDS			hypothetical protein
+NJECIDAE_02526	CDS			hypothetical protein
+NJECIDAE_02527	CDS	ltaS1_3		Lipoteichoic acid synthase 1
+NJECIDAE_02528	CDS		1.1.1.81	Hydroxypyruvate reductase
+NJECIDAE_02529	CDS	araA	5.3.1.4	L-arabinose isomerase
+NJECIDAE_02530	CDS	sgbE	5.1.3.4	L-ribulose-5-phosphate 4-epimerase SgbE
+NJECIDAE_02531	CDS	araB	2.7.1.16	Ribulokinase
+NJECIDAE_02532	CDS	csbC		putative metabolite transport protein CsbC
+NJECIDAE_02533	CDS	araR_2		Arabinose metabolism transcriptional repressor
+NJECIDAE_02534	CDS		3.2.1.55	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+NJECIDAE_02535	CDS	abfA_1	3.2.1.55	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1
+NJECIDAE_02536	CDS			hypothetical protein
+NJECIDAE_02537	CDS	araQ_6		L-arabinose transport system permease protein AraQ
+NJECIDAE_02538	CDS	lacF_6		Lactose transport system permease protein LacF
+NJECIDAE_02539	CDS	ugpB		sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+NJECIDAE_02540	CDS	abfA_2	3.2.1.55	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+NJECIDAE_02541	CDS			hypothetical protein
+NJECIDAE_02542	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+NJECIDAE_02543	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+NJECIDAE_02544	CDS			hypothetical protein
+NJECIDAE_02545	CDS	mta		HTH-type transcriptional activator mta
+NJECIDAE_02546	CDS	ccpB		Catabolite control protein B
+NJECIDAE_02547	CDS			hypothetical protein
+NJECIDAE_02548	CDS			hypothetical protein
+NJECIDAE_02549	CDS			hypothetical protein
+NJECIDAE_02550	CDS			hypothetical protein
+NJECIDAE_02551	CDS			hypothetical protein
+NJECIDAE_02552	CDS			hypothetical protein
+NJECIDAE_02553	CDS			hypothetical protein
+NJECIDAE_02554	CDS			hypothetical protein
+NJECIDAE_02555	CDS			hypothetical protein
+NJECIDAE_02556	CDS			hypothetical protein
+NJECIDAE_02557	tRNA			tRNA-Met(cat)
+NJECIDAE_02558	CDS	lytA_4	3.5.1.28	Autolysin
+NJECIDAE_02559	CDS			hypothetical protein
+NJECIDAE_02560	CDS			hypothetical protein
+NJECIDAE_02561	CDS			hypothetical protein
+NJECIDAE_02562	CDS			hypothetical protein
+NJECIDAE_02563	CDS			hypothetical protein
+NJECIDAE_02564	CDS			hypothetical protein
+NJECIDAE_02565	CDS			hypothetical protein
+NJECIDAE_02566	CDS			hypothetical protein
+NJECIDAE_02567	CDS	smc_6		Chromosome partition protein Smc
+NJECIDAE_02568	CDS			hypothetical protein
+NJECIDAE_02569	CDS			hypothetical protein
+NJECIDAE_02570	CDS			hypothetical protein
+NJECIDAE_02571	CDS			hypothetical protein
+NJECIDAE_02572	CDS			hypothetical protein
+NJECIDAE_02573	CDS			hypothetical protein
+NJECIDAE_02574	CDS			hypothetical protein
+NJECIDAE_02575	CDS			hypothetical protein
+NJECIDAE_02576	CDS	clpP_2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+NJECIDAE_02577	CDS			hypothetical protein
+NJECIDAE_02578	CDS			hypothetical protein
+NJECIDAE_02579	CDS			hypothetical protein
+NJECIDAE_02580	CDS			hypothetical protein
+NJECIDAE_02581	CDS			hypothetical protein
+NJECIDAE_02582	CDS			hypothetical protein
+NJECIDAE_02583	CDS	cas2_2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+NJECIDAE_02584	CDS			hypothetical protein
+NJECIDAE_02585	CDS			hypothetical protein
+NJECIDAE_02586	CDS			hypothetical protein
+NJECIDAE_02587	CDS			hypothetical protein
+NJECIDAE_02588	CDS			hypothetical protein
+NJECIDAE_02589	CDS			hypothetical protein
+NJECIDAE_02590	CDS			hypothetical protein
+NJECIDAE_02591	CDS			hypothetical protein
+NJECIDAE_02592	CDS			hypothetical protein
+NJECIDAE_02593	CDS			hypothetical protein
+NJECIDAE_02594	CDS			hypothetical protein
+NJECIDAE_02595	CDS			hypothetical protein
+NJECIDAE_02596	CDS			hypothetical protein
+NJECIDAE_02597	CDS			hypothetical protein
+NJECIDAE_02598	CDS			hypothetical protein
+NJECIDAE_02599	CDS			hypothetical protein
+NJECIDAE_02600	CDS			hypothetical protein
+NJECIDAE_02601	CDS			hypothetical protein
+NJECIDAE_02602	CDS			hypothetical protein
+NJECIDAE_02603	CDS			hypothetical protein
+NJECIDAE_02604	CDS			hypothetical protein
+NJECIDAE_02605	CDS			hypothetical protein
+NJECIDAE_02606	CDS			hypothetical protein
+NJECIDAE_02607	CDS			hypothetical protein
+NJECIDAE_02608	CDS			hypothetical protein
+NJECIDAE_02609	CDS			hypothetical protein
+NJECIDAE_02610	CDS			hypothetical protein
+NJECIDAE_02611	CDS			hypothetical protein
+NJECIDAE_02612	CDS	xerC_4		Tyrosine recombinase XerC
+NJECIDAE_02613	tRNA			tRNA-Arg(cct)
+NJECIDAE_02614	CDS			hypothetical protein
+NJECIDAE_02615	CDS			hypothetical protein
+NJECIDAE_02616	CDS			hypothetical protein
+NJECIDAE_02617	CDS			hypothetical protein
+NJECIDAE_02618	CDS			hypothetical protein
+NJECIDAE_02619	CDS	chbC		PTS system N,N'-diacetylchitobiose-specific EIIC component
+NJECIDAE_02620	CDS	licA_2	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+NJECIDAE_02621	CDS	celA_3	2.7.1.205	PTS system cellobiose-specific EIIB component
+NJECIDAE_02622	CDS	dgaR_4		Transcriptional regulatory protein DagR
+NJECIDAE_02623	CDS	yfmL	3.6.4.13	putative ATP-dependent RNA helicase YfmL
+NJECIDAE_02624	CDS	afr_2	1.1.1.292	1,5-anhydro-D-fructose reductase
+NJECIDAE_02625	CDS	sfsA		Sugar fermentation stimulation protein A
+NJECIDAE_02626	CDS			hypothetical protein
+NJECIDAE_02627	CDS	dtxR		Diphtheria toxin repressor
+NJECIDAE_02628	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+NJECIDAE_02629	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+NJECIDAE_02630	CDS	divIVA		Cell division protein DivIVA
+NJECIDAE_02631	CDS			hypothetical protein
+NJECIDAE_02632	CDS	sepF		Cell division protein SepF
+NJECIDAE_02633	CDS			hypothetical protein
+NJECIDAE_02634	CDS	ftsZ		Cell division protein FtsZ
+NJECIDAE_02635	CDS	ftsA		Cell division protein FtsA
+NJECIDAE_02636	CDS	divIB		Cell division protein DivIB
+NJECIDAE_02637	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NJECIDAE_02638	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NJECIDAE_02639	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NJECIDAE_02640	CDS	pbpX_2		Penicillin-binding protein 2x
+NJECIDAE_02641	CDS	ftsL_2		Cell division protein FtsL
+NJECIDAE_02642	CDS	rsmH_2	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+NJECIDAE_02643	CDS	mraZ		Transcriptional regulator MraZ
+NJECIDAE_02644	CDS			hypothetical protein
+NJECIDAE_02645	CDS			hypothetical protein
+NJECIDAE_02646	CDS			hypothetical protein
+NJECIDAE_02647	CDS	recN		DNA repair protein RecN
+NJECIDAE_02648	CDS	argR_3		Arginine repressor
+NJECIDAE_02649	CDS	tlyA		Hemolysin A
+NJECIDAE_02650	CDS		2.5.1.10	Farnesyl diphosphate synthase
+NJECIDAE_02651	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+NJECIDAE_02652	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+NJECIDAE_02653	CDS	folD		Bifunctional protein FolD protein
+NJECIDAE_02654	CDS	nusB		N utilization substance protein B 
+NJECIDAE_02655	CDS			Alkaline shock protein 23
+NJECIDAE_02656	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+NJECIDAE_02657	CDS			hypothetical protein
+NJECIDAE_02658	CDS			hypothetical protein
+NJECIDAE_02659	CDS	manZ_5		PTS system mannose-specific EIID component
+NJECIDAE_02660	CDS	sorA_3		PTS system sorbose-specific EIIC component
+NJECIDAE_02661	CDS	manX_4	2.7.1.191	PTS system mannose-specific EIIAB component
+NJECIDAE_02662	CDS	manX_5	2.7.1.191	PTS system mannose-specific EIIAB component
+NJECIDAE_02663	CDS	dgaR_5		Transcriptional regulatory protein DagR
+NJECIDAE_02664	CDS	rpmA		50S ribosomal protein L27
+NJECIDAE_02665	CDS			hypothetical protein
+NJECIDAE_02666	CDS	rplU		50S ribosomal protein L21
+NJECIDAE_02667	CDS			hypothetical protein
+NJECIDAE_02668	CDS	dauA		C4-dicarboxylic acid transporter DauA
+NJECIDAE_02669	CDS			hypothetical protein
+NJECIDAE_02670	tRNA			tRNA-Arg(tct)
+NJECIDAE_02671	CDS		2.1.1.-	Putative O-methyltransferase
+NJECIDAE_02672	CDS			hypothetical protein
+NJECIDAE_02673	CDS			hypothetical protein
+NJECIDAE_02674	CDS	lplJ	6.3.1.20	Lipoate-protein ligase LplJ
+NJECIDAE_02675	CDS	rbn_1	3.1.26.11	Ribonuclease BN
+NJECIDAE_02676	CDS			hypothetical protein
+NJECIDAE_02677	CDS	ysdC	3.4.11.-	Putative aminopeptidase YsdC
+NJECIDAE_02678	CDS			hypothetical protein
+NJECIDAE_02679	CDS			hypothetical protein
+NJECIDAE_02680	CDS	dltC	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 2
+NJECIDAE_02681	CDS	patA_2	2.3.1.-	Peptidoglycan O-acetyltransferase
+NJECIDAE_02682	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+NJECIDAE_02683	CDS	bceB_2		Bacitracin export permease protein BceB
+NJECIDAE_02684	CDS	bceA_2		Bacitracin export ATP-binding protein BceA
+NJECIDAE_02685	CDS	nrdD_1	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+NJECIDAE_02686	CDS	nrdD_2	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+NJECIDAE_02687	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+NJECIDAE_02688	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+NJECIDAE_02689	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+NJECIDAE_02690	CDS	yabA		Initiation-control protein YabA
+NJECIDAE_02691	CDS			hypothetical protein
+NJECIDAE_02692	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+NJECIDAE_02693	CDS			hypothetical protein
+NJECIDAE_02694	CDS	tmk	2.7.4.9	Thymidylate kinase
+NJECIDAE_02695	CDS	recR		Recombination protein RecR
+NJECIDAE_02696	CDS			Nucleoid-associated protein
+NJECIDAE_02697	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+NJECIDAE_02698	CDS			hypothetical protein
+NJECIDAE_02699	CDS			hypothetical protein
+NJECIDAE_02700	CDS			hypothetical protein
+NJECIDAE_02701	CDS	fnr		Anaerobic regulatory protein
+NJECIDAE_02702	CDS			hypothetical protein
+NJECIDAE_02703	CDS	bcr		Bicyclomycin resistance protein
+NJECIDAE_02704	CDS			hypothetical protein
+NJECIDAE_02705	CDS	glcR_2		HTH-type transcriptional repressor GlcR
+NJECIDAE_02706	CDS	kbaY	4.1.2.40	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+NJECIDAE_02707	CDS	fruA_4		PTS system fructose-specific EIIABC component
+NJECIDAE_02708	CDS	fruA_5		PTS system fructose-specific EIIABC component
+NJECIDAE_02709	CDS	rpmE2		50S ribosomal protein L31 type B
+NJECIDAE_02710	CDS	rho	3.6.4.-	Transcription termination factor Rho
+NJECIDAE_02711	CDS	murA1_2	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+NJECIDAE_02712	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+NJECIDAE_02713	CDS	pyrG	6.3.4.2	CTP synthase
+NJECIDAE_02714	CDS			hypothetical protein
+NJECIDAE_02715	CDS	glnA	6.3.1.2	Glutamine synthetase
+NJECIDAE_02716	CDS	glnR		HTH-type transcriptional regulator GlnR
+NJECIDAE_02717	CDS			hypothetical protein
+NJECIDAE_02718	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+NJECIDAE_02719	CDS	intQ_2		Putative defective protein IntQ
+NJECIDAE_02720	CDS			hypothetical protein
+NJECIDAE_02721	CDS			hypothetical protein
+NJECIDAE_02722	CDS			hypothetical protein
+NJECIDAE_02723	CDS			hypothetical protein
+NJECIDAE_02724	CDS	gmuE_4	2.7.1.4	Putative fructokinase
+NJECIDAE_02725	CDS			hypothetical protein
+NJECIDAE_02726	CDS			hypothetical protein
+NJECIDAE_02727	CDS	manZ_6		PTS system mannose-specific EIID component
+NJECIDAE_02728	CDS	sorC_2		PTS system sorbose-specific EIIC component
+NJECIDAE_02729	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+NJECIDAE_02730	CDS			hypothetical protein
+NJECIDAE_02731	CDS	dgaR_6		Transcriptional regulatory protein DagR
+NJECIDAE_02732	CDS	potD		Spermidine/putrescine-binding periplasmic protein
+NJECIDAE_02733	CDS	ydcV		Inner membrane ABC transporter permease protein YdcV
+NJECIDAE_02734	CDS	potB		Spermidine/putrescine transport system permease protein PotB
+NJECIDAE_02735	CDS	potA_1	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+NJECIDAE_02736	CDS	puuR		HTH-type transcriptional regulator PuuR
+NJECIDAE_02737	CDS	acuI	1.3.1.84	putative acrylyl-CoA reductase AcuI
+NJECIDAE_02738	CDS	coaBC_1		Coenzyme A biosynthesis bifunctional protein CoaBC
+NJECIDAE_02739	CDS	coaBC_2		Coenzyme A biosynthesis bifunctional protein CoaBC
+NJECIDAE_02740	CDS	panT_2		Pantothenic acid transporter PanT
+NJECIDAE_02741	CDS	yhfK	4.-.-.-	putative sugar epimerase YhfK
+NJECIDAE_02742	CDS		1.3.1.103	2-haloacrylate reductase
+NJECIDAE_02743	CDS		1.3.5.4	Fumarate reductase flavoprotein subunit
+NJECIDAE_02744	CDS			hypothetical protein
+NJECIDAE_02745	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+NJECIDAE_02746	CDS			hypothetical protein
+NJECIDAE_02747	CDS			hypothetical protein
+NJECIDAE_02748	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+NJECIDAE_02749	CDS	yceM	1.-.-.-	Putative oxidoreductase YceM
+NJECIDAE_02750	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+NJECIDAE_02751	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+NJECIDAE_02752	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+NJECIDAE_02753	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NJECIDAE_02754	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+NJECIDAE_02755	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+NJECIDAE_02756	CDS	ywpJ_2	3.1.3.-	Phosphatase YwpJ
+NJECIDAE_02757	CDS			hypothetical protein
+NJECIDAE_02758	CDS			hypothetical protein
+NJECIDAE_02759	CDS			hypothetical protein
+NJECIDAE_02760	CDS			hypothetical protein
+NJECIDAE_02761	CDS			hypothetical protein
+NJECIDAE_02762	CDS	pnuC		Nicotinamide riboside transporter PnuC
+NJECIDAE_02763	CDS			hypothetical protein
+NJECIDAE_02764	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+NJECIDAE_02765	CDS			hypothetical protein
+NJECIDAE_02766	CDS			hypothetical protein
+NJECIDAE_02767	CDS	sugE		Quaternary ammonium compound-resistance protein SugE
+NJECIDAE_02768	CDS	ecsA_2		ABC-type transporter ATP-binding protein EcsA
+NJECIDAE_02769	CDS			hypothetical protein
+NJECIDAE_02770	CDS	arcD1_2		Arginine/ornithine antiporter ArcD1
+NJECIDAE_02771	CDS			Putative NrdI-like protein
+NJECIDAE_02772	CDS			PTS system EIIBC component
+NJECIDAE_02773	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+NJECIDAE_02774	CDS			hypothetical protein
+NJECIDAE_02775	CDS	pspB_3	3.1.3.3	Putative phosphoserine phosphatase 2
+NJECIDAE_02776	CDS	yheS_2		putative ABC transporter ATP-binding protein YheS
+NJECIDAE_02777	CDS	garK	2.7.1.165	Glycerate 2-kinase
+NJECIDAE_02778	CDS	panE	1.1.1.169	2-dehydropantoate 2-reductase
+NJECIDAE_02779	CDS			hypothetical protein
+NJECIDAE_02780	CDS	yvbW		putative amino acid permease YvbW
+NJECIDAE_02781	CDS			hypothetical protein
+NJECIDAE_02782	CDS	nhaC_5		Na(+)/H(+) antiporter NhaC
+NJECIDAE_02783	CDS	abgB_2	3.5.1.-	p-aminobenzoyl-glutamate hydrolase subunit B
+NJECIDAE_02784	CDS	metQ_3		D-methionine-binding lipoprotein MetQ
+NJECIDAE_02785	CDS	metP_3		Methionine import system permease protein MetP
+NJECIDAE_02786	CDS	metN_2	3.6.3.-	Methionine import ATP-binding protein MetN
+NJECIDAE_02787	CDS			hypothetical protein
+NJECIDAE_02788	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+NJECIDAE_02789	CDS	mgtB	3.6.3.2	Magnesium-transporting ATPase, P-type 1
+NJECIDAE_02790	CDS			hypothetical protein
+NJECIDAE_02791	CDS			hypothetical protein
+NJECIDAE_02792	CDS	soj_2	3.6.-.-	Sporulation initiation inhibitor protein Soj
+NJECIDAE_02793	CDS			hypothetical protein
+NJECIDAE_02794	CDS			hypothetical protein
+NJECIDAE_02795	CDS			hypothetical protein
+NJECIDAE_02796	CDS			hypothetical protein
+NJECIDAE_02797	CDS			Insertion sequence IS5376 putative ATP-binding protein
+NJECIDAE_02798	CDS			hypothetical protein
+NJECIDAE_02799	CDS			hypothetical protein
+NJECIDAE_02800	CDS			hypothetical protein
+NJECIDAE_02801	CDS			hypothetical protein
+NJECIDAE_02802	CDS			hypothetical protein
+NJECIDAE_02803	CDS	rbn_2	3.1.26.11	Ribonuclease BN
+NJECIDAE_02804	CDS	levD	2.7.1.202	PTS system fructose-specific EIIA component
+NJECIDAE_02805	CDS	manX_6	2.7.1.191	PTS system mannose-specific EIIAB component
+NJECIDAE_02806	CDS	sorA_4		PTS system sorbose-specific EIIC component
+NJECIDAE_02807	CDS	manZ_7		PTS system mannose-specific EIID component
+NJECIDAE_02808	CDS	manZ_8		PTS system mannose-specific EIID component
+NJECIDAE_02809	CDS	frlB_2	3.5.-.-	Fructosamine deglycase FrlB
+NJECIDAE_02810	CDS	dgaR_7		Transcriptional regulatory protein DagR
+NJECIDAE_02811	CDS	dgaR_8		Transcriptional regulatory protein DagR
+NJECIDAE_02812	CDS	yniC	3.1.3.68	2-deoxyglucose-6-phosphate phosphatase
+NJECIDAE_02813	CDS			hypothetical protein
+NJECIDAE_02814	CDS			hypothetical protein
+NJECIDAE_02815	CDS			hypothetical protein
+NJECIDAE_02816	CDS			hypothetical protein
+NJECIDAE_02817	CDS	yurK		putative HTH-type transcriptional regulator YurK
+NJECIDAE_02818	CDS			hypothetical protein
+NJECIDAE_02819	CDS	frlB_3	3.5.-.-	Fructosamine deglycase FrlB
+NJECIDAE_02820	CDS			hypothetical protein
+NJECIDAE_02821	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+NJECIDAE_02822	CDS	sorA_5		PTS system sorbose-specific EIIC component
+NJECIDAE_02823	CDS	manZ_9		PTS system mannose-specific EIID component
+NJECIDAE_02824	CDS			hypothetical protein
+NJECIDAE_02825	CDS	bglF_4		PTS system beta-glucoside-specific EIIBCA component
+NJECIDAE_02826	CDS	bglH_3	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+NJECIDAE_02827	CDS	licT_4		Transcription antiterminator LicT
+NJECIDAE_02828	CDS			hypothetical protein
+NJECIDAE_02829	CDS	bglF_5		PTS system beta-glucoside-specific EIIBCA component
+NJECIDAE_02830	CDS			hypothetical protein
+NJECIDAE_02831	CDS			hypothetical protein
+NJECIDAE_02832	CDS			hypothetical protein
+NJECIDAE_02833	CDS			hypothetical protein
+NJECIDAE_02834	CDS			hypothetical protein
+NJECIDAE_02835	CDS			hypothetical protein
+NJECIDAE_02836	CDS			hypothetical protein
+NJECIDAE_02837	CDS			hypothetical protein
+NJECIDAE_02838	CDS	ohrB_2		Organic hydroperoxide resistance protein OhrB
+NJECIDAE_02839	CDS			hypothetical protein
+NJECIDAE_02840	CDS	hsdS		Type-1 restriction enzyme EcoKI specificity protein
+NJECIDAE_02841	CDS			hypothetical protein
+NJECIDAE_02842	CDS			hypothetical protein
+NJECIDAE_02843	CDS			hypothetical protein
+NJECIDAE_02844	CDS			hypothetical protein
+NJECIDAE_02845	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+NJECIDAE_02846	CDS			hypothetical protein
+NJECIDAE_02847	CDS	xerD_4		Tyrosine recombinase XerD
+NJECIDAE_02848	CDS			hypothetical protein
+NJECIDAE_02849	CDS			hypothetical protein
+NJECIDAE_02850	CDS			hypothetical protein
+NJECIDAE_02851	CDS			hypothetical protein
+NJECIDAE_02852	CDS			hypothetical protein
+NJECIDAE_02853	CDS			hypothetical protein
+NJECIDAE_02854	CDS			hypothetical protein
+NJECIDAE_02855	CDS			hypothetical protein
+NJECIDAE_02856	CDS	resA		Thiol-disulfide oxidoreductase ResA
+NJECIDAE_02857	CDS			hypothetical protein
+NJECIDAE_02858	CDS			hypothetical protein
+NJECIDAE_02859	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+NJECIDAE_02860	CDS			putative ABC transporter ATP-binding protein
+NJECIDAE_02861	CDS			hypothetical protein
+NJECIDAE_02862	CDS			hypothetical protein
+NJECIDAE_02863	CDS			hypothetical protein
+NJECIDAE_02864	CDS			hypothetical protein
+NJECIDAE_02865	CDS			hypothetical protein
+NJECIDAE_02866	CDS			hypothetical protein
+NJECIDAE_02867	CDS			hypothetical protein
+NJECIDAE_02868	CDS	hpdA	1.97.1.-	4-hydroxyphenylacetate decarboxylase activating enzyme
+NJECIDAE_02869	CDS			Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+NJECIDAE_02870	CDS			hypothetical protein
+NJECIDAE_02871	CDS	hisK	3.1.3.15	Histidinol-phosphatase
+NJECIDAE_02872	CDS			hypothetical protein
+NJECIDAE_02873	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NJECIDAE_02874	CDS			hypothetical protein
+NJECIDAE_02875	CDS			hypothetical protein
+NJECIDAE_02876	CDS	potA_2	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+NJECIDAE_02877	CDS			hypothetical protein
+NJECIDAE_02878	CDS			putative response regulatory protein
+NJECIDAE_02879	CDS	ypdA_2	2.7.13.3	Sensor histidine kinase YpdA
+NJECIDAE_02880	CDS	yteP_3		putative multiple-sugar transport system permease YteP
+NJECIDAE_02881	CDS	araQ_7		L-arabinose transport system permease protein AraQ
+NJECIDAE_02882	CDS	lipO_2		Lipoprotein LipO
+NJECIDAE_02883	CDS			hypothetical protein
+NJECIDAE_02884	CDS			hypothetical protein
+NJECIDAE_02885	CDS	ebgA	3.2.1.23	Evolved beta-galactosidase subunit alpha
+NJECIDAE_02886	CDS	nagJ	3.2.1.169	O-GlcNAcase NagJ
+NJECIDAE_02887	CDS			hypothetical protein
+NJECIDAE_02888	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+NJECIDAE_02889	CDS			hypothetical protein
+NJECIDAE_02890	CDS	qseB		Transcriptional regulatory protein QseB
+NJECIDAE_02891	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+NJECIDAE_02892	CDS			hypothetical protein
+NJECIDAE_02893	CDS			hypothetical protein
+NJECIDAE_02894	CDS			hypothetical protein
+NJECIDAE_02895	CDS			hypothetical protein
+NJECIDAE_02896	CDS			hypothetical protein
+NJECIDAE_02897	CDS			hypothetical protein
+NJECIDAE_02898	CDS			hypothetical protein
+NJECIDAE_02899	CDS			hypothetical protein
+NJECIDAE_02900	CDS			hypothetical protein
+NJECIDAE_02901	CDS			hypothetical protein
+NJECIDAE_02902	CDS			hypothetical protein
+NJECIDAE_02903	CDS	crr_2	2.7.1.199	PTS system glucose-specific EIIA component
+NJECIDAE_02904	CDS	agaSK_3		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+NJECIDAE_02905	CDS	araC_4		Arabinose operon regulatory protein
+NJECIDAE_02906	CDS	scrB_1	3.2.1.26	Sucrose-6-phosphate hydrolase
+NJECIDAE_02907	CDS	treP_2		PTS system trehalose-specific EIIBC component
+NJECIDAE_02908	CDS			hypothetical protein
+NJECIDAE_02909	CDS			hypothetical protein
+NJECIDAE_02910	CDS			hypothetical protein
+NJECIDAE_02911	CDS			hypothetical protein
+NJECIDAE_02912	CDS	yvoA_2		HTH-type transcriptional repressor YvoA
+NJECIDAE_02913	CDS	agaS	5.3.1.-	Putative tagatose-6-phosphate ketose/aldose isomerase
+NJECIDAE_02914	CDS	lacD	4.1.2.40	Tagatose 1,6-diphosphate aldolase
+NJECIDAE_02915	CDS			hypothetical protein
+NJECIDAE_02916	CDS	licC_3		Lichenan permease IIC component
+NJECIDAE_02917	CDS			hypothetical protein
+NJECIDAE_02918	CDS	xerS_2		Tyrosine recombinase XerS
+NJECIDAE_02919	CDS			hypothetical protein
+NJECIDAE_02920	CDS			hypothetical protein
+NJECIDAE_02921	CDS	crr_3	2.7.1.199	PTS system glucose-specific EIIA component
+NJECIDAE_02922	CDS			hypothetical protein
+NJECIDAE_02923	CDS	glcB		PTS system glucoside-specific EIICBA component
+NJECIDAE_02924	CDS	nanE_2	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+NJECIDAE_02925	CDS	rpiR		HTH-type transcriptional regulator RpiR
+NJECIDAE_02926	CDS	bin3_1		Putative transposon Tn552 DNA-invertase bin3
+NJECIDAE_02927	CDS			hypothetical protein
+NJECIDAE_02928	CDS			hypothetical protein
+NJECIDAE_02929	CDS			hypothetical protein
+NJECIDAE_02930	CDS			hypothetical protein
+NJECIDAE_02931	CDS			hypothetical protein
+NJECIDAE_02932	CDS	degA_4		HTH-type transcriptional regulator DegA
+NJECIDAE_02933	CDS	scrB_2	3.2.1.26	Sucrose-6-phosphate hydrolase
+NJECIDAE_02934	CDS	treP_3		PTS system trehalose-specific EIIBC component
+NJECIDAE_02935	CDS			hypothetical protein
+NJECIDAE_02936	CDS	gmuE_5	2.7.1.4	Putative fructokinase
+NJECIDAE_02937	CDS			hypothetical protein
+NJECIDAE_02938	CDS			hypothetical protein
+NJECIDAE_02939	CDS			hypothetical protein
+NJECIDAE_02940	CDS	xerD_5		Tyrosine recombinase XerD
+NJECIDAE_02941	CDS			hypothetical protein
+NJECIDAE_02942	CDS			hypothetical protein
+NJECIDAE_02943	CDS			hypothetical protein
+NJECIDAE_02944	CDS	hxlB	5.3.1.27	3-hexulose-6-phosphate isomerase
+NJECIDAE_02945	CDS	rpe_2	5.1.3.1	Ribulose-phosphate 3-epimerase
+NJECIDAE_02946	CDS			hypothetical protein
+NJECIDAE_02947	CDS			hypothetical protein
+NJECIDAE_02948	CDS	gatC_3		PTS system galactitol-specific EIIC component
+NJECIDAE_02949	CDS	gatA_3	2.7.1.200	PTS system galactitol-specific EIIA component
+NJECIDAE_02950	CDS	manR_3		Transcriptional regulator ManR
+NJECIDAE_02951	CDS			hypothetical protein
+NJECIDAE_02952	CDS			hypothetical protein
+NJECIDAE_02953	CDS			hypothetical protein
+NJECIDAE_02954	CDS			hypothetical protein
+NJECIDAE_02955	CDS			hypothetical protein
+NJECIDAE_02956	CDS			hypothetical protein
+NJECIDAE_02957	CDS			hypothetical protein
+NJECIDAE_02958	CDS			hypothetical protein
+NJECIDAE_02959	CDS			hypothetical protein
+NJECIDAE_02960	CDS			hypothetical protein
+NJECIDAE_02961	CDS			hypothetical protein
+NJECIDAE_02962	CDS			hypothetical protein
+NJECIDAE_02963	CDS	ssb_2		Single-stranded DNA-binding protein
+NJECIDAE_02964	CDS	ssbA		Single-stranded DNA-binding protein A
+NJECIDAE_02965	CDS			hypothetical protein
+NJECIDAE_02966	CDS			hypothetical protein
+NJECIDAE_02967	CDS			hypothetical protein
+NJECIDAE_02968	CDS	topB_3	5.99.1.2	DNA topoisomerase 3
+NJECIDAE_02969	CDS			hypothetical protein
+NJECIDAE_02970	CDS			hypothetical protein
+NJECIDAE_02971	CDS			hypothetical protein
+NJECIDAE_02972	CDS			hypothetical protein
+NJECIDAE_02973	CDS			hypothetical protein
+NJECIDAE_02974	CDS			hypothetical protein
+NJECIDAE_02975	CDS			hypothetical protein
+NJECIDAE_02976	CDS			hypothetical protein
+NJECIDAE_02977	CDS			hypothetical protein
+NJECIDAE_02978	CDS			hypothetical protein
+NJECIDAE_02979	CDS			hypothetical protein
+NJECIDAE_02980	CDS			hypothetical protein
+NJECIDAE_02981	CDS			hypothetical protein
+NJECIDAE_02982	CDS			hypothetical protein
+NJECIDAE_02983	CDS			hypothetical protein
+NJECIDAE_02984	CDS			hypothetical protein
+NJECIDAE_02985	CDS			hypothetical protein
+NJECIDAE_02986	CDS			hypothetical protein
+NJECIDAE_02987	CDS			hypothetical protein
+NJECIDAE_02988	CDS			hypothetical protein
+NJECIDAE_02989	CDS	ltrA_5		Group II intron-encoded protein LtrA
+NJECIDAE_02990	CDS			hypothetical protein
+NJECIDAE_02991	CDS			hypothetical protein
+NJECIDAE_02992	CDS			hypothetical protein
+NJECIDAE_02993	CDS			hypothetical protein
+NJECIDAE_02994	CDS			hypothetical protein
+NJECIDAE_02995	CDS			hypothetical protein
+NJECIDAE_02996	CDS			hypothetical protein
+NJECIDAE_02997	CDS			hypothetical protein
+NJECIDAE_02998	CDS			hypothetical protein
+NJECIDAE_02999	CDS			hypothetical protein
+NJECIDAE_03000	CDS			hypothetical protein
+NJECIDAE_03001	CDS			hypothetical protein
+NJECIDAE_03002	CDS			hypothetical protein
+NJECIDAE_03003	CDS			hypothetical protein
+NJECIDAE_03004	CDS			hypothetical protein
+NJECIDAE_03005	CDS			hypothetical protein
+NJECIDAE_03006	CDS			hypothetical protein
+NJECIDAE_03007	CDS			hypothetical protein
+NJECIDAE_03008	CDS			hypothetical protein
+NJECIDAE_03009	CDS			hypothetical protein
+NJECIDAE_03010	CDS			hypothetical protein
+NJECIDAE_03011	CDS			hypothetical protein
+NJECIDAE_03012	CDS			hypothetical protein
+NJECIDAE_03013	CDS			hypothetical protein
+NJECIDAE_03014	CDS			hypothetical protein
+NJECIDAE_03015	CDS			hypothetical protein
+NJECIDAE_03016	CDS			hypothetical protein
+NJECIDAE_03017	CDS			hypothetical protein
+NJECIDAE_03018	CDS	walR_2		Transcriptional regulatory protein WalR
+NJECIDAE_03019	CDS	walK_3	2.7.13.3	Sensor protein kinase WalK
+NJECIDAE_03020	CDS	vanH_1	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+NJECIDAE_03021	CDS	vanA_1	6.1.2.1	Vancomycin/teicoplanin A-type resistance protein VanA
+NJECIDAE_03022	CDS	vanX_1	3.4.13.22	D-alanyl-D-alanine dipeptidase
+NJECIDAE_03023	CDS			hypothetical protein
+NJECIDAE_03024	CDS			hypothetical protein
+NJECIDAE_03025	CDS			hypothetical protein
+NJECIDAE_03026	CDS			hypothetical protein
+NJECIDAE_03027	CDS			hypothetical protein
+NJECIDAE_03028	CDS			hypothetical protein
+NJECIDAE_03029	CDS	bin3_2		Putative transposon Tn552 DNA-invertase bin3
+NJECIDAE_03030	CDS			hypothetical protein
+NJECIDAE_03031	CDS			hypothetical protein
+NJECIDAE_03032	CDS			hypothetical protein
+NJECIDAE_03033	CDS			hypothetical protein
+NJECIDAE_03034	CDS			hypothetical protein
+NJECIDAE_03035	CDS			hypothetical protein
+NJECIDAE_03036	CDS	bin3_3		Putative transposon Tn552 DNA-invertase bin3
+NJECIDAE_03037	CDS	ligA_2	6.5.1.2	DNA ligase
+NJECIDAE_03038	CDS			hypothetical protein
+NJECIDAE_03039	CDS	bin3_4		Putative transposon Tn552 DNA-invertase bin3
+NJECIDAE_03040	CDS			hypothetical protein
+NJECIDAE_03041	CDS			hypothetical protein
+NJECIDAE_03042	CDS			hypothetical protein
+NJECIDAE_03043	CDS	repD		Replication initiation protein
+NJECIDAE_03044	CDS			hypothetical protein
+NJECIDAE_03045	CDS			hypothetical protein
+NJECIDAE_03046	CDS			hypothetical protein
+NJECIDAE_03047	CDS			hypothetical protein
+NJECIDAE_03048	CDS			hypothetical protein
+NJECIDAE_03049	CDS			hypothetical protein
+NJECIDAE_03050	CDS	repN		Replication initiation protein
+NJECIDAE_03051	CDS			hypothetical protein
+NJECIDAE_03052	CDS			hypothetical protein
+NJECIDAE_03053	CDS			hypothetical protein
+NJECIDAE_03054	CDS	soj_3	3.6.-.-	Sporulation initiation inhibitor protein Soj
+NJECIDAE_03055	CDS			hypothetical protein
+NJECIDAE_03056	CDS			hypothetical protein
+NJECIDAE_03057	CDS			hypothetical protein
+NJECIDAE_03058	CDS	walR_3		Transcriptional regulatory protein WalR
+NJECIDAE_03059	CDS	walK_4	2.7.13.3	Sensor protein kinase WalK
+NJECIDAE_03060	CDS	vanH_2	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+NJECIDAE_03061	CDS	vanA_2	6.1.2.1	Vancomycin/teicoplanin A-type resistance protein VanA
+NJECIDAE_03062	CDS	vanX_2	3.4.13.22	D-alanyl-D-alanine dipeptidase
+NJECIDAE_03063	CDS			hypothetical protein
+NJECIDAE_03064	CDS			hypothetical protein
+NJECIDAE_03065	CDS			hypothetical protein
+NJECIDAE_03066	CDS			hypothetical protein
+NJECIDAE_03067	CDS			hypothetical protein
+NJECIDAE_03068	CDS	tee6		Trypsin-resistant surface T6 protein
+NJECIDAE_03069	CDS			hypothetical protein
+NJECIDAE_03070	CDS			hypothetical protein
+NJECIDAE_03071	CDS			hypothetical protein
+NJECIDAE_03072	CDS			hypothetical protein
+NJECIDAE_03073	CDS			hypothetical protein
+NJECIDAE_03074	CDS			hypothetical protein
+NJECIDAE_03075	CDS			hypothetical protein
+NJECIDAE_03076	CDS			hypothetical protein
+NJECIDAE_03077	CDS			hypothetical protein
+NJECIDAE_03078	CDS	soj_4	3.6.-.-	Sporulation initiation inhibitor protein Soj
+NJECIDAE_03079	CDS			hypothetical protein
+NJECIDAE_03080	CDS			hypothetical protein
+NJECIDAE_03081	CDS			hypothetical protein
+NJECIDAE_03082	CDS			hypothetical protein
+NJECIDAE_03083	CDS	dinB_3	2.7.7.7	DNA polymerase IV
+NJECIDAE_03084	CDS	bin3_5		Putative transposon Tn552 DNA-invertase bin3
+NJECIDAE_03085	CDS	pemK	3.1.-.-	Endoribonuclease PemK
+NJECIDAE_03086	CDS	mazE		Antitoxin MazE
+NJECIDAE_03087	CDS			hypothetical protein
+NJECIDAE_03088	CDS			hypothetical protein
+NJECIDAE_03089	CDS			hypothetical protein
+NJECIDAE_03090	CDS			hypothetical protein
+NJECIDAE_03091	CDS			hypothetical protein
+NJECIDAE_03092	CDS			hypothetical protein
+NJECIDAE_03093	CDS			hypothetical protein
+NJECIDAE_03094	CDS			hypothetical protein
+NJECIDAE_03095	CDS	ssb_3		Single-stranded DNA-binding protein
+NJECIDAE_03096	CDS			hypothetical protein
+NJECIDAE_03097	CDS			hypothetical protein
+NJECIDAE_03098	CDS			hypothetical protein
+NJECIDAE_03099	CDS	topB_4	5.99.1.2	DNA topoisomerase 3
+NJECIDAE_03100	CDS			hypothetical protein
+NJECIDAE_03101	CDS			hypothetical protein
+NJECIDAE_03102	CDS			hypothetical protein
+NJECIDAE_03103	CDS			hypothetical protein
+NJECIDAE_03104	CDS			hypothetical protein
+NJECIDAE_03105	CDS			hypothetical protein
+NJECIDAE_03106	CDS			hypothetical protein
+NJECIDAE_03107	CDS			hypothetical protein
+NJECIDAE_03108	CDS			hypothetical protein
+NJECIDAE_03109	CDS			hypothetical protein
+NJECIDAE_03110	CDS			hypothetical protein
+NJECIDAE_03111	CDS			hypothetical protein
+NJECIDAE_03112	CDS			hypothetical protein
+NJECIDAE_03113	CDS			hypothetical protein
+NJECIDAE_03114	CDS			hypothetical protein
+NJECIDAE_03115	CDS			hypothetical protein
+NJECIDAE_03116	CDS			hypothetical protein
+NJECIDAE_03117	CDS			hypothetical protein
+NJECIDAE_03118	CDS			hypothetical protein
+NJECIDAE_03119	CDS			hypothetical protein
+NJECIDAE_03120	CDS			hypothetical protein
+NJECIDAE_03121	CDS			hypothetical protein
+NJECIDAE_03122	CDS			hypothetical protein
+NJECIDAE_03123	CDS			hypothetical protein
+NJECIDAE_03124	CDS			hypothetical protein
+NJECIDAE_03125	CDS			hypothetical protein
+NJECIDAE_03126	CDS	soj_5	3.6.-.-	Sporulation initiation inhibitor protein Soj
+NJECIDAE_03127	CDS			hypothetical protein
+NJECIDAE_03128	CDS			hypothetical protein
+NJECIDAE_03129	CDS			hypothetical protein
+NJECIDAE_03130	CDS	dinB_4	2.7.7.7	DNA polymerase IV
+NJECIDAE_03131	CDS	bin3_6		Putative transposon Tn552 DNA-invertase bin3
+NJECIDAE_03132	CDS			hypothetical protein
+NJECIDAE_03133	CDS			hypothetical protein
+NJECIDAE_03134	CDS			hypothetical protein
+NJECIDAE_03135	CDS	yoeB	3.1.-.-	Toxin YoeB
+NJECIDAE_03136	CDS			hypothetical protein
+NJECIDAE_03137	CDS			hypothetical protein
+NJECIDAE_03138	CDS			hypothetical protein
+NJECIDAE_03139	CDS			hypothetical protein
+NJECIDAE_03140	CDS			hypothetical protein
+NJECIDAE_03141	CDS			hypothetical protein
+NJECIDAE_03142	CDS			hypothetical protein
+NJECIDAE_03143	CDS			hypothetical protein
+NJECIDAE_03144	CDS	soj_6	3.6.-.-	Sporulation initiation inhibitor protein Soj
+NJECIDAE_03145	CDS			hypothetical protein
+NJECIDAE_03146	CDS	yxdL_2		ABC transporter ATP-binding protein YxdL
+NJECIDAE_03147	CDS	ecfA2_2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+NJECIDAE_03148	CDS			hypothetical protein
+NJECIDAE_03149	CDS			hypothetical protein
+NJECIDAE_03150	CDS			hypothetical protein
+NJECIDAE_03151	CDS			hypothetical protein
+NJECIDAE_03152	CDS			hypothetical protein
+NJECIDAE_03153	CDS			hypothetical protein
+NJECIDAE_03154	CDS			hypothetical protein
+NJECIDAE_03155	CDS	immR		HTH-type transcriptional regulator ImmR
+NJECIDAE_03156	CDS			hypothetical protein
+NJECIDAE_03157	CDS			hypothetical protein
+NJECIDAE_03158	CDS			hypothetical protein
+NJECIDAE_03159	CDS			hypothetical protein
+NJECIDAE_03160	CDS			hypothetical protein
+NJECIDAE_03161	CDS			hypothetical protein
+NJECIDAE_03162	CDS			hypothetical protein
+NJECIDAE_03163	CDS			hypothetical protein
+NJECIDAE_03164	CDS			hypothetical protein
+NJECIDAE_03165	CDS			hypothetical protein
+NJECIDAE_03166	CDS	pgdS_2	3.4.19.-	Gamma-DL-glutamyl hydrolase
+NJECIDAE_03167	CDS			hypothetical protein
+NJECIDAE_03168	CDS			hypothetical protein
+NJECIDAE_03169	CDS			hypothetical protein
+NJECIDAE_03170	CDS			hypothetical protein
+NJECIDAE_03171	CDS			hypothetical protein
+NJECIDAE_03172	CDS			hypothetical protein
+NJECIDAE_03173	CDS			hypothetical protein
+NJECIDAE_03174	CDS			hypothetical protein
+NJECIDAE_03175	CDS			hypothetical protein
+NJECIDAE_03176	CDS			hypothetical protein
+NJECIDAE_03177	CDS			hypothetical protein
+NJECIDAE_03178	CDS			hypothetical protein
+NJECIDAE_03179	CDS	ltrA_6		Group II intron-encoded protein LtrA
+NJECIDAE_03180	CDS			hypothetical protein
+NJECIDAE_03181	CDS			hypothetical protein
+NJECIDAE_03182	CDS			hypothetical protein
+NJECIDAE_03183	CDS			hypothetical protein
+NJECIDAE_03184	CDS			hypothetical protein
+NJECIDAE_03185	CDS			hypothetical protein
+NJECIDAE_03186	CDS			hypothetical protein
+NJECIDAE_03187	CDS			hypothetical protein
+NJECIDAE_03188	CDS			hypothetical protein
+NJECIDAE_03189	CDS	ptlH		Type IV secretion system protein PtlH
+NJECIDAE_03190	CDS			hypothetical protein
+NJECIDAE_03191	CDS			hypothetical protein
+NJECIDAE_03192	CDS			hypothetical protein
+NJECIDAE_03193	CDS			hypothetical protein
+NJECIDAE_03194	CDS			hypothetical protein
+NJECIDAE_03195	CDS			hypothetical protein
+NJECIDAE_03196	CDS			hypothetical protein
