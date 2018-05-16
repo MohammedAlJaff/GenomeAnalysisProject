@@ -21,4 +21,4 @@ cp /home/mohamma/genome_analysis/GenomeAnalysisProject/generated_data/canu_pacbi
 # index the ref genome
 bwa index efaecium.contigs.fasta
 # run bwa mapping
-bwa mem efaecium.contigs.fasta /home/mohamma/genome_analysis/GenomeAnalysisProject/data_links/rna_trimmed_reads/rnaseq_reads/serum_condition/replicate_3/trim_paired_ERR1797974_pass_1.fastq.gz /home/mohamma/genome_analysis/GenomeAnalysisProject/data_links/rna_trimmed_reads/rnaseq_reads/serum_condition/replicate_3/trim_paired_ERR1797974_pass_2.fastq.gz | samtools sort -O BAM -@ 2 -o bwa_rna_serum_rep3_.bam -
+bwa mem efaecium.contigs.fasta /home/mohamma/genome_analysis/GenomeAnalysisProject/data_links/rna_trimmed_reads/rnaseq_reads/serum_condition/replicate_3/trim_paired_ERR1797971_pass_1.fastq.gz /home/mohamma/genome_analysis/GenomeAnalysisProject/data_links/rna_trimmed_reads/rnaseq_reads/serum_condition/replicate_3/trim_paired_ERR1797971_pass_2.fastq.gz | samtools sort -O BAM -@ 2 -o bwa_rna_serum_rep3_.bam -
