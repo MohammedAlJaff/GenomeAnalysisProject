@@ -3,7 +3,7 @@
 #SBATCH -A g2018003
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 8:00:00
+#SBATCH -t 4:00:00
 #SBATCH -J bwa_ref_indexing
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user Mohammad.Al-Jaff.5978@student.uu.se

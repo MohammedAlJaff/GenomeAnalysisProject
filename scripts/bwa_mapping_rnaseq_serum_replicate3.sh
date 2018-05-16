@@ -4,7 +4,7 @@
 #SBATCH -p core
 #SBATCH -n 2
 #SBATCH -t 8:00:00
-#SBATCH -J bwa_rna_serum_rep2
+#SBATCH -J bwa_rna_serum_rep3
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user Mohammad.Al-Jaff.5978@student.uu.se
 
